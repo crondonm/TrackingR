@@ -4,14 +4,22 @@ Authors: Francisco Arroyo, Francisco Bullano, Simas Kucinskas, and Carlos Rondó
 
 Suggested Citation: Arroyo-Marioli F, Bullano F, Kucinskas S, Rondón-Moreno C (2021) Tracking of COVID-19: A new real-time estimation using the Kalman filter. PLoS ONE 16(1): e0244474. https://doi.org/10.1371/journal.pone.0244474
 
-## Variable Dictionary
+## Variables Included
+
 Country/Region
+
 Date
+
 R: contains the median estimate for Rt
+
 CI_95_u: Upper limit 95% credible interval
+
 CI_95_l: Lower limit 95% credible interval
+
 CI_65_u: Upper limit 65% credible interval
+
 CI_65_l: Lower limit 65% credible interval
+
 Days_infectious: Serial interval for Covid-19. We provide a range from 5 to 10 days. An extense discussion on the effect of changing the serial interval can be found on the paper. Recent studies find that estimates of the serial interval for COVID-19 range between 4 and 9 days (Nishiura et al.,2020b;Park et al.,2020;Sanche et al.,2020). We suggest using 7 days (the average of the range) as point of reference. 
 
 ## Replication Files
