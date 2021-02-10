@@ -20,34 +20,44 @@ output_folder        = './construct_dataset/output'
 
 df = pd.read_csv('{}/dataset.csv'.format(output_folder))
 
-# Separar de A-D
-df_AB=df[df["Country/Region"].str[0:1]=="A"]
-df_temp1=df[df["Country/Region"].str[0:1]=="B"]
-df_AB=df_AB.append(df_temp1)
+# Splice Database
 
-df_CD=df[df["Country/Region"].str[0:1]=="C"]
-df_temp1=df[df["Country/Region"].str[0:1]=="D"]
-df_CD=df_CD.append(df_temp1)
+df_A=df[df["Country/Region"].str[0:1]=="A"]
+df_B=df[df["Country/Region"].str[0:1]=="B"]
+df_C=df[df["Country/Region"].str[0:1]=="C"]
+df_D=df[df["Country/Region"].str[0:1]=="D"]
 
-df_EH=df[df["Country/Region"].str[0:1]=="E"]
-for i in ["F","G","H"]:
-    df_temp2=df[df["Country/Region"].str[0:1]==i]
-    df_EH=df_EH.append(df_temp2)
+df_EF=df[df["Country/Region"].str[0:1]=="E"]
+df_temp1=df[df["Country/Region"].str[0:1]=="F"]
+df_EF=df_EF.append(df_temp1)
 
-df_IL=df[df["Country/Region"].str[0:1]=="I"]
-for i in ["J","K","L"]:
-    df_temp2=df[df["Country/Region"].str[0:1]==i]
-    df_IL=df_IL.append(df_temp2)
+df_GH=df[df["Country/Region"].str[0:1]=="G"]
+df_temp1=df[df["Country/Region"].str[0:1]=="H"]
+df_GH=df_GH.append(df_temp1)
 
-df_MP=df[df["Country/Region"].str[0:1]=="M"]
-for i in ["N","O","P"]:
-    df_temp2=df[df["Country/Region"].str[0:1]==i]
-    df_MP=df_MP.append(df_temp2)
+df_IJ=df[df["Country/Region"].str[0:1]=="I"]
+df_temp1=df[df["Country/Region"].str[0:1]=="J"]
+df_IJ=df_IJ.append(df_temp1)
 
-df_QT=df[df["Country/Region"].str[0:1]=="Q"]
-for i in ["R","S","T"]:
-    df_temp3=df[df["Country/Region"].str[0:1]==i]
-    df_QT=df_QT.append(df_temp3)
+df_KL=df[df["Country/Region"].str[0:1]=="K"]
+df_temp1=df[df["Country/Region"].str[0:1]=="L"]
+df_KL=df_KL.append(df_temp1)
+
+df_MN=df[df["Country/Region"].str[0:1]=="M"]
+df_temp1=df[df["Country/Region"].str[0:1]=="N"]
+df_MN=df_MN.append(df_temp1)
+
+df_OP=df[df["Country/Region"].str[0:1]=="O"]
+df_temp1=df[df["Country/Region"].str[0:1]=="P"]
+df_OP=df_OP.append(df_temp1)
+
+df_QR=df[df["Country/Region"].str[0:1]=="Q"]
+df_temp1=df[df["Country/Region"].str[0:1]=="R"]
+df_QR=df_QR.append(df_temp1)
+
+df_ST=df[df["Country/Region"].str[0:1]=="S"]
+df_temp1=df[df["Country/Region"].str[0:1]=="T"]
+df_ST=df_ST.append(df_temp1)
 
 df_UZ=df[df["Country/Region"].str[0:1]=="U"]
 for i in ["V","W","X","Y","Z"]:
@@ -56,12 +66,18 @@ for i in ["V","W","X","Y","Z"]:
 
 
 # Save final dataset
-df_AB.to_csv('{}/dataset_AB.csv'.format(output_folder), index = False)
-df_CD.to_csv('{}/dataset_CD.csv'.format(output_folder), index = False)
-df_EH.to_csv('{}/dataset_EH.csv'.format(output_folder), index = False)
-df_IL.to_csv('{}/dataset_IL.csv'.format(output_folder), index = False)
-df_MP.to_csv('{}/dataset_MP.csv'.format(output_folder), index = False)
-df_QT.to_csv('{}/dataset_QT.csv'.format(output_folder), index = False)
+df_A.to_csv('{}/dataset_A.csv'.format(output_folder), index = False)
+df_B.to_csv('{}/dataset_B.csv'.format(output_folder), index = False)
+df_C.to_csv('{}/dataset_C.csv'.format(output_folder), index = False)
+df_D.to_csv('{}/dataset_D.csv'.format(output_folder), index = False)
+df_EF.to_csv('{}/dataset_EF.csv'.format(output_folder), index = False)
+df_GH.to_csv('{}/dataset_GH.csv'.format(output_folder), index = False)
+df_IJ.to_csv('{}/dataset_IJ.csv'.format(output_folder), index = False)
+df_KL.to_csv('{}/dataset_KL.csv'.format(output_folder), index = False)
+df_MN.to_csv('{}/dataset_MN.csv'.format(output_folder), index = False)
+df_OP.to_csv('{}/dataset_OP.csv'.format(output_folder), index = False)
+df_QR.to_csv('{}/dataset_QR.csv'.format(output_folder), index = False)
+df_ST.to_csv('{}/dataset_ST.csv'.format(output_folder), index = False)
 df_UZ.to_csv('{}/dataset_UZ.csv'.format(output_folder), index = False)
 
 
