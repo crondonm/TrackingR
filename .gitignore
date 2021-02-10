@@ -139,3 +139,4 @@ cython_debug/
 .DS_Store
 .DS_Store
 code/python/download_data/.DS_Store
+.DS_Store
