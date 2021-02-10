@@ -1,0 +1,30 @@
+\begin{tabular}{@{\extracolsep{5pt}}lccccc}
+\toprule& \multicolumn{5}{c}{\textit{Dependent Variable: $\log(R_t)$}} \
+\cr \cmidrule{2-6}
+& (1) & (2) & (3) & (4) & (5) \\
+\midrule 
+ Lockdown & -0.14$^{***}$ & & & & \\
+  & (0.04) & & & & \\
+  & & & & & \\
+ Public Events & & 0.07$^{}$ & & & \\
+  & & (0.04) & & & \\
+  & & & & & \\
+ School Closure & & & -0.17$^{***}$ & & \\
+  & & & (0.05) & & \\
+  & & & & & \\
+ Self Isolation & & & & -0.15$^{***}$ & \\
+  & & & & (0.05) & \\
+  & & & & & \\
+ Social Distancing & & & & & -0.13$^{**}$ \\
+  & & & & & (0.06) \\
+  & & & & & \\
+\hline \\[-1.8ex]
+ $N$ & 855 & 855 & 855 & 855 & 855 \\
+ $R^{2}$ & 0.86 & 0.86 & 0.86 & 0.86 & 0.86 \\
+ Country FE & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark \\
+ Days-Since-Outbreak FE & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark \\
+ Mobility Controls &  &  &  &  &  \\
+ Testing Controls &  &  &  &  &  \\
+\bottomrule
+\\[-1.8ex]\textit{} & \multicolumn{5}{r}{$^{*}p<$0.1; $^{**}p<$0.05; $^{***}p<$0.01} \\
+\end{tabular}

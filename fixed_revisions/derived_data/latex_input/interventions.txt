@@ -1,0 +1,30 @@
+\begin{tabular}{@{\extracolsep{5pt}}lcccc}
+\toprule& \multicolumn{4}{c}{\textit{Dependent Variable: $\log(R_t)$}} \
+\cr \cmidrule{2-5}
+& (1) & (2) & (3) & (4) \\
+\midrule 
+ Lockdown & -0.65$^{***}$ & -0.13$^{**}$ & -0.1$^{**}$ & -0.04$^{}$ \\
+  & (0.04) & (0.05) & (0.05) & (0.06) \\
+  & & & & \\
+ Public Events & -0.09$^{*}$ & 0.22$^{***}$ & 0.21$^{***}$ & 0.36$^{***}$ \\
+  & (0.04) & (0.04) & (0.04) & (0.08) \\
+  & & & & \\
+ School Closure & -0.02$^{}$ & -0.19$^{***}$ & -0.18$^{***}$ & -0.1$^{}$ \\
+  & (0.06) & (0.05) & (0.06) & (0.08) \\
+  & & & & \\
+ Self Isolation & -0.13$^{**}$ & -0.09$^{**}$ & -0.04$^{}$ & 0.01$^{}$ \\
+  & (0.06) & (0.05) & (0.05) & (0.08) \\
+  & & & & \\
+ Social Distancing & -0.15$^{**}$ & -0.08$^{}$ & -0.11$^{*}$ & -0.14$^{*}$ \\
+  & (0.06) & (0.06) & (0.06) & (0.08) \\
+  & & & & \\
+\hline \\[-1.8ex]
+ $N$ & 855 & 855 & 848 & 488 \\
+ $R^{2}$ & 0.53 & 0.87 & 0.88 & 0.91 \\
+ Country FE & \checkmark & \checkmark & \checkmark & \checkmark \\
+ Days-Since-Outbreak FE &  & \checkmark & \checkmark & \checkmark \\
+ Mobility Controls &  &  & \checkmark & \checkmark \\
+ Testing Controls &  &  &  & \checkmark \\
+\bottomrule
+\\[-1.8ex]\textit{} & \multicolumn{4}{r}{$^{*}p<$0.1; $^{**}p<$0.05; $^{***}p<$0.01} \\
+\end{tabular}

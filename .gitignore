@@ -123,3 +123,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
+code/python/__init__.py
+code/python/construct_dataset/__init__.py
+code/python/download_data/__init__.py
+code/python/estimate_R/__init__.py
+code/python/tests/__init__.py
+code/python/download_data/output/Global_Mobility_Report.csv
+code/python/download_data/output/R_EpiEstim.csv
+fixed_revisions/original_data/R_EpiEstim.csv
+fixed_revisions/original_data/Global_Mobility_Report.csv
