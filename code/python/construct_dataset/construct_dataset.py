@@ -91,6 +91,7 @@ mask = df['Country/Region'] != 'Diamond Princess'
 df = df.loc[mask, ]
 
 # Fix a few country names
+df['Country/Region'] = df['Country/Region'].apply(lambda x: 'United States' if x == 'US' else x)
 df['Country/Region'] = df['Country/Region'].apply(lambda x: 'Taiwan' if x == 'Taiwan*' else x)
 df['Country/Region'] = df['Country/Region'].apply(lambda x: 'South Korea' if x == 'Korea, South' else x)
 
