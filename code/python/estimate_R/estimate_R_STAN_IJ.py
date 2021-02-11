@@ -40,7 +40,7 @@ for days_infectious in days_infectious_list:
   ## Load data ##
   ###############
   
-  df = pd.read_csv('{}/dataset_IJ.csv'.format(input_folder))
+  df = pd.read_csv('{}/dataset_IJ.csv.format(input_folder))
   df['Date'] = pd.to_datetime(df['Date'])
 
   # Impose minimum time-series observations
