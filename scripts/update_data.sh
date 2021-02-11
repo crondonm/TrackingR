@@ -1,6 +1,11 @@
 #!/bin/bash
+#$ -M crondonm@nd.edu     # Email address for job notification
+#$ -m abe                 # Send mail when job begins, ends and aborts
+#$ -q long                # Specify queue
+#$ -pe smp 1              # Specify number of cores to use.
+#$ -N Update Data         # Specify job name
 
-# Run time: ~1 minute
+
 
 # Remove existing fixed data revisions (if any exist)
 rm -r ../fixed_revisions/original_data/

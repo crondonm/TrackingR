@@ -18,7 +18,7 @@ from python.tools import (
 ################
 
 output_folder = './estimate_R/output/estimate_R_STAN'
-input_folder = './estimate_R/input/estimate_R_STAN'
+input_folder  = './estimate_R/input/estimate_R_STAN'
 min_T = 20
 days_infectious_list = [5, 6, 7, 8, 9, 10] # Values of (1 / gamma) used in constructing
                                            # time series of infected individuals
@@ -40,7 +40,7 @@ for days_infectious in days_infectious_list:
   ## Load data ##
   ###############
   
-  df = pd.read_csv('{}/dataset_CD.csv'.format(input_folder))
+  df = pd.read_csv('{}/dataset_UZ.csv'.format(input_folder))
   df['Date'] = pd.to_datetime(df['Date'])
 
   # Impose minimum time-series observations
@@ -99,7 +99,7 @@ for days_infectious in days_infectious_list:
            'n_eff_pct', 'Rhat_diff', 
            'signal_to_noise', 'var_irregular']].copy()
   df['days_infectious'] = days_infectious
-  df.to_csv('{}/estimated_R_CD_{}.csv'.format(output_folder, days_infectious), index = False)
+  df.to_csv('{}/estimated_R_UZ_{}.csv'.format(output_folder, days_infectious), index = False)
 
 ####################################
 ## Combine results into single df ##
@@ -107,7 +107,7 @@ for days_infectious in days_infectious_list:
 
 res = []
 for days_infectious in days_infectious_list:
-    df_temp = pd.read_csv('{}/estimated_R_CD_{}.csv'.format(output_folder, days_infectious))
+    df_temp = pd.read_csv('{}/estimated_R_UZ_{}.csv'.format(output_folder, days_infectious))
     res.append(df_temp)
 
 df = pd.concat(res)
@@ -121,4 +121,4 @@ if mask.sum() > 0:
 
 # Save estimates
 df['last_updated'] = datetime.today().strftime('%Y-%m-%d')
-df.to_csv('{}/estimated_R_CD.csv'.format(output_folder), index = False)  
+df.to_csv('{}/estimated_R_UZ.csv'.format(output_folder), index = False)  

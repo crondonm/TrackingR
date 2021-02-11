@@ -1,90 +1,30 @@
 #!/bin/bash
+#$ -M crondonm@nd.edu     # Email address for job notification
+#$ -m abe                 # Send mail when job begins, ends and aborts
+#$ -q long                # Specify queue
+#$ -pe smp 1              # Specify number of cores to use.
+#$ -N TrackingR           # Specify job name
 
-# Run time: ~6 hours 
 
-# Remove existing fixed data revisions 
-rm -r ../fixed_revisions/derived_data/dataset/
-rm -r ../fixed_revisions/derived_data/KF_results/
-rm -r ../fixed_revisions/derived_data/STAN_models/
-rm -r ../fixed_revisions/derived_data/R_estimates/
 
-mkdir ../fixed_revisions/derived_data/dataset/
-mkdir ../fixed_revisions/derived_data/KF_results/
-mkdir ../fixed_revisions/derived_data/STAN_models/
-mkdir ../fixed_revisions/derived_data/R_estimates/
 
-# Construct dataset for empirical analysis
-echo "Constructing dataset"
-cp ../fixed_revisions/original_data/time_series_covid19_confirmed_global.csv ../code/python/construct_dataset/input/
-cp ../fixed_revisions/original_data/time_series_covid19_deaths_global.csv ../code/python/construct_dataset/input/
-cp ../fixed_revisions/original_data/time_series_covid19_recovered_global.csv ../code/python/construct_dataset/input/
-cd ../code/python
-python3 -W ignore -m construct_dataset.construct_dataset
-cp ./construct_dataset/output/dataset.csv ../../fixed_revisions/derived_data/dataset/
+qsub -N job1 update_data.sh                         # Download Data
+qsub -N job2 -hold_jid job1 prepare_estim.sh        # Prepare estimation: Construct databases + Run priors
+qsub -N job3 -hold_jid job2 estimate_R_A.sh         # Estimation for each letter:
+# qsub -N job4 -hold_jid job2 estimate_R_B.sh
+# qsub -N job5 -hold_jid job2 estimate_R_C.sh
+# qsub -N job6 -hold_jid job2 estimate_R_D.sh
+# qsub -N job7 -hold_jid job2 estimate_R_EF.sh
+# qsub -N job8 -hold_jid job2 estimate_R_GH.sh
+# qsub -N job9 -hold_jid job2 estimate_R_IJ.sh
+# qsub -N job10 -hold_jid job2 estimate_R_KL.sh
+# qsub -N job11 -hold_jid job2 estimate_R_MN.sh
+# qsub -N job12 -hold_jid job2 estimate_R_OP.sh
+# qsub -N job14 -hold_jid job2 estimate_R_QR.sh
+# qsub -N job15 -hold_jid job2 estimate_R_ST.sh
+# qsub -N job16 -hold_jid job2 estimate_R_UZ.sh
 
-# Run unit tests on the constructed dataset
-cd ./tests/
-nosetests tests_dataset.py -v > tests_dataset.txt 2>&1
-cd ..
 
-# Estimate R using Kalman filter to obtain
-# estimates of the variance of disturbances
-# and signal-to-noise ratio (used for calibrating
-# priors in Bayesian filtering with STAN)
-echo "Getting Kalman filter estimates"
-cd ./estimate_R
-rm -r ./input/
-mkdir ./input/
-mkdir ./input/estimate_R_KF/
-cp ../../../fixed_revisions/derived_data/dataset/dataset.csv ./input/estimate_R_KF/
-cd ..
-python3 -W ignore -m estimate_R.estimate_R_KF
-cp ./estimate_R/output/estimate_R_KF/optim_res.csv ../../fixed_revisions/derived_data/KF_results/
 
-# Estimate R using Bayesian filtering
-echo "Constructing STAN models"
-cd ./estimate_R
-mkdir ./input/construct_STAN_models/
-cp ../../../fixed_revisions/derived_data/KF_results/optim_res.csv ./input/construct_STAN_models/
-cd ..
-python3 -W ignore -m estimate_R.construct_STAN_models
-cp ./estimate_R/output/construct_STAN_models/model_missing.pkl ../../fixed_revisions/derived_data/STAN_models/
-cp ./estimate_R/output/construct_STAN_models/model_no_missing.pkl ../../fixed_revisions/derived_data/STAN_models/
 
-echo "Estimating R with STAN"
-cd ./estimate_R
-mkdir ./input/estimate_R_STAN/
-cp ../../../fixed_revisions/derived_data/dataset/dataset.csv ./input/estimate_R_STAN/
-cp ../../../fixed_revisions/derived_data/STAN_models/model_missing.pkl ./input/estimate_R_STAN/
-cp ../../../fixed_revisions/derived_data/STAN_models/model_no_missing.pkl ./input/estimate_R_STAN/
-cd ..
-python3 -W ignore -m estimate_R.estimate_R_STAN
-cp ./estimate_R/output/estimate_R_STAN/estimated_R.csv ../../fixed_revisions/derived_data/R_estimates/
-
-# Run unit tests on the estimates
-cd ./tests/
-nosetests tests_estimates.py -v > tests_estimates.txt 2>&1
-cd ..
-
-echo "Get example graph of filter vs smoother"
-cd ./estimate_R
-mkdir ./input/example_filter_smoother/
-cp ../../../fixed_revisions/derived_data/dataset/dataset.csv ./input/example_filter_smoother/
-cp ../../../fixed_revisions/derived_data/STAN_models/model_missing.pkl ./input/example_filter_smoother/
-cp ../../../fixed_revisions/derived_data/STAN_models/model_no_missing.pkl ./input/example_filter_smoother/
-cd ..
-python3 -W ignore -m estimate_R.example_filter_smoother
-cp ./estimate_R/output/example_filter_smoother/filter_smoother.pgf ../../fixed_revisions/derived_data/latex_input/
-
-# Plot estimated R
-echo "Plotting estimates"
-cd ./get_graphs
-rm -r ./input/
-mkdir ./input/
-cp ../../../fixed_revisions/derived_data/R_estimates/estimated_R.csv ./input/
-cp ../../../fixed_revisions/derived_data/dataset/dataset.csv ./input/
-cp ../../../fixed_revisions/original_data/interventions.csv ./input/
-cd ..
-python3 -W ignore -m get_graphs.plot_R
-cp ./get_graphs/output/R/R_World.pgf ../../fixed_revisions/derived_data/latex_input/
-cp ./get_graphs/output/R/R_countries.pgf ../../fixed_revisions/derived_data/latex_input/
+# echo "Appending results into single file"

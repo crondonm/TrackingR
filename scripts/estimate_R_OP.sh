@@ -3,19 +3,19 @@
 #$ -m abe                 # Send mail when job begins, ends and aborts
 #$ -q long                # Specify queue
 #$ -pe smp 1              # Specify number of cores to use.
-#$ -N Tr_Ns_1        # Specify job name
+#$ -N RT-OP               # Specify job name
 
 
 module load python
 echo "Estimating R with STAN"
 cd ../code/python
 cd ./estimate_R
-cp ../../../fixed_revisions/derived_data/dataset/dataset_AB.csv           ./input/estimate_R_STAN/
+cp ../../../fixed_revisions/derived_data/dataset/dataset_OP.csv           ./input/estimate_R_STAN/
 cp ../../../fixed_revisions/derived_data/STAN_models/model_missing.pkl    ./input/estimate_R_STAN/
 cp ../../../fixed_revisions/derived_data/STAN_models/model_no_missing.pkl ./input/estimate_R_STAN/
 cd ..
-python3 -W ignore -m estimate_R.estimate_R_STAN_1
-cp ./estimate_R/output/estimate_R_STAN/estimated_R_AB.csv ../../fixed_revisions/derived_data/R_estimates/
+python3 -W ignore -m estimate_R.estimate_R_STAN_OP
+cp ./estimate_R/output/estimate_R_STAN/estimated_R_OP.csv ../../fixed_revisions/derived_data/R_estimates/
 
 
 # Append full dataset
