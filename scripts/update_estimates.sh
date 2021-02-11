@@ -5,13 +5,13 @@
 #$ -pe smp 1              # Specify number of cores to use.
 #$ -N TrackingR           # Specify job name
 
-module load python
+# module load python
 
-echo "Download Data"
-sh update_data.sh        # Download Data
+# echo "Download Data"
+# sh update_data.sh        # Download Data
 
-echo "Construct Datasets and Estimate Priors"
-sh prior_estim.sh        # Prepare estimation: Construct databases + Run priors
+# echo "Construct Datasets and Estimate Priors"
+# sh prior_estim.sh        # Prepare estimation: Construct databases + Run priors
 
 echo "Submit Estimations to Clusters"
 qsub -N job3 estimate_R_A.sh         

@@ -1,0 +1,16 @@
+Loading python/3.7.3
+  Loading requirement: tcl/8.6.8 gcc/8.3.0
+Estimating R with STAN
+Traceback (most recent call last):
+  File "/opt/crc/p/python/3.7.3/gcc/lib/python3.7/runpy.py", line 183, in _run_module_as_main
+    mod_name, mod_spec, code = _get_module_details(mod_name, _Error)
+  File "/opt/crc/p/python/3.7.3/gcc/lib/python3.7/runpy.py", line 153, in _get_module_details
+    code = loader.get_code(mod_name)
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/afs/crc.nd.edu/user/c/crondonm/Private/TrackingR-Estimates/code/python/estimate_R/estimate_R_STAN_IJ.py", line 43
+    df = pd.read_csv('{}/dataset_IJ.csv.format(input_folder))
+                                                            ^
+SyntaxError: EOL while scanning string literal
+cp: cannot stat ‘./estimate_R/output/estimate_R_STAN/estimated_R_IJ.csv’: No such file or directory
