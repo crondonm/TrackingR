@@ -10,7 +10,7 @@ Traceback (most recent call last):
     return self.importFromDir(dir_path, fqname)
   File "/usr/lib/python2.7/site-packages/nose/importer.py", line 94, in importFromDir
     mod = load_module(part_fqname, fh, filename, desc)
-  File "/afs/crc.nd.edu/user/c/crondonm/Private/Tracking-R-Parallel/code/python/tests/tests_dataset.py", line 7, in <module>
+  File "/afs/crc.nd.edu/user/c/crondonm/Private/TrackingR-Estimates/code/python/tests/tests_dataset.py", line 7, in <module>
     import pandas as pd
 ImportError: No module named pandas
 

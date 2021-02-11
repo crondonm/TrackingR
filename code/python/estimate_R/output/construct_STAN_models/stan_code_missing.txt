@@ -29,8 +29,8 @@
   
   model {
     // Priors
-    precision_irregular ~ gamma(0.12830060064746968, 0.00047162773673434065);
-    signal_to_noise     ~ gamma(0.022040883734969974, 0.22514762509133565);
+    precision_irregular ~ gamma(0.12874548156396867, 0.00046716030653255373);
+    signal_to_noise     ~ gamma(0.022331720983721024, 0.22395395331066256);
     mu_zero             ~ normal(0.35, 0.5);
   
     // initial state
