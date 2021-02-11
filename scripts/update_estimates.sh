@@ -8,10 +8,10 @@
 # module load python
 
 # echo "Download Data"
-# sh update_data.sh        # Download Data
-
+sh update_data.sh        # Download Data
+ 
 # echo "Construct Datasets and Estimate Priors"
-# sh prior_estim.sh        # Prepare estimation: Construct databases + Run priors
+sh prior_estim.sh        # Prepare estimation: Construct databases + Run priors
 
 echo "Submit Estimations to Clusters"
 qsub -N job3 estimate_R_A.sh         
@@ -25,11 +25,12 @@ qsub -N job10  estimate_R_KL.sh
 qsub -N job11  estimate_R_MN.sh
 qsub -N job12  estimate_R_OP.sh
 qsub -N job13  estimate_R_QR.sh
-qsub -N job14  estimate_R_ST.sh
-qsub -N job15  estimate_R_UZ.sh
+qsub -N job14  estimate_R_S.sh
+qsub -N job15  estimate_R_T.sh
+qsub -N job16  estimate_R_UZ.sh
 
 echo "Append New Dataset"
-qsub -N job16 -hold_jid "job*" Appenddata.sh
+qsub -N job17 -hold_jid "job*" Appenddata.sh
 
 #     This is possible by executing the command below:
 #     % qsub -N job1 [Script name]

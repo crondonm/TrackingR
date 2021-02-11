@@ -18,6 +18,10 @@ mkdir ../fixed_revisions/derived_data/KF_results/
 mkdir ../fixed_revisions/derived_data/STAN_models/
 mkdir ../fixed_revisions/derived_data/R_estimates/
 
+# Clear the repositories
+
+rm -r ../code/python/estimate_R/output/estimate_R_STAN/
+mkdir ../code/python/estimate_R/output/estimate_R_STAN/
 
 # Construct dataset for empirical analysis
 echo "Constructing dataset"
@@ -46,7 +50,8 @@ cp ./construct_dataset/output/dataset_KL.csv ../../fixed_revisions/derived_data/
 cp ./construct_dataset/output/dataset_MN.csv ../../fixed_revisions/derived_data/dataset/
 cp ./construct_dataset/output/dataset_OP.csv ../../fixed_revisions/derived_data/dataset/
 cp ./construct_dataset/output/dataset_QR.csv ../../fixed_revisions/derived_data/dataset/
-cp ./construct_dataset/output/dataset_ST.csv ../../fixed_revisions/derived_data/dataset/
+cp ./construct_dataset/output/dataset_S.csv ../../fixed_revisions/derived_data/dataset/
+cp ./construct_dataset/output/dataset_T.csv ../../fixed_revisions/derived_data/dataset/
 cp ./construct_dataset/output/dataset_UZ.csv ../../fixed_revisions/derived_data/dataset/
 
 # Run unit tests on the constructed dataset
@@ -78,7 +83,8 @@ cp ../../../fixed_revisions/derived_data/dataset/dataset_KL.csv ./input/estimate
 cp ../../../fixed_revisions/derived_data/dataset/dataset_MN.csv ./input/estimate_R_KF/
 cp ../../../fixed_revisions/derived_data/dataset/dataset_OP.csv ./input/estimate_R_KF/
 cp ../../../fixed_revisions/derived_data/dataset/dataset_QR.csv ./input/estimate_R_KF/
-cp ../../../fixed_revisions/derived_data/dataset/dataset_ST.csv ./input/estimate_R_KF/
+cp ../../../fixed_revisions/derived_data/dataset/dataset_S.csv ./input/estimate_R_KF/
+cp ../../../fixed_revisions/derived_data/dataset/dataset_T.csv ./input/estimate_R_KF/
 cp ../../../fixed_revisions/derived_data/dataset/dataset_UZ.csv ./input/estimate_R_KF/
 cd ..
 python3 -W ignore -m estimate_R.estimate_R_KF

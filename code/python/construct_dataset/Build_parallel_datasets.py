@@ -55,9 +55,9 @@ df_QR=df[df["Country/Region"].str[0:1]=="Q"]
 df_temp1=df[df["Country/Region"].str[0:1]=="R"]
 df_QR=df_QR.append(df_temp1)
 
-df_ST=df[df["Country/Region"].str[0:1]=="S"]
-df_temp1=df[df["Country/Region"].str[0:1]=="T"]
-df_ST=df_ST.append(df_temp1)
+
+df_S=df[df["Country/Region"].str[0:1]=="S"]
+df_T=df[df["Country/Region"].str[0:1]=="T"]
 
 df_UZ=df[df["Country/Region"].str[0:1]=="U"]
 for i in ["V","W","X","Y","Z"]:
@@ -77,7 +77,8 @@ df_KL.to_csv('{}/dataset_KL.csv'.format(output_folder), index = False)
 df_MN.to_csv('{}/dataset_MN.csv'.format(output_folder), index = False)
 df_OP.to_csv('{}/dataset_OP.csv'.format(output_folder), index = False)
 df_QR.to_csv('{}/dataset_QR.csv'.format(output_folder), index = False)
-df_ST.to_csv('{}/dataset_ST.csv'.format(output_folder), index = False)
+df_S.to_csv('{}/dataset_S.csv'.format(output_folder), index = False)
+df_T.to_csv('{}/dataset_T.csv'.format(output_folder), index = False)
 df_UZ.to_csv('{}/dataset_UZ.csv'.format(output_folder), index = False)
 
 

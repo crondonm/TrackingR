@@ -28,11 +28,12 @@ df_KL = pd.read_csv('{}/estimated_R_KL.csv'.format(output_folder))
 df_MN = pd.read_csv('{}/estimated_R_MN.csv'.format(output_folder))
 df_OP = pd.read_csv('{}/estimated_R_OP.csv'.format(output_folder))
 df_QR = pd.read_csv('{}/estimated_R_QR.csv'.format(output_folder))
-df_ST = pd.read_csv('{}/estimated_R_ST.csv'.format(output_folder))
+df_S = pd.read_csv('{}/estimated_R_S.csv'.format(output_folder))
+df_T = pd.read_csv('{}/estimated_R_T.csv'.format(output_folder))
 df_UZ = pd.read_csv('{}/estimated_R_UZ.csv'.format(output_folder))
 
 # Append all datasets
-df=df_A.append([df_B, df_C, df_D, df_EF, df_GH, df_IJ, df_KL, df_MN, df_OP, df_QR, df_ST, df_UZ],ignore_index=True)
+df=df_A.append([df_B, df_C, df_D, df_EF, df_GH, df_IJ, df_KL, df_MN, df_OP, df_QR, df_S,df_T, df_UZ],ignore_index=True)
 
 del df['n_eff_pct']
 del df['Rhat_diff'] 
