@@ -5,7 +5,7 @@
 #$ -pe smp 1              # Specify number of cores to use.
 #$ -N TrackingR           # Specify job name
 
-
+module load python
 
 echo "Download Data"
 sh update_data.sh        # Download Data
@@ -29,7 +29,7 @@ qsub -N job14  estimate_R_ST.sh
 qsub -N job15  estimate_R_UZ.sh
 
 echo "Append New Dataset"
-qsub -N job16 -hold_jid job3, job4, job5, job6, job7, job8, job9, job10, job11, job12, job13, job14, job15 Appenddata.sh
+qsub -N job16 -hold_jid "job*" Appenddata.sh
 
 #     This is possible by executing the command below:
 #     % qsub -N job1 [Script name]
