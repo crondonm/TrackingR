@@ -9,5 +9,5 @@ module load python
 echo "Appending Datasets"
 cd ../code/python
 python3 -W ignore -m estimate_R.AppendData
-cp ./estimate_R/output/estimate_R_STAN/estimated_R.csv ../../fixed_revisions/derived_data/R_estimates/
+cp ./estimate_R/output/estimate_R_STAN/database.csv ../../fixed_revisions/derived_data/R_estimates/
 
