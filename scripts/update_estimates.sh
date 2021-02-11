@@ -9,7 +9,7 @@
 
 
 qsub -N job1 update_data.sh                         # Download Data
-qsub -N job2 -hold_jid job1 prepare_estim.sh        # Prepare estimation: Construct databases + Run priors
+qsub -N job2 -hold_jid job1 prior_estim.sh        # Prepare estimation: Construct databases + Run priors
 qsub -N job3 -hold_jid job2 estimate_R_A.sh         # Estimation for each letter:
 # qsub -N job4 -hold_jid job2 estimate_R_B.sh
 # qsub -N job5 -hold_jid job2 estimate_R_C.sh
