@@ -14,13 +14,13 @@ sh update_data.sh        # Download Data
 sh prior_estim.sh        # Prepare estimation: Construct databases + Run priors
 
 echo "Submit Estimations to Clusters"
-qsub -N job3 estimate_R_A.sh         
-qsub -N job4  estimate_R_B.sh
-qsub -N job5  estimate_R_C.sh
-qsub -N job6  estimate_R_D.sh
-qsub -N job7  estimate_R_EF.sh
-qsub -N job8  estimate_R_GH.sh
-qsub -N job9  estimate_R_IJ.sh
+qsub -N job3   estimate_R_A.sh         
+qsub -N job4   estimate_R_B.sh
+qsub -N job5   estimate_R_C.sh
+qsub -N job6   estimate_R_D.sh
+qsub -N job7   estimate_R_EF.sh
+qsub -N job8   estimate_R_GH.sh
+qsub -N job9   estimate_R_IJ.sh
 qsub -N job10  estimate_R_KL.sh
 qsub -N job11  estimate_R_MN.sh
 qsub -N job12  estimate_R_OP.sh
@@ -31,6 +31,9 @@ qsub -N job16  estimate_R_UZ.sh
 
 echo "Append New Dataset"
 qsub -N job17 -hold_jid "job*" Appenddata.sh
+
+echo "Updating Repositories"
+qsub -N job18 -hold_jid "job17" update_git.sh
 
 #     This is possible by executing the command below:
 #     % qsub -N job1 [Script name]
