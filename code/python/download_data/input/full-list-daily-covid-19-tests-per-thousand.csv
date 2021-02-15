@@ -1,0 +1,3616 @@
+Entity,Code,Date,New tests per thousand
+Argentina,ARG,"Apr 9, 2020",0.034
+Argentina,ARG,"Apr 10, 2020",0.034
+Argentina,ARG,"Apr 11, 2020",0.036
+Argentina,ARG,"Apr 14, 2020",0.067
+Argentina,ARG,"Apr 15, 2020",0.035
+Argentina,ARG,"Apr 16, 2020",0.046
+Argentina,ARG,"Apr 17, 2020",0.049
+Argentina,ARG,"Apr 18, 2020",0.051
+Argentina,ARG,"Apr 19, 2020",0.039
+Argentina,ARG,"Apr 20, 2020",0.041
+Argentina,ARG,"Apr 21, 2020",0.045
+Argentina,ARG,"Apr 22, 2020",0.058
+Argentina,ARG,"Apr 23, 2020",0.057
+Argentina,ARG,"Apr 24, 2020",0.063
+Argentina,ARG,"Apr 25, 2020",0.061
+Argentina,ARG,"Apr 26, 2020",0.055
+Argentina,ARG,"Apr 27, 2020",0.044
+Argentina,ARG,"Apr 28, 2020",0.038
+Argentina,ARG,"Apr 29, 2020",0.054
+Australia,AUS,"Apr 6, 2020",0.216
+Australia,AUS,"Apr 7, 2020",0.315
+Australia,AUS,"Apr 8, 2020",0.34
+Australia,AUS,"Apr 9, 2020",0.422
+Australia,AUS,"Apr 10, 2020",0.322
+Australia,AUS,"Apr 11, 2020",0.373
+Australia,AUS,"Apr 12, 2020",0.239
+Australia,AUS,"Apr 13, 2020",0.321
+Australia,AUS,"Apr 14, 2020",0.171
+Australia,AUS,"Apr 15, 2020",0.192
+Australia,AUS,"Apr 16, 2020",0.338
+Australia,AUS,"Apr 17, 2020",0.452
+Australia,AUS,"Apr 18, 2020",0.587
+Australia,AUS,"Apr 19, 2020",0.568
+Australia,AUS,"Apr 20, 2020",0.421
+Australia,AUS,"Apr 21, 2020",0.318
+Australia,AUS,"Apr 22, 2020",0.494
+Australia,AUS,"Apr 23, 2020",0.558
+Australia,AUS,"Apr 24, 2020",0.616
+Australia,AUS,"Apr 25, 2020",0.466
+Australia,AUS,"Apr 26, 2020",0.478
+Australia,AUS,"Apr 27, 2020",0.416
+Australia,AUS,"Apr 28, 2020",0.534
+Australia,AUS,"Apr 29, 2020",0.538
+Australia,AUS,"Apr 30, 2020",0.754
+Australia,AUS,"May 1, 2020",0.989
+Australia,AUS,"May 2, 2020",0.891
+Australia,AUS,"May 3, 2020",0.844
+Australia,AUS,"May 4, 2020",0.671
+Australia,AUS,"May 5, 2020",0.57
+Australia,AUS,"May 6, 2020",0.937
+Austria,AUT,"Feb 26, 2020",0.011
+Austria,AUT,"Feb 27, 2020",0.014
+Austria,AUT,"Feb 28, 2020",0.035
+Austria,AUT,"Feb 29, 2020",0.098
+Austria,AUT,"Mar 4, 2020",0.051
+Austria,AUT,"Mar 5, 2020",0.064
+Austria,AUT,"Mar 6, 2020",0.032
+Austria,AUT,"Mar 7, 2020",0.034
+Austria,AUT,"Mar 8, 2020",0.022
+Austria,AUT,"Mar 9, 2020",0.025
+Austria,AUT,"Mar 10, 2020",0.032
+Austria,AUT,"Mar 11, 2020",0.037
+Austria,AUT,"Mar 12, 2020",0.056
+Austria,AUT,"Mar 13, 2020",0.079
+Austria,AUT,"Mar 14, 2020",0.098
+Austria,AUT,"Mar 15, 2020",0.078
+Austria,AUT,"Mar 16, 2020",0.036
+Austria,AUT,"Mar 17, 2020",0.199
+Austria,AUT,"Mar 18, 2020",0.189
+Austria,AUT,"Mar 19, 2020",0.194
+Austria,AUT,"Mar 20, 2020",0.21
+Austria,AUT,"Mar 21, 2020",0.326
+Austria,AUT,"Mar 22, 2020",0.313
+Austria,AUT,"Mar 23, 2020",0.229
+Austria,AUT,"Mar 24, 2020",0.551
+Austria,AUT,"Mar 25, 2020",0.446
+Austria,AUT,"Mar 26, 2020",0.398
+Austria,AUT,"Mar 27, 2020",0.395
+Austria,AUT,"Mar 28, 2020",0.355
+Austria,AUT,"Mar 29, 2020",0.41
+Austria,AUT,"Mar 30, 2020",0.335
+Austria,AUT,"Mar 31, 2020",0.321
+Austria,AUT,"Apr 1, 2020",0.391
+Austria,AUT,"Apr 2, 2020",4.033
+Austria,AUT,"Apr 3, 2020",0.683
+Austria,AUT,"Apr 4, 2020",0.643
+Austria,AUT,"Apr 5, 2020",0.475
+Austria,AUT,"Apr 6, 2020",0.32
+Austria,AUT,"Apr 7, 2020",0.437
+Austria,AUT,"Apr 8, 2020",0.613
+Austria,AUT,"Apr 9, 2020",0.614
+Austria,AUT,"Apr 10, 2020",0.939
+Austria,AUT,"Apr 11, 2020",0.692
+Austria,AUT,"Apr 12, 2020",0.433
+Austria,AUT,"Apr 13, 2020",0.392
+Austria,AUT,"Apr 14, 2020",0.376
+Austria,AUT,"Apr 15, 2020",0.556
+Austria,AUT,"Apr 16, 2020",0.668
+Austria,AUT,"Apr 17, 2020",0.717
+Austria,AUT,"Apr 18, 2020",0.739
+Austria,AUT,"Apr 19, 2020",0.368
+Austria,AUT,"Apr 20, 2020",0.411
+Austria,AUT,"Apr 21, 2020",0.674
+Austria,AUT,"Apr 22, 2020",1.419
+Austria,AUT,"Apr 23, 2020",0.449
+Austria,AUT,"Apr 24, 2020",0.761
+Austria,AUT,"Apr 25, 2020",0.933
+Austria,AUT,"Apr 26, 2020",0.726
+Austria,AUT,"Apr 27, 2020",0.545
+Austria,AUT,"Apr 28, 2020",0.782
+Austria,AUT,"Apr 29, 2020",0.908
+Austria,AUT,"Apr 30, 2020",0.96
+Austria,AUT,"May 1, 2020",0.853
+Austria,AUT,"May 2, 2020",0.615
+Austria,AUT,"May 3, 2020",0.526
+Austria,AUT,"May 4, 2020",0.524
+Austria,AUT,"May 5, 2020",0.756
+Austria,AUT,"May 6, 2020",0.707
+Bahrain,BHR,"Mar 10, 2020",0.308
+Bahrain,BHR,"Mar 11, 2020",0.268
+Bahrain,BHR,"Mar 12, 2020",0.136
+Bahrain,BHR,"Mar 17, 2020",0.836
+Bahrain,BHR,"Mar 30, 2020",0.412
+Bahrain,BHR,"Apr 4, 2020",0.74
+Bahrain,BHR,"Apr 5, 2020",3.015
+Bahrain,BHR,"Apr 6, 2020",1.938
+Bahrain,BHR,"Apr 7, 2020",1.436
+Bahrain,BHR,"Apr 8, 2020",1.573
+Bahrain,BHR,"Apr 9, 2020",1.347
+Bahrain,BHR,"Apr 10, 2020",1.519
+Bahrain,BHR,"Apr 11, 2020",1.778
+Bahrain,BHR,"Apr 12, 2020",1.92
+Bahrain,BHR,"Apr 13, 2020",1.971
+Bahrain,BHR,"Apr 14, 2020",2.049
+Bahrain,BHR,"Apr 15, 2020",1.445
+Bahrain,BHR,"Apr 16, 2020",2.158
+Bahrain,BHR,"Apr 17, 2020",1.568
+Bahrain,BHR,"Apr 18, 2020",1.737
+Bahrain,BHR,"Apr 19, 2020",2.447
+Bahrain,BHR,"Apr 20, 2020",2.101
+Bahrain,BHR,"Apr 21, 2020",2.394
+Bahrain,BHR,"Apr 22, 2020",2.008
+Bahrain,BHR,"Apr 23, 2020",1.313
+Bahrain,BHR,"Apr 24, 2020",3.135
+Bahrain,BHR,"Apr 25, 2020",2.963
+Bahrain,BHR,"Apr 26, 2020",2.176
+Bahrain,BHR,"Apr 27, 2020",2.167
+Bahrain,BHR,"Apr 28, 2020",2.297
+Bahrain,BHR,"Apr 29, 2020",3.055
+Bahrain,BHR,"Apr 30, 2020",1.639
+Bahrain,BHR,"May 1, 2020",2.579
+Bahrain,BHR,"May 2, 2020",2.466
+Bahrain,BHR,"May 3, 2020",3.454
+Bahrain,BHR,"May 4, 2020",3.192
+Bahrain,BHR,"May 5, 2020",3.476
+Bahrain,BHR,"May 6, 2020",2.844
+Bangladesh,BGD,"Mar 24, 2020",0.001
+Bangladesh,BGD,"Mar 26, 2020",0.001
+Bangladesh,BGD,"Mar 27, 2020",0.001
+Bangladesh,BGD,"Mar 29, 2020",0.001
+Bangladesh,BGD,"Mar 30, 2020",0.001
+Bangladesh,BGD,"Mar 31, 2020",0.002
+Bangladesh,BGD,"Apr 1, 2020",0.001
+Bangladesh,BGD,"Apr 2, 2020",0.001
+Bangladesh,BGD,"Apr 3, 2020",0.001
+Bangladesh,BGD,"Apr 4, 2020",0.003
+Bangladesh,BGD,"Apr 5, 2020",0.002
+Bangladesh,BGD,"Apr 6, 2020",0.004
+Bangladesh,BGD,"Apr 7, 2020",0.005
+Bangladesh,BGD,"Apr 8, 2020",0.006
+Bangladesh,BGD,"Apr 9, 2020",0.007
+Bangladesh,BGD,"Apr 10, 2020",0.007
+Bangladesh,BGD,"Apr 11, 2020",0.004
+Bangladesh,BGD,"Apr 12, 2020",0.008
+Bangladesh,BGD,"Apr 13, 2020",0.01
+Bangladesh,BGD,"Apr 14, 2020",0.012
+Bangladesh,BGD,"Apr 15, 2020",0.011
+Bangladesh,BGD,"Apr 16, 2020",0.013
+Bangladesh,BGD,"Apr 17, 2020",0.013
+Bangladesh,BGD,"Apr 18, 2020",0.013
+Bangladesh,BGD,"Apr 19, 2020",0.016
+Bangladesh,BGD,"Apr 20, 2020",0.016
+Bangladesh,BGD,"Apr 21, 2020",0.018
+Bangladesh,BGD,"Apr 22, 2020",0.019
+Bangladesh,BGD,"Apr 23, 2020",0.021
+Bangladesh,BGD,"Apr 24, 2020",0.022
+Bangladesh,BGD,"Apr 25, 2020",0.02
+Bangladesh,BGD,"Apr 26, 2020",0.021
+Bangladesh,BGD,"Apr 27, 2020",0.023
+Bangladesh,BGD,"Apr 28, 2020",0.027
+Bangladesh,BGD,"Apr 29, 2020",0.03
+Bangladesh,BGD,"Apr 30, 2020",0.03
+Bangladesh,BGD,"May 1, 2020",0.034
+Bangladesh,BGD,"May 2, 2020",0.035
+Bangladesh,BGD,"May 3, 2020",0.033
+Bangladesh,BGD,"May 4, 2020",0.038
+Bangladesh,BGD,"May 5, 2020",0.035
+Bangladesh,BGD,"May 6, 2020",0.038
+Belarus,BLR,"Mar 31, 2020",0.106
+Belarus,BLR,"Apr 1, 2020",0.106
+Belarus,BLR,"Apr 9, 2020",0.317
+Belarus,BLR,"Apr 13, 2020",0.423
+Belarus,BLR,"Apr 14, 2020",0.41
+Belarus,BLR,"Apr 15, 2020",0.457
+Belarus,BLR,"Apr 18, 2020",0.624
+Belarus,BLR,"Apr 19, 2020",0.584
+Belarus,BLR,"Apr 20, 2020",0.459
+Belarus,BLR,"Apr 21, 2020",0.633
+Belarus,BLR,"Apr 22, 2020",0.678
+Belarus,BLR,"Apr 23, 2020",0.803
+Belarus,BLR,"Apr 24, 2020",0.876
+Belarus,BLR,"Apr 25, 2020",0.896
+Belarus,BLR,"Apr 26, 2020",0.871
+Belarus,BLR,"Apr 27, 2020",0.664
+Belarus,BLR,"Apr 28, 2020",0.765
+Belgium,BEL,"Mar 1, 2020",0.005
+Belgium,BEL,"Mar 2, 2020",0.024
+Belgium,BEL,"Mar 3, 2020",0.041
+Belgium,BEL,"Mar 4, 2020",0.056
+Belgium,BEL,"Mar 5, 2020",0.061
+Belgium,BEL,"Mar 6, 2020",0.089
+Belgium,BEL,"Mar 7, 2020",0.035
+Belgium,BEL,"Mar 8, 2020",0.036
+Belgium,BEL,"Mar 9, 2020",0.045
+Belgium,BEL,"Mar 10, 2020",0.061
+Belgium,BEL,"Mar 11, 2020",0.081
+Belgium,BEL,"Mar 12, 2020",0.115
+Belgium,BEL,"Mar 13, 2020",0.192
+Belgium,BEL,"Mar 14, 2020",0.159
+Belgium,BEL,"Mar 15, 2020",0.096
+Belgium,BEL,"Mar 16, 2020",0.131
+Belgium,BEL,"Mar 17, 2020",0.16
+Belgium,BEL,"Mar 18, 2020",0.19
+Belgium,BEL,"Mar 19, 2020",0.232
+Belgium,BEL,"Mar 20, 2020",0.216
+Belgium,BEL,"Mar 21, 2020",0.158
+Belgium,BEL,"Mar 22, 2020",0.096
+Belgium,BEL,"Mar 23, 2020",0.218
+Belgium,BEL,"Mar 24, 2020",0.268
+Belgium,BEL,"Mar 25, 2020",0.294
+Belgium,BEL,"Mar 26, 2020",0.282
+Belgium,BEL,"Mar 27, 2020",0.331
+Belgium,BEL,"Mar 28, 2020",0.262
+Belgium,BEL,"Mar 29, 2020",0.163
+Belgium,BEL,"Mar 30, 2020",0.272
+Belgium,BEL,"Mar 31, 2020",0.424
+Belgium,BEL,"Apr 1, 2020",0.375
+Belgium,BEL,"Apr 2, 2020",0.387
+Belgium,BEL,"Apr 3, 2020",0.412
+Belgium,BEL,"Apr 4, 2020",0.341
+Belgium,BEL,"Apr 5, 2020",0.209
+Belgium,BEL,"Apr 6, 2020",0.346
+Belgium,BEL,"Apr 7, 2020",0.46
+Belgium,BEL,"Apr 8, 2020",0.472
+Belgium,BEL,"Apr 9, 2020",0.48
+Belgium,BEL,"Apr 10, 2020",0.523
+Belgium,BEL,"Apr 11, 2020",0.537
+Belgium,BEL,"Apr 12, 2020",0.499
+Belgium,BEL,"Apr 13, 2020",0.463
+Belgium,BEL,"Apr 14, 2020",0.511
+Belgium,BEL,"Apr 15, 2020",0.667
+Belgium,BEL,"Apr 16, 2020",0.659
+Belgium,BEL,"Apr 17, 2020",0.72
+Belgium,BEL,"Apr 18, 2020",0.705
+Belgium,BEL,"Apr 19, 2020",0.504
+Belgium,BEL,"Apr 20, 2020",0.777
+Belgium,BEL,"Apr 21, 2020",0.675
+Belgium,BEL,"Apr 22, 2020",1.116
+Belgium,BEL,"Apr 23, 2020",1.24
+Belgium,BEL,"Apr 24, 2020",1.378
+Belgium,BEL,"Apr 25, 2020",1.271
+Belgium,BEL,"Apr 26, 2020",1.043
+Belgium,BEL,"Apr 27, 2020",1.28
+Belgium,BEL,"Apr 28, 2020",1.458
+Belgium,BEL,"Apr 29, 2020",1.709
+Belgium,BEL,"Apr 30, 2020",1.864
+Belgium,BEL,"May 1, 2020",1.867
+Belgium,BEL,"May 2, 2020",1.281
+Belgium,BEL,"May 3, 2020",1.043
+Belgium,BEL,"May 4, 2020",1.702
+Bolivia,BOL,"Mar 22, 2020",0.003
+Bolivia,BOL,"Mar 23, 2020",0.008
+Bolivia,BOL,"Mar 25, 2020",0.005
+Bolivia,BOL,"Mar 26, 2020",0.009
+Bolivia,BOL,"Mar 27, 2020",0.006
+Bolivia,BOL,"Mar 28, 2020",0.004
+Bolivia,BOL,"Mar 29, 2020",0.001
+Bolivia,BOL,"Mar 30, 2020",0.011
+Bolivia,BOL,"Mar 31, 2020",0.007
+Bolivia,BOL,"Apr 1, 2020",0.005
+Bolivia,BOL,"Apr 2, 2020",0.013
+Bolivia,BOL,"Apr 3, 2020",0.011
+Bolivia,BOL,"Apr 4, 2020",0.002
+Bolivia,BOL,"Apr 5, 2020",0.026
+Bolivia,BOL,"Apr 6, 2020",0.001
+Bolivia,BOL,"Apr 7, 2020",0.001
+Bolivia,BOL,"Apr 8, 2020",0.005
+Bolivia,BOL,"Apr 9, 2020",0.041
+Bolivia,BOL,"Apr 10, 2020",0.016
+Bolivia,BOL,"Apr 11, 2020",0.015
+Bolivia,BOL,"Apr 12, 2020",0.015
+Bolivia,BOL,"Apr 13, 2020",0.014
+Bolivia,BOL,"Apr 14, 2020",0.019
+Bolivia,BOL,"Apr 15, 2020",0.027
+Bolivia,BOL,"Apr 16, 2020",0.016
+Bolivia,BOL,"Apr 17, 2020",0.013
+Bolivia,BOL,"Apr 18, 2020",0.002
+Bolivia,BOL,"Apr 19, 2020",0.046
+Bolivia,BOL,"Apr 20, 2020",0.014
+Bolivia,BOL,"Apr 21, 2020",0.01
+Bolivia,BOL,"Apr 22, 2020",0.033
+Bolivia,BOL,"Apr 23, 2020",0.016
+Bolivia,BOL,"Apr 24, 2020",0.026
+Bolivia,BOL,"Apr 25, 2020",0.005
+Bolivia,BOL,"Apr 26, 2020",0.037
+Bolivia,BOL,"Apr 27, 2020",0.017
+Bolivia,BOL,"Apr 28, 2020",0.011
+Bolivia,BOL,"Apr 29, 2020",0.025
+Bolivia,BOL,"Apr 30, 2020",0.012
+Bolivia,BOL,"May 1, 2020",0.005
+Bolivia,BOL,"May 2, 2020",0.081
+Bolivia,BOL,"May 3, 2020",0.011
+Bolivia,BOL,"May 4, 2020",0.007
+Bolivia,BOL,"May 5, 2020",0.01
+Bulgaria,BGR,"May 2, 2020",0.162
+Bulgaria,BGR,"May 3, 2020",0.141
+Bulgaria,BGR,"May 4, 2020",0.076
+Bulgaria,BGR,"May 5, 2020",0.167
+Bulgaria,BGR,"May 6, 2020",0.211
+Canada,CAN,"Mar 19, 2020",0.026
+Canada,CAN,"Mar 20, 2020",0.579
+Canada,CAN,"Mar 21, 2020",0.32
+Canada,CAN,"Mar 22, 2020",0.263
+Canada,CAN,"Mar 23, 2020",0.221
+Canada,CAN,"Mar 24, 2020",0.475
+Canada,CAN,"Mar 25, 2020",0.453
+Canada,CAN,"Mar 26, 2020",0.515
+Canada,CAN,"Mar 27, 2020",0.24
+Canada,CAN,"Mar 28, 2020",0.359
+Canada,CAN,"Mar 29, 2020",0.695
+Canada,CAN,"Mar 30, 2020",0.813
+Canada,CAN,"Apr 2, 2020",0.297
+Canada,CAN,"Apr 3, 2020",0.713
+Canada,CAN,"Apr 4, 2020",0.448
+Canada,CAN,"Apr 5, 2020",0.606
+Canada,CAN,"Apr 6, 2020",0.052
+Canada,CAN,"Apr 7, 2020",0.257
+Canada,CAN,"Apr 8, 2020",0.338
+Canada,CAN,"Apr 9, 2020",0.379
+Canada,CAN,"Apr 10, 2020",0.258
+Canada,CAN,"Apr 11, 2020",0.483
+Canada,CAN,"Apr 12, 2020",0.082
+Canada,CAN,"Apr 13, 2020",0.643
+Canada,CAN,"Apr 14, 2020",0.578
+Canada,CAN,"Apr 15, 2020",0.308
+Canada,CAN,"Apr 16, 2020",0.655
+Canada,CAN,"Apr 17, 2020",0.422
+Canada,CAN,"Apr 18, 2020",0.35
+Canada,CAN,"Apr 19, 2020",0.526
+Canada,CAN,"Apr 20, 2020",0.516
+Canada,CAN,"Apr 21, 2020",0.275
+Canada,CAN,"Apr 22, 2020",0.276
+Canada,CAN,"Apr 23, 2020",1.159
+Canada,CAN,"Apr 24, 2020",0.617
+Canada,CAN,"Apr 25, 2020",0.693
+Canada,CAN,"Apr 26, 2020",0.586
+Canada,CAN,"Apr 27, 2020",0.683
+Canada,CAN,"Apr 28, 2020",0.62
+Canada,CAN,"Apr 29, 2020",0.465
+Canada,CAN,"Apr 30, 2020",0.791
+Canada,CAN,"May 1, 2020",1.164
+Canada,CAN,"May 4, 2020",0.686
+Canada,CAN,"May 5, 2020",0.562
+Canada,CAN,"May 6, 2020",0.052
+Chile,CHL,"Apr 2, 2020",0.14
+Chile,CHL,"Apr 3, 2020",0.178
+Chile,CHL,"Apr 4, 2020",0.235
+Chile,CHL,"Apr 5, 2020",0.175
+Chile,CHL,"Apr 6, 2020",0.152
+Chile,CHL,"Apr 7, 2020",0.118
+Chile,CHL,"Apr 8, 2020",0.171
+Chile,CHL,"Apr 9, 2020",0.417
+Chile,CHL,"Apr 10, 2020",0.232
+Chile,CHL,"Apr 11, 2020",0.187
+Chile,CHL,"Apr 12, 2020",0.308
+Chile,CHL,"Apr 13, 2020",0.145
+Chile,CHL,"Apr 14, 2020",0.144
+Chile,CHL,"Apr 15, 2020",0.213
+Chile,CHL,"Apr 16, 2020",0.343
+Chile,CHL,"Apr 17, 2020",0.285
+Chile,CHL,"Apr 18, 2020",0.262
+Chile,CHL,"Apr 19, 2020",0.249
+Chile,CHL,"Apr 20, 2020",0.271
+Chile,CHL,"Apr 21, 2020",0.185
+Chile,CHL,"Apr 22, 2020",0.333
+Chile,CHL,"Apr 23, 2020",0.336
+Chile,CHL,"Apr 24, 2020",0.372
+Chile,CHL,"Apr 25, 2020",0.363
+Chile,CHL,"Apr 26, 2020",0.354
+Chile,CHL,"Apr 27, 2020",0.275
+Chile,CHL,"Apr 28, 2020",0.258
+Chile,CHL,"Apr 29, 2020",0.338
+Chile,CHL,"Apr 30, 2020",0.413
+Chile,CHL,"May 1, 2020",0.466
+Chile,CHL,"May 2, 2020",0.521
+Chile,CHL,"May 3, 2020",0.357
+Chile,CHL,"May 4, 2020",0.414
+Chile,CHL,"May 5, 2020",0.417
+Chile,CHL,"May 6, 2020",0.524
+Colombia,COL,"Mar 6, 2020",0.002
+Colombia,COL,"Mar 7, 2020",0.001
+Colombia,COL,"Mar 9, 2020",0.001
+Colombia,COL,"Mar 10, 2020",0.001
+Colombia,COL,"Mar 11, 2020",0.004
+Colombia,COL,"Mar 12, 2020",0.005
+Colombia,COL,"Mar 13, 2020",0.007
+Colombia,COL,"Mar 14, 2020",0.012
+Colombia,COL,"Mar 15, 2020",0.016
+Colombia,COL,"Mar 16, 2020",0.008
+Colombia,COL,"Mar 17, 2020",0.006
+Colombia,COL,"Mar 18, 2020",0.015
+Colombia,COL,"Mar 19, 2020",0.013
+Colombia,COL,"Mar 20, 2020",0.008
+Colombia,COL,"Mar 21, 2020",0.006
+Colombia,COL,"Mar 22, 2020",0.017
+Colombia,COL,"Mar 23, 2020",0.007
+Colombia,COL,"Mar 24, 2020",0.015
+Colombia,COL,"Mar 25, 2020",0.015
+Colombia,COL,"Mar 26, 2020",0.008
+Colombia,COL,"Mar 27, 2020",0.005
+Colombia,COL,"Mar 28, 2020",0.027
+Colombia,COL,"Mar 29, 2020",0.029
+Colombia,COL,"Mar 30, 2020",0.029
+Colombia,COL,"Mar 31, 2020",0.08
+Colombia,COL,"Apr 1, 2020",0.047
+Colombia,COL,"Apr 2, 2020",0.023
+Colombia,COL,"Apr 3, 2020",0.026
+Colombia,COL,"Apr 4, 2020",0.024
+Colombia,COL,"Apr 5, 2020",0.031
+Colombia,COL,"Apr 6, 2020",0.048
+Colombia,COL,"Apr 7, 2020",0.054
+Colombia,COL,"Apr 8, 2020",0.062
+Colombia,COL,"Apr 9, 2020",0.026
+Colombia,COL,"Apr 10, 2020",0.053
+Colombia,COL,"Apr 11, 2020",0.054
+Colombia,COL,"Apr 12, 2020",0.023
+Colombia,COL,"Apr 13, 2020",0.025
+Colombia,COL,"Apr 14, 2020",0.045
+Colombia,COL,"Apr 15, 2020",0.063
+Colombia,COL,"Apr 16, 2020",0.068
+Colombia,COL,"Apr 17, 2020",0.069
+Colombia,COL,"Apr 18, 2020",0.067
+Colombia,COL,"Apr 19, 2020",0.074
+Colombia,COL,"Apr 20, 2020",0.048
+Colombia,COL,"Apr 21, 2020",0.064
+Colombia,COL,"Apr 22, 2020",0.06
+Colombia,COL,"Apr 23, 2020",0.068
+Colombia,COL,"Apr 24, 2020",0.061
+Colombia,COL,"Apr 25, 2020",0.06
+Colombia,COL,"Apr 26, 2020",0.119
+Colombia,COL,"Apr 27, 2020",0.075
+Colombia,COL,"Apr 28, 2020",0.082
+Colombia,COL,"Apr 29, 2020",0.1
+Colombia,COL,"Apr 30, 2020",0.089
+Colombia,COL,"May 1, 2020",0.084
+Colombia,COL,"May 2, 2020",0.111
+Colombia,COL,"May 3, 2020",0.083
+Colombia,COL,"May 4, 2020",0.083
+Colombia,COL,"May 5, 2020",0.08
+Costa Rica,CRI,"Mar 11, 2020",0.013
+Costa Rica,CRI,"Mar 12, 2020",0.017
+Costa Rica,CRI,"Mar 13, 2020",0.017
+Costa Rica,CRI,"Mar 14, 2020",0.025
+Costa Rica,CRI,"Mar 15, 2020",0.008
+Costa Rica,CRI,"Mar 16, 2020",0.034
+Costa Rica,CRI,"Mar 17, 2020",0.022
+Costa Rica,CRI,"Mar 18, 2020",0.03
+Costa Rica,CRI,"Mar 19, 2020",0.023
+Costa Rica,CRI,"Mar 20, 2020",0.023
+Costa Rica,CRI,"Mar 21, 2020",0.029
+Costa Rica,CRI,"Mar 22, 2020",0.045
+Costa Rica,CRI,"Mar 23, 2020",0.031
+Costa Rica,CRI,"Mar 24, 2020",0.032
+Costa Rica,CRI,"Mar 25, 2020",0.006
+Costa Rica,CRI,"Mar 26, 2020",0.133
+Costa Rica,CRI,"Mar 27, 2020",0.096
+Costa Rica,CRI,"Mar 28, 2020",0.031
+Costa Rica,CRI,"Mar 29, 2020",0.044
+Costa Rica,CRI,"Mar 30, 2020",0.052
+Costa Rica,CRI,"Mar 31, 2020",0.03
+Costa Rica,CRI,"Apr 1, 2020",0.073
+Costa Rica,CRI,"Apr 2, 2020",0.026
+Costa Rica,CRI,"Apr 3, 2020",0.022
+Costa Rica,CRI,"Apr 4, 2020",0.038
+Costa Rica,CRI,"Apr 5, 2020",0.087
+Costa Rica,CRI,"Apr 6, 2020",0.052
+Costa Rica,CRI,"Apr 7, 2020",0.032
+Costa Rica,CRI,"Apr 8, 2020",0.1
+Costa Rica,CRI,"Apr 9, 2020",0.052
+Costa Rica,CRI,"Apr 10, 2020",0.03
+Costa Rica,CRI,"Apr 11, 2020",0.031
+Costa Rica,CRI,"Apr 12, 2020",0.03
+Costa Rica,CRI,"Apr 13, 2020",0.021
+Costa Rica,CRI,"Apr 14, 2020",0.015
+Costa Rica,CRI,"Apr 15, 2020",0.038
+Costa Rica,CRI,"Apr 16, 2020",0.042
+Costa Rica,CRI,"Apr 17, 2020",0.034
+Costa Rica,CRI,"Apr 18, 2020",0.045
+Costa Rica,CRI,"Apr 19, 2020",0.01
+Costa Rica,CRI,"Apr 20, 2020",0.019
+Costa Rica,CRI,"Apr 21, 2020",0.052
+Costa Rica,CRI,"Apr 22, 2020",0.059
+Costa Rica,CRI,"Apr 23, 2020",0.05
+Costa Rica,CRI,"Apr 24, 2020",0.02
+Costa Rica,CRI,"Apr 25, 2020",0.017
+Costa Rica,CRI,"Apr 26, 2020",0.007
+Costa Rica,CRI,"Apr 27, 2020",0.011
+Costa Rica,CRI,"Apr 28, 2020",0.012
+Costa Rica,CRI,"Apr 29, 2020",0.047
+Costa Rica,CRI,"Apr 30, 2020",0.021
+Costa Rica,CRI,"May 1, 2020",0.033
+Costa Rica,CRI,"May 2, 2020",0.018
+Costa Rica,CRI,"May 3, 2020",0.024
+Costa Rica,CRI,"May 4, 2020",0.021
+Costa Rica,CRI,"May 5, 2020",0.014
+Croatia,HRV,"Mar 4, 2020",0.002
+Croatia,HRV,"Mar 5, 2020",0.004
+Croatia,HRV,"Mar 6, 2020",0.007
+Croatia,HRV,"Mar 7, 2020",0.004
+Croatia,HRV,"Mar 8, 2020",0.002
+Croatia,HRV,"Mar 9, 2020",0.004
+Croatia,HRV,"Mar 10, 2020",0.005
+Croatia,HRV,"Mar 13, 2020",0.017
+Croatia,HRV,"Mar 14, 2020",0.023
+Croatia,HRV,"Mar 15, 2020",0.023
+Croatia,HRV,"Mar 16, 2020",0.033
+Croatia,HRV,"Mar 17, 2020",0.056
+Croatia,HRV,"Mar 18, 2020",0.018
+Croatia,HRV,"Mar 19, 2020",0.02
+Croatia,HRV,"Mar 25, 2020",0.112
+Croatia,HRV,"Mar 26, 2020",0.144
+Croatia,HRV,"Mar 27, 2020",0.139
+Croatia,HRV,"Mar 28, 2020",0.106
+Croatia,HRV,"Mar 29, 2020",0.167
+Croatia,HRV,"Mar 30, 2020",0.123
+Croatia,HRV,"Mar 31, 2020",0.149
+Croatia,HRV,"Apr 1, 2020",0.162
+Croatia,HRV,"Apr 2, 2020",0.164
+Croatia,HRV,"Apr 3, 2020",0.219
+Croatia,HRV,"Apr 4, 2020",0.142
+Croatia,HRV,"Apr 5, 2020",0.247
+Croatia,HRV,"Apr 6, 2020",0.15
+Croatia,HRV,"Apr 7, 2020",0.209
+Croatia,HRV,"Apr 8, 2020",0.196
+Croatia,HRV,"Apr 9, 2020",0.135
+Croatia,HRV,"Apr 10, 2020",0.227
+Croatia,HRV,"Apr 11, 2020",0.263
+Croatia,HRV,"Apr 12, 2020",0.168
+Croatia,HRV,"Apr 13, 2020",0.343
+Croatia,HRV,"Apr 14, 2020",0.139
+Croatia,HRV,"Apr 15, 2020",0.218
+Croatia,HRV,"Apr 16, 2020",0.22
+Croatia,HRV,"Apr 17, 2020",0.194
+Croatia,HRV,"Apr 18, 2020",0.169
+Croatia,HRV,"Apr 19, 2020",0.618
+Croatia,HRV,"Apr 20, 2020",0.59
+Croatia,HRV,"Apr 23, 2020",0.302
+Croatia,HRV,"Apr 24, 2020",0.331
+Croatia,HRV,"Apr 25, 2020",0.171
+Croatia,HRV,"Apr 26, 2020",0.173
+Croatia,HRV,"Apr 27, 2020",0.291
+Croatia,HRV,"Apr 28, 2020",0.185
+Croatia,HRV,"Apr 29, 2020",0.219
+Croatia,HRV,"Apr 30, 2020",0.595
+Croatia,HRV,"May 3, 2020",0.128
+Croatia,HRV,"May 4, 2020",0.233
+Croatia,HRV,"May 5, 2020",0.227
+Croatia,HRV,"May 6, 2020",0.263
+Cuba,CUB,"Mar 23, 2020",0.009
+Cuba,CUB,"Mar 24, 2020",0.01
+Cuba,CUB,"Mar 25, 2020",0.014
+Cuba,CUB,"Mar 26, 2020",0.013
+Cuba,CUB,"Mar 27, 2020",0.029
+Cuba,CUB,"Mar 28, 2020",0.026
+Cuba,CUB,"Mar 29, 2020",0.03
+Cuba,CUB,"Mar 30, 2020",0.028
+Cuba,CUB,"Mar 31, 2020",0.039
+Cuba,CUB,"Apr 1, 2020",0.051
+Cuba,CUB,"Apr 2, 2020",0.071
+Cuba,CUB,"Apr 3, 2020",0.093
+Cuba,CUB,"Apr 4, 2020",0.106
+Cuba,CUB,"Apr 5, 2020",0.067
+Cuba,CUB,"Apr 6, 2020",0.093
+Cuba,CUB,"Apr 7, 2020",0.105
+Cuba,CUB,"Apr 8, 2020",0.116
+Cuba,CUB,"Apr 9, 2020",0.115
+Cuba,CUB,"Apr 10, 2020",0.101
+Cuba,CUB,"Apr 11, 2020",0.167
+Cuba,CUB,"Apr 12, 2020",0.183
+Cuba,CUB,"Apr 13, 2020",0.144
+Cuba,CUB,"Apr 14, 2020",0.149
+Cuba,CUB,"Apr 15, 2020",0.122
+Cuba,CUB,"Apr 16, 2020",0.131
+Cuba,CUB,"Apr 17, 2020",0.167
+Cuba,CUB,"Apr 18, 2020",0.156
+Cuba,CUB,"Apr 19, 2020",0.143
+Cuba,CUB,"Apr 20, 2020",0.161
+Cuba,CUB,"Apr 21, 2020",0.164
+Cuba,CUB,"Apr 22, 2020",0.174
+Cuba,CUB,"Apr 23, 2020",0.167
+Cuba,CUB,"Apr 24, 2020",0.164
+Cuba,CUB,"Apr 25, 2020",0.162
+Cuba,CUB,"Apr 26, 2020",0.161
+Cuba,CUB,"Apr 27, 2020",0.164
+Cuba,CUB,"Apr 28, 2020",0.162
+Cuba,CUB,"Apr 29, 2020",0.177
+Cuba,CUB,"Apr 30, 2020",0.182
+Cuba,CUB,"May 1, 2020",0.185
+Cuba,CUB,"May 2, 2020",0.18
+Cuba,CUB,"May 3, 2020",0.176
+Cuba,CUB,"May 4, 2020",0.191
+Cuba,CUB,"May 5, 2020",0.171
+Czech Republic,CZE,"Jan 28, 2020",0.001
+Czech Republic,CZE,"Feb 7, 2020",0.001
+Czech Republic,CZE,"Feb 10, 2020",0.001
+Czech Republic,CZE,"Feb 24, 2020",0.001
+Czech Republic,CZE,"Feb 25, 2020",0.001
+Czech Republic,CZE,"Feb 26, 2020",0.002
+Czech Republic,CZE,"Feb 27, 2020",0.003
+Czech Republic,CZE,"Feb 28, 2020",0.002
+Czech Republic,CZE,"Feb 29, 2020",0.001
+Czech Republic,CZE,"Mar 1, 2020",0.001
+Czech Republic,CZE,"Mar 2, 2020",0.005
+Czech Republic,CZE,"Mar 3, 2020",0.007
+Czech Republic,CZE,"Mar 4, 2020",0.006
+Czech Republic,CZE,"Mar 5, 2020",0.007
+Czech Republic,CZE,"Mar 6, 2020",0.01
+Czech Republic,CZE,"Mar 7, 2020",0.018
+Czech Republic,CZE,"Mar 8, 2020",0.013
+Czech Republic,CZE,"Mar 9, 2020",0.025
+Czech Republic,CZE,"Mar 10, 2020",0.015
+Czech Republic,CZE,"Mar 11, 2020",0.043
+Czech Republic,CZE,"Mar 12, 2020",0.05
+Czech Republic,CZE,"Mar 13, 2020",0.069
+Czech Republic,CZE,"Mar 14, 2020",0.091
+Czech Republic,CZE,"Mar 15, 2020",0.094
+Czech Republic,CZE,"Mar 16, 2020",0.115
+Czech Republic,CZE,"Mar 17, 2020",0.127
+Czech Republic,CZE,"Mar 18, 2020",0.162
+Czech Republic,CZE,"Mar 19, 2020",0.207
+Czech Republic,CZE,"Mar 20, 2020",0.195
+Czech Republic,CZE,"Mar 21, 2020",0.176
+Czech Republic,CZE,"Mar 22, 2020",0.167
+Czech Republic,CZE,"Mar 23, 2020",0.21
+Czech Republic,CZE,"Mar 24, 2020",0.278
+Czech Republic,CZE,"Mar 25, 2020",0.383
+Czech Republic,CZE,"Mar 26, 2020",0.414
+Czech Republic,CZE,"Mar 27, 2020",0.49
+Czech Republic,CZE,"Mar 28, 2020",0.404
+Czech Republic,CZE,"Mar 29, 2020",0.261
+Czech Republic,CZE,"Mar 30, 2020",0.496
+Czech Republic,CZE,"Mar 31, 2020",0.58
+Czech Republic,CZE,"Apr 1, 2020",0.558
+Czech Republic,CZE,"Apr 2, 2020",0.587
+Czech Republic,CZE,"Apr 3, 2020",0.643
+Czech Republic,CZE,"Apr 4, 2020",0.573
+Czech Republic,CZE,"Apr 5, 2020",0.44
+Czech Republic,CZE,"Apr 6, 2020",0.582
+Czech Republic,CZE,"Apr 7, 2020",0.694
+Czech Republic,CZE,"Apr 8, 2020",0.762
+Czech Republic,CZE,"Apr 9, 2020",0.748
+Czech Republic,CZE,"Apr 10, 2020",0.507
+Czech Republic,CZE,"Apr 11, 2020",0.452
+Czech Republic,CZE,"Apr 12, 2020",0.302
+Czech Republic,CZE,"Apr 13, 2020",0.297
+Czech Republic,CZE,"Apr 14, 2020",0.572
+Czech Republic,CZE,"Apr 15, 2020",0.778
+Czech Republic,CZE,"Apr 16, 2020",0.775
+Czech Republic,CZE,"Apr 17, 2020",0.768
+Czech Republic,CZE,"Apr 18, 2020",0.519
+Czech Republic,CZE,"Apr 19, 2020",0.376
+Czech Republic,CZE,"Apr 20, 2020",0.606
+Czech Republic,CZE,"Apr 21, 2020",0.775
+Czech Republic,CZE,"Apr 22, 2020",0.823
+Czech Republic,CZE,"Apr 23, 2020",0.738
+Czech Republic,CZE,"Apr 24, 2020",0.666
+Czech Republic,CZE,"Apr 25, 2020",0.415
+Czech Republic,CZE,"Apr 26, 2020",0.316
+Czech Republic,CZE,"Apr 27, 2020",0.722
+Czech Republic,CZE,"Apr 28, 2020",0.817
+Czech Republic,CZE,"Apr 29, 2020",0.683
+Czech Republic,CZE,"Apr 30, 2020",0.678
+Czech Republic,CZE,"May 1, 2020",0.406
+Czech Republic,CZE,"May 2, 2020",0.364
+Czech Republic,CZE,"May 3, 2020",0.343
+Czech Republic,CZE,"May 4, 2020",0.705
+Czech Republic,CZE,"May 5, 2020",0.879
+Denmark,DNK,"Mar 20, 2020",0.485
+Denmark,DNK,"Mar 21, 2020",0.12
+Denmark,DNK,"Mar 22, 2020",0.085
+Denmark,DNK,"Mar 23, 2020",0.158
+Denmark,DNK,"Mar 26, 2020",0.192
+Denmark,DNK,"Mar 27, 2020",0.223
+Denmark,DNK,"Mar 28, 2020",0.265
+Denmark,DNK,"Mar 29, 2020",0.24
+Denmark,DNK,"Mar 30, 2020",0.204
+Denmark,DNK,"Mar 31, 2020",0.412
+Denmark,DNK,"Apr 1, 2020",0.52
+Denmark,DNK,"Apr 2, 2020",0.543
+Denmark,DNK,"Apr 3, 2020",0.771
+Denmark,DNK,"Apr 4, 2020",0.956
+Denmark,DNK,"Apr 5, 2020",0.657
+Denmark,DNK,"Apr 6, 2020",0.549
+Denmark,DNK,"Apr 7, 2020",0.799
+Denmark,DNK,"Apr 8, 2020",1.034
+Denmark,DNK,"Apr 9, 2020",0.807
+Denmark,DNK,"Apr 10, 2020",0.435
+Denmark,DNK,"Apr 11, 2020",0.525
+Denmark,DNK,"Apr 12, 2020",0.406
+Denmark,DNK,"Apr 13, 2020",0.341
+Denmark,DNK,"Apr 14, 2020",0.314
+Denmark,DNK,"Apr 15, 2020",0.655
+Denmark,DNK,"Apr 16, 2020",0.806
+Denmark,DNK,"Apr 17, 2020",0.802
+Denmark,DNK,"Apr 18, 2020",0.762
+Denmark,DNK,"Apr 19, 2020",0.49
+Denmark,DNK,"Apr 20, 2020",0.34
+Denmark,DNK,"Apr 21, 2020",0.742
+Denmark,DNK,"Apr 22, 2020",1.368
+Denmark,DNK,"Apr 23, 2020",1.408
+Denmark,DNK,"Apr 24, 2020",1.503
+Denmark,DNK,"Apr 25, 2020",1.97
+Denmark,DNK,"Apr 26, 2020",1.757
+Denmark,DNK,"Apr 27, 2020",1.536
+Denmark,DNK,"Apr 30, 2020",2.262
+Denmark,DNK,"May 1, 2020",2.315
+Denmark,DNK,"May 2, 2020",2.648
+Denmark,DNK,"May 3, 2020",2.052
+Denmark,DNK,"May 4, 2020",1.898
+Denmark,DNK,"May 5, 2020",2.235
+Denmark,DNK,"May 6, 2020",2.234
+Ecuador,ECU,"Mar 19, 2020",0.011
+Ecuador,ECU,"Mar 20, 2020",0.016
+Ecuador,ECU,"Mar 21, 2020",0.013
+Ecuador,ECU,"Mar 22, 2020",0.027
+Ecuador,ECU,"Mar 23, 2020",0.023
+Ecuador,ECU,"Mar 24, 2020",0.013
+Ecuador,ECU,"Mar 25, 2020",0.016
+Ecuador,ECU,"Mar 26, 2020",0.03
+Ecuador,ECU,"Mar 27, 2020",0.025
+Ecuador,ECU,"Mar 28, 2020",0.021
+Ecuador,ECU,"Mar 29, 2020",0.011
+Ecuador,ECU,"Mar 30, 2020",0.005
+Ecuador,ECU,"Mar 31, 2020",0.035
+Ecuador,ECU,"Apr 1, 2020",0.043
+Ecuador,ECU,"Apr 2, 2020",0.04
+Ecuador,ECU,"Apr 3, 2020",0.02
+Ecuador,ECU,"Apr 4, 2020",0.01
+Ecuador,ECU,"Apr 5, 2020",0.024
+Ecuador,ECU,"Apr 6, 2020",0.019
+Ecuador,ECU,"Apr 7, 2020",0.02
+Ecuador,ECU,"Apr 8, 2020",0.04
+Ecuador,ECU,"Apr 9, 2020",0.056
+Ecuador,ECU,"Apr 10, 2020",0.228
+Ecuador,ECU,"Apr 11, 2020",0.031
+Ecuador,ECU,"Apr 12, 2020",0.022
+Ecuador,ECU,"Apr 13, 2020",0.014
+Ecuador,ECU,"Apr 14, 2020",0.015
+Ecuador,ECU,"Apr 15, 2020",0.029
+Ecuador,ECU,"Apr 16, 2020",0.03
+Ecuador,ECU,"Apr 17, 2020",0.022
+Ecuador,ECU,"Apr 18, 2020",0.056
+Ecuador,ECU,"Apr 19, 2020",0.052
+Ecuador,ECU,"Apr 20, 2020",0.081
+Ecuador,ECU,"Apr 21, 2020",0.035
+Ecuador,ECU,"Apr 22, 2020",0.064
+Ecuador,ECU,"Apr 23, 2020",0.101
+Ecuador,ECU,"Apr 28, 2020",0.075
+Ecuador,ECU,"Apr 29, 2020",0.069
+Ecuador,ECU,"Apr 30, 2020",0.038
+Ecuador,ECU,"May 1, 2020",0.154
+Ecuador,ECU,"May 2, 2020",0.106
+Ecuador,ECU,"May 3, 2020",1.333
+Ecuador,ECU,"May 4, 2020",0.211
+El Salvador,SLV,"Apr 15, 2020",0.084
+El Salvador,SLV,"Apr 16, 2020",0.144
+El Salvador,SLV,"Apr 17, 2020",0.142
+El Salvador,SLV,"Apr 18, 2020",0.149
+El Salvador,SLV,"Apr 19, 2020",0.162
+El Salvador,SLV,"Apr 20, 2020",0.176
+El Salvador,SLV,"Apr 21, 2020",0.158
+El Salvador,SLV,"Apr 22, 2020",0.156
+El Salvador,SLV,"Apr 23, 2020",0.159
+El Salvador,SLV,"Apr 26, 2020",0.414
+El Salvador,SLV,"Apr 27, 2020",0.193
+El Salvador,SLV,"May 2, 2020",0.479
+El Salvador,SLV,"May 3, 2020",0.276
+El Salvador,SLV,"May 4, 2020",0.253
+El Salvador,SLV,"May 5, 2020",0.246
+Estonia,EST,"Feb 26, 2020",0.006
+Estonia,EST,"Feb 27, 2020",0.008
+Estonia,EST,"Feb 28, 2020",0.01
+Estonia,EST,"Feb 29, 2020",0.006
+Estonia,EST,"Mar 1, 2020",0.014
+Estonia,EST,"Mar 2, 2020",0.017
+Estonia,EST,"Mar 3, 2020",0.022
+Estonia,EST,"Mar 4, 2020",0.027
+Estonia,EST,"Mar 5, 2020",0.026
+Estonia,EST,"Mar 6, 2020",0.054
+Estonia,EST,"Mar 7, 2020",0.022
+Estonia,EST,"Mar 8, 2020",0.015
+Estonia,EST,"Mar 9, 2020",0.048
+Estonia,EST,"Mar 10, 2020",0.043
+Estonia,EST,"Mar 11, 2020",0.049
+Estonia,EST,"Mar 12, 2020",0.099
+Estonia,EST,"Mar 13, 2020",0.138
+Estonia,EST,"Mar 14, 2020",0.123
+Estonia,EST,"Mar 15, 2020",0.373
+Estonia,EST,"Mar 16, 2020",0.23
+Estonia,EST,"Mar 17, 2020",0.144
+Estonia,EST,"Mar 18, 2020",0.406
+Estonia,EST,"Mar 19, 2020",0.265
+Estonia,EST,"Mar 20, 2020",0.296
+Estonia,EST,"Mar 21, 2020",0.48
+Estonia,EST,"Mar 22, 2020",0.121
+Estonia,EST,"Mar 23, 2020",0.373
+Estonia,EST,"Mar 24, 2020",1.058
+Estonia,EST,"Mar 25, 2020",0.789
+Estonia,EST,"Mar 26, 2020",0.859
+Estonia,EST,"Mar 27, 2020",0.945
+Estonia,EST,"Mar 28, 2020",0.78
+Estonia,EST,"Mar 29, 2020",0.642
+Estonia,EST,"Mar 30, 2020",0.869
+Estonia,EST,"Mar 31, 2020",1.49
+Estonia,EST,"Apr 1, 2020",1.034
+Estonia,EST,"Apr 2, 2020",1.889
+Estonia,EST,"Apr 3, 2020",1.155
+Estonia,EST,"Apr 4, 2020",0.894
+Estonia,EST,"Apr 5, 2020",0.648
+Estonia,EST,"Apr 6, 2020",1.266
+Estonia,EST,"Apr 7, 2020",0.96
+Estonia,EST,"Apr 8, 2020",1.21
+Estonia,EST,"Apr 9, 2020",1.105
+Estonia,EST,"Apr 10, 2020",1.184
+Estonia,EST,"Apr 11, 2020",0.675
+Estonia,EST,"Apr 12, 2020",0.308
+Estonia,EST,"Apr 13, 2020",1.137
+Estonia,EST,"Apr 14, 2020",1.286
+Estonia,EST,"Apr 15, 2020",1.546
+Estonia,EST,"Apr 16, 2020",1.185
+Estonia,EST,"Apr 17, 2020",1.52
+Estonia,EST,"Apr 18, 2020",0.544
+Estonia,EST,"Apr 19, 2020",0.452
+Estonia,EST,"Apr 20, 2020",0.97
+Estonia,EST,"Apr 21, 2020",1.07
+Estonia,EST,"Apr 22, 2020",1.165
+Estonia,EST,"Apr 23, 2020",0.828
+Estonia,EST,"Apr 24, 2020",0.792
+Estonia,EST,"Apr 25, 2020",0.455
+Estonia,EST,"Apr 26, 2020",0.354
+Estonia,EST,"Apr 27, 2020",0.836
+Estonia,EST,"Apr 28, 2020",1.259
+Estonia,EST,"Apr 29, 2020",1.176
+Estonia,EST,"Apr 30, 2020",0.774
+Estonia,EST,"May 1, 2020",0.523
+Estonia,EST,"May 2, 2020",0.553
+Estonia,EST,"May 3, 2020",0.435
+Estonia,EST,"May 4, 2020",1.245
+Estonia,EST,"May 5, 2020",1.162
+Ethiopia,ETH,"Apr 1, 2020",0.001
+Ethiopia,ETH,"Apr 6, 2020",0.001
+Ethiopia,ETH,"Apr 7, 2020",0.002
+Ethiopia,ETH,"Apr 8, 2020",0.002
+Ethiopia,ETH,"Apr 9, 2020",0.003
+Ethiopia,ETH,"Apr 13, 2020",0.002
+Ethiopia,ETH,"Apr 14, 2020",0.004
+Ethiopia,ETH,"Apr 15, 2020",0.004
+Ethiopia,ETH,"Apr 16, 2020",0.003
+Ethiopia,ETH,"Apr 24, 2020",0.008
+Ethiopia,ETH,"Apr 25, 2020",0.009
+Ethiopia,ETH,"Apr 28, 2020",0.009
+Ethiopia,ETH,"Apr 29, 2020",0.007
+Ethiopia,ETH,"Apr 30, 2020",0.012
+Finland,FIN,"Feb 28, 2020",0.065
+Finland,FIN,"Feb 29, 2020",0.003
+Finland,FIN,"Mar 1, 2020",0.003
+Finland,FIN,"Mar 4, 2020",0.015
+Finland,FIN,"Mar 5, 2020",0.014
+Finland,FIN,"Mar 6, 2020",0.019
+Finland,FIN,"Mar 7, 2020",0.004
+Finland,FIN,"Mar 8, 2020",0.003
+Finland,FIN,"Mar 9, 2020",0.022
+Finland,FIN,"Mar 10, 2020",0.023
+Finland,FIN,"Mar 11, 2020",0.029
+Finland,FIN,"Mar 12, 2020",0.063
+Finland,FIN,"Mar 13, 2020",0.074
+Finland,FIN,"Mar 14, 2020",0.106
+Finland,FIN,"Mar 15, 2020",0.116
+Finland,FIN,"Mar 16, 2020",0.147
+Finland,FIN,"Mar 17, 2020",0.202
+Finland,FIN,"Mar 18, 2020",0.183
+Finland,FIN,"Mar 19, 2020",0.14
+Finland,FIN,"Mar 20, 2020",0.229
+Finland,FIN,"Mar 21, 2020",0.288
+Finland,FIN,"Mar 22, 2020",0.19
+Finland,FIN,"Mar 23, 2020",0.238
+Finland,FIN,"Mar 24, 2020",0.285
+Finland,FIN,"Mar 25, 2020",0.334
+Finland,FIN,"Mar 26, 2020",0.332
+Finland,FIN,"Mar 27, 2020",0.362
+Finland,FIN,"Mar 28, 2020",0.218
+Finland,FIN,"Mar 29, 2020",0.105
+Finland,FIN,"Mar 30, 2020",0.195
+Finland,FIN,"Mar 31, 2020",0.196
+Finland,FIN,"Apr 1, 2020",0.283
+Finland,FIN,"Apr 2, 2020",0.404
+Finland,FIN,"Apr 3, 2020",0.301
+Finland,FIN,"Apr 4, 2020",0.579
+Finland,FIN,"Apr 5, 2020",0.293
+Finland,FIN,"Apr 6, 2020",0.348
+Finland,FIN,"Apr 7, 2020",0.375
+Finland,FIN,"Apr 8, 2020",0.589
+Finland,FIN,"Apr 9, 2020",0.434
+Finland,FIN,"Apr 10, 2020",0.582
+Finland,FIN,"Apr 11, 2020",0.235
+Finland,FIN,"Apr 12, 2020",0.284
+Finland,FIN,"Apr 13, 2020",0.163
+Finland,FIN,"Apr 14, 2020",0.21
+Finland,FIN,"Apr 15, 2020",0.41
+Finland,FIN,"Apr 16, 2020",0.619
+Finland,FIN,"Apr 17, 2020",0.483
+Finland,FIN,"Apr 18, 2020",0.641
+Finland,FIN,"Apr 19, 2020",0.416
+Finland,FIN,"Apr 20, 2020",0.314
+Finland,FIN,"Apr 21, 2020",0.624
+Finland,FIN,"Apr 22, 2020",0.733
+Finland,FIN,"Apr 23, 2020",0.634
+Finland,FIN,"Apr 24, 2020",0.738
+Finland,FIN,"Apr 25, 2020",0.529
+Finland,FIN,"Apr 26, 2020",0.437
+Finland,FIN,"Apr 27, 2020",0.419
+Finland,FIN,"Apr 28, 2020",0.598
+Finland,FIN,"Apr 29, 2020",0.704
+Finland,FIN,"Apr 30, 2020",0.651
+Finland,FIN,"May 1, 2020",0.491
+Finland,FIN,"May 2, 2020",0.228
+Finland,FIN,"May 3, 2020",0.175
+Finland,FIN,"May 4, 2020",0.28
+Finland,FIN,"May 5, 2020",0.098
+France,FRA,"Feb 25, 2020",0.002
+France,FRA,"Feb 26, 2020",0.004
+France,FRA,"Feb 27, 2020",0.007
+France,FRA,"Feb 28, 2020",0.007
+France,FRA,"Feb 29, 2020",0.009
+France,FRA,"Mar 1, 2020",0.008
+France,FRA,"Mar 2, 2020",0.007
+France,FRA,"Mar 3, 2020",0.011
+France,FRA,"Mar 4, 2020",0.019
+France,FRA,"Mar 5, 2020",0.019
+France,FRA,"Mar 6, 2020",0.025
+France,FRA,"Mar 7, 2020",0.028
+France,FRA,"Mar 8, 2020",0.024
+France,FRA,"Mar 9, 2020",0.024
+France,FRA,"Mar 10, 2020",0.036
+Ghana,GHA,"Apr 11, 2020",0.341
+Ghana,GHA,"Apr 14, 2020",0.203
+Ghana,GHA,"Apr 19, 2020",0.247
+Ghana,GHA,"Apr 20, 2020",0.631
+Ghana,GHA,"Apr 28, 2020",0.238
+Ghana,GHA,"May 2, 2020",0.399
+Greece,GRC,"Mar 13, 2020",0.05
+Greece,GRC,"Mar 14, 2020",0.067
+Greece,GRC,"Mar 15, 2020",0.058
+Greece,GRC,"Mar 16, 2020",0.031
+Greece,GRC,"Mar 28, 2020",0.085
+Greece,GRC,"Mar 29, 2020",0.076
+Greece,GRC,"Mar 30, 2020",0.078
+Greece,GRC,"Mar 31, 2020",0.074
+Greece,GRC,"Apr 1, 2020",0.059
+Greece,GRC,"Apr 2, 2020",0.143
+Greece,GRC,"Apr 3, 2020",0.345
+Greece,GRC,"Apr 6, 2020",0.071
+Greece,GRC,"Apr 7, 2020",0.229
+Greece,GRC,"Apr 8, 2020",0.378
+Greece,GRC,"Apr 9, 2020",0.106
+Greece,GRC,"Apr 10, 2020",0.173
+Greece,GRC,"Apr 11, 2020",0.183
+Greece,GRC,"Apr 12, 2020",0.472
+Greece,GRC,"Apr 13, 2020",0.111
+Greece,GRC,"Apr 14, 2020",0.516
+Greece,GRC,"Apr 15, 2020",0.189
+Greece,GRC,"Apr 21, 2020",0.127
+Greece,GRC,"Apr 22, 2020",0.123
+Greece,GRC,"Apr 23, 2020",0.22
+Greece,GRC,"Apr 24, 2020",0.208
+Greece,GRC,"Apr 25, 2020",0.161
+Greece,GRC,"Apr 26, 2020",0.146
+Greece,GRC,"Apr 27, 2020",0.143
+Greece,GRC,"Apr 28, 2020",0.359
+Greece,GRC,"Apr 29, 2020",0.22
+Greece,GRC,"Apr 30, 2020",0.292
+Greece,GRC,"May 1, 2020",0.2
+Greece,GRC,"May 2, 2020",0.092
+Greece,GRC,"May 3, 2020",0.108
+Greece,GRC,"May 4, 2020",0.155
+Hungary,HUN,"Mar 7, 2020",0.005
+Hungary,HUN,"Mar 8, 2020",0.004
+Hungary,HUN,"Mar 11, 2020",0.008
+Hungary,HUN,"Mar 12, 2020",0.013
+Hungary,HUN,"Mar 13, 2020",0.013
+Hungary,HUN,"Mar 14, 2020",0.016
+Hungary,HUN,"Mar 15, 2020",0.023
+Hungary,HUN,"Mar 16, 2020",0.024
+Hungary,HUN,"Mar 17, 2020",0.012
+Hungary,HUN,"Mar 18, 2020",0.022
+Hungary,HUN,"Mar 19, 2020",0.054
+Hungary,HUN,"Mar 20, 2020",0.071
+Hungary,HUN,"Mar 21, 2020",0.049
+Hungary,HUN,"Mar 22, 2020",0.1
+Hungary,HUN,"Mar 23, 2020",0.111
+Hungary,HUN,"Mar 24, 2020",0.062
+Hungary,HUN,"Mar 25, 2020",0.073
+Hungary,HUN,"Mar 26, 2020",0.123
+Hungary,HUN,"Mar 27, 2020",0.131
+Hungary,HUN,"Mar 28, 2020",0.106
+Hungary,HUN,"Mar 29, 2020",0.191
+Hungary,HUN,"Mar 30, 2020",0.119
+Hungary,HUN,"Mar 31, 2020",0.087
+Hungary,HUN,"Apr 1, 2020",0.11
+Hungary,HUN,"Apr 2, 2020",0.123
+Hungary,HUN,"Apr 3, 2020",0.142
+Hungary,HUN,"Apr 4, 2020",0.171
+Hungary,HUN,"Apr 5, 2020",0.189
+Hungary,HUN,"Apr 6, 2020",0.107
+Hungary,HUN,"Apr 7, 2020",0.152
+Hungary,HUN,"Apr 8, 2020",0.207
+Hungary,HUN,"Apr 9, 2020",0.215
+Hungary,HUN,"Apr 10, 2020",0.22
+Hungary,HUN,"Apr 11, 2020",0.208
+Hungary,HUN,"Apr 12, 2020",0.163
+Hungary,HUN,"Apr 13, 2020",0.133
+Hungary,HUN,"Apr 14, 2020",0.104
+Hungary,HUN,"Apr 15, 2020",0.155
+Hungary,HUN,"Apr 16, 2020",0.12
+Hungary,HUN,"Apr 17, 2020",0.321
+Hungary,HUN,"Apr 18, 2020",0.239
+Hungary,HUN,"Apr 19, 2020",0.254
+Hungary,HUN,"Apr 20, 2020",0.176
+Hungary,HUN,"Apr 21, 2020",0.207
+Hungary,HUN,"Apr 22, 2020",0.274
+Hungary,HUN,"Apr 23, 2020",0.278
+Hungary,HUN,"Apr 24, 2020",0.296
+Hungary,HUN,"Apr 25, 2020",0.264
+Hungary,HUN,"Apr 26, 2020",0.28
+Hungary,HUN,"Apr 27, 2020",0.219
+Hungary,HUN,"Apr 28, 2020",0.16
+Hungary,HUN,"Apr 29, 2020",0.324
+Hungary,HUN,"Apr 30, 2020",0.274
+Hungary,HUN,"May 1, 2020",0.35
+Hungary,HUN,"May 2, 2020",0.333
+Hungary,HUN,"May 3, 2020",0.255
+Hungary,HUN,"May 4, 2020",0.202
+Hungary,HUN,"May 5, 2020",0.166
+Hungary,HUN,"May 6, 2020",0.123
+Iceland,ISL,"Feb 27, 2020",0.067
+Iceland,ISL,"Feb 28, 2020",0.038
+Iceland,ISL,"Feb 29, 2020",0.094
+Iceland,ISL,"Mar 1, 2020",0.064
+Iceland,ISL,"Mar 2, 2020",0.141
+Iceland,ISL,"Mar 3, 2020",0.132
+Iceland,ISL,"Mar 4, 2020",0.237
+Iceland,ISL,"Mar 5, 2020",0.182
+Iceland,ISL,"Mar 6, 2020",0.167
+Iceland,ISL,"Mar 7, 2020",0.17
+Iceland,ISL,"Mar 8, 2020",0.108
+Iceland,ISL,"Mar 9, 2020",0.287
+Iceland,ISL,"Mar 10, 2020",0.495
+Iceland,ISL,"Mar 11, 2020",0.437
+Iceland,ISL,"Mar 12, 2020",0.741
+Iceland,ISL,"Mar 13, 2020",1.046
+Iceland,ISL,"Mar 14, 2020",0.947
+Iceland,ISL,"Mar 15, 2020",3.15
+Iceland,ISL,"Mar 16, 2020",5.002
+Iceland,ISL,"Mar 17, 2020",4.103
+Iceland,ISL,"Mar 18, 2020",5.357
+Iceland,ISL,"Mar 19, 2020",3.842
+Iceland,ISL,"Mar 20, 2020",1.697
+Iceland,ISL,"Mar 21, 2020",1.026
+Iceland,ISL,"Mar 22, 2020",0.536
+Iceland,ISL,"Mar 23, 2020",1.345
+Iceland,ISL,"Mar 24, 2020",2.834
+Iceland,ISL,"Mar 25, 2020",2.602
+Iceland,ISL,"Mar 26, 2020",2.925
+Iceland,ISL,"Mar 27, 2020",2.995
+Iceland,ISL,"Mar 28, 2020",2.488
+Iceland,ISL,"Mar 29, 2020",2.93
+Iceland,ISL,"Mar 30, 2020",4.161
+Iceland,ISL,"Mar 31, 2020",4.724
+Iceland,ISL,"Apr 1, 2020",4.144
+Iceland,ISL,"Apr 2, 2020",3.707
+Iceland,ISL,"Apr 3, 2020",4.234
+Iceland,ISL,"Apr 4, 2020",5.14
+Iceland,ISL,"Apr 5, 2020",7.285
+Iceland,ISL,"Apr 6, 2020",3.259
+Iceland,ISL,"Apr 7, 2020",5.729
+Iceland,ISL,"Apr 8, 2020",4.911
+Iceland,ISL,"Apr 9, 2020",4.401
+Iceland,ISL,"Apr 10, 2020",1.495
+Iceland,ISL,"Apr 11, 2020",1.811
+Iceland,ISL,"Apr 12, 2020",0.689
+Iceland,ISL,"Apr 13, 2020",2.494
+Iceland,ISL,"Apr 14, 2020",3.068
+Iceland,ISL,"Apr 15, 2020",2.397
+Iceland,ISL,"Apr 16, 2020",3.903
+Iceland,ISL,"Apr 17, 2020",4.557
+Iceland,ISL,"Apr 18, 2020",4.897
+Iceland,ISL,"Apr 19, 2020",1.116
+Iceland,ISL,"Apr 20, 2020",2.016
+Iceland,ISL,"Apr 21, 2020",1.867
+Iceland,ISL,"Apr 22, 2020",1.832
+Iceland,ISL,"Apr 23, 2020",0.566
+Iceland,ISL,"Apr 24, 2020",2.007
+Iceland,ISL,"Apr 25, 2020",1.116
+Iceland,ISL,"Apr 26, 2020",0.073
+Iceland,ISL,"Apr 27, 2020",2.016
+Iceland,ISL,"Apr 28, 2020",1.489
+Iceland,ISL,"Apr 29, 2020",2.462
+Iceland,ISL,"Apr 30, 2020",2.116
+Iceland,ISL,"May 1, 2020",2.541
+Iceland,ISL,"May 2, 2020",1.184
+Iceland,ISL,"May 3, 2020",0.208
+Iceland,ISL,"May 4, 2020",2.544
+Iceland,ISL,"May 5, 2020",0.932
+India,IND,"Mar 20, 2020",0.001
+India,IND,"Mar 21, 2020",0.001
+India,IND,"Mar 22, 2020",0.001
+India,IND,"Mar 23, 2020",0.003
+India,IND,"Mar 25, 2020",0.003
+India,IND,"Apr 3, 2020",0.015
+India,IND,"Apr 4, 2020",0.008
+India,IND,"Apr 5, 2020",0.007
+India,IND,"Apr 6, 2020",0.008
+India,IND,"Apr 7, 2020",0.009
+India,IND,"Apr 8, 2020",0.01
+India,IND,"Apr 9, 2020",0.012
+India,IND,"Apr 10, 2020",0.012
+India,IND,"Apr 11, 2020",0.013
+India,IND,"Apr 12, 2020",0.012
+India,IND,"Apr 13, 2020",0.016
+India,IND,"Apr 14, 2020",0.02
+India,IND,"Apr 15, 2020",0.022
+India,IND,"Apr 16, 2020",0.021
+India,IND,"Apr 17, 2020",0.023
+India,IND,"Apr 18, 2020",0.027
+India,IND,"Apr 19, 2020",0.021
+India,IND,"Apr 24, 2020",0.03
+India,IND,"Apr 25, 2020",0.028
+India,IND,"Apr 26, 2020",0.033
+India,IND,"Apr 27, 2020",0.029
+India,IND,"Apr 28, 2020",0.037
+India,IND,"Apr 29, 2020",0.039
+India,IND,"Apr 30, 2020",0.043
+India,IND,"May 1, 2020",0.053
+India,IND,"May 2, 2020",0.053
+India,IND,"May 3, 2020",0.051
+India,IND,"May 4, 2020",0.044
+India,IND,"May 5, 2020",0.061
+India,IND,"May 6, 2020",0.061
+"India, people tested",,"Mar 20, 2020",0.001
+"India, people tested",,"Mar 21, 2020",0.001
+"India, people tested",,"Mar 22, 2020",0.001
+"India, people tested",,"Mar 23, 2020",0.003
+"India, people tested",,"Mar 25, 2020",0.003
+"India, people tested",,"Apr 10, 2020",0.012
+"India, people tested",,"Apr 11, 2020",0.013
+"India, people tested",,"Apr 12, 2020",0.012
+"India, people tested",,"Apr 13, 2020",0.016
+"India, people tested",,"Apr 14, 2020",0.019
+"India, people tested",,"Apr 15, 2020",0.021
+"India, people tested",,"Apr 16, 2020",0.02
+"India, people tested",,"Apr 17, 2020",0.023
+"India, people tested",,"Apr 18, 2020",0.026
+"India, people tested",,"Apr 19, 2020",0.021
+"India, people tested",,"Apr 24, 2020",0.029
+Indonesia,IDN,"Mar 20, 2020",0.001
+Indonesia,IDN,"Mar 24, 2020",0.001
+Indonesia,IDN,"Mar 28, 2020",0.005
+Indonesia,IDN,"Mar 29, 2020",0.002
+Indonesia,IDN,"Mar 30, 2020",0.001
+Indonesia,IDN,"Apr 2, 2020",0.002
+Indonesia,IDN,"Apr 3, 2020",0.002
+Indonesia,IDN,"Apr 4, 2020",0.001
+Indonesia,IDN,"Apr 7, 2020",0.007
+Indonesia,IDN,"Apr 8, 2020",0.004
+Indonesia,IDN,"Apr 9, 2020",0.008
+Indonesia,IDN,"Apr 10, 2020",0.01
+Indonesia,IDN,"Apr 11, 2020",0.001
+Indonesia,IDN,"Apr 12, 2020",0.027
+Indonesia,IDN,"Apr 13, 2020",0.001
+Indonesia,IDN,"Apr 14, 2020",0.015
+Indonesia,IDN,"Apr 15, 2020",0.005
+Indonesia,IDN,"Apr 16, 2020",0.007
+Indonesia,IDN,"Apr 17, 2020",0.008
+Indonesia,IDN,"Apr 18, 2020",0.008
+Indonesia,IDN,"Apr 19, 2020",0.01
+Indonesia,IDN,"Apr 20, 2020",0.006
+Indonesia,IDN,"Apr 21, 2020",0.009
+Indonesia,IDN,"Apr 22, 2020",0.004
+Indonesia,IDN,"Apr 23, 2020",0.005
+Indonesia,IDN,"Apr 24, 2020",0.007
+Indonesia,IDN,"Apr 25, 2020",0.007
+Indonesia,IDN,"Apr 26, 2020",0.016
+Indonesia,IDN,"Apr 27, 2020",0.009
+Indonesia,IDN,"Apr 28, 2020",0.011
+Indonesia,IDN,"Apr 29, 2020",0.019
+Indonesia,IDN,"Apr 30, 2020",0.017
+Indonesia,IDN,"May 1, 2020",0.015
+Indonesia,IDN,"May 2, 2020",0.012
+Indonesia,IDN,"May 3, 2020",0.011
+Indonesia,IDN,"May 4, 2020",0.011
+Indonesia,IDN,"May 5, 2020",0.01
+Indonesia,IDN,"May 6, 2020",0.015
+Iran,IRN,"Apr 9, 2020",0.124
+Iran,IRN,"Apr 10, 2020",0.133
+Iran,IRN,"Apr 11, 2020",0.109
+Iran,IRN,"Apr 12, 2020",0.139
+Iran,IRN,"Apr 15, 2020",0.141
+Iran,IRN,"Apr 16, 2020",0.133
+Iran,IRN,"Apr 17, 2020",0.114
+Iran,IRN,"Apr 18, 2020",0.122
+Iran,IRN,"Apr 19, 2020",0.137
+Iran,IRN,"Apr 20, 2020",0.135
+Iran,IRN,"Apr 21, 2020",0.151
+Iran,IRN,"Apr 24, 2020",0.124
+Iran,IRN,"Apr 25, 2020",0.121
+Iran,IRN,"Apr 26, 2020",0.134
+Iran,IRN,"Apr 27, 2020",0.131
+Iran,IRN,"Apr 30, 2020",0.118
+Iran,IRN,"May 1, 2020",0.14
+Iran,IRN,"May 2, 2020",0.113
+Iran,IRN,"May 3, 2020",0.14
+Iran,IRN,"May 4, 2020",0.143
+Iran,IRN,"May 5, 2020",0.134
+Iran,IRN,"May 6, 2020",0.14
+Israel,ISR,"Feb 22, 2020",0.002
+Israel,ISR,"Feb 23, 2020",0.009
+Israel,ISR,"Feb 24, 2020",0.007
+Israel,ISR,"Feb 25, 2020",0.012
+Israel,ISR,"Feb 26, 2020",0.014
+Israel,ISR,"Feb 27, 2020",0.015
+Israel,ISR,"Feb 28, 2020",0.013
+Israel,ISR,"Feb 29, 2020",0.018
+Israel,ISR,"Mar 1, 2020",0.018
+Israel,ISR,"Mar 2, 2020",0.02
+Israel,ISR,"Mar 3, 2020",0.026
+Israel,ISR,"Mar 4, 2020",0.014
+Israel,ISR,"Mar 5, 2020",0.02
+Israel,ISR,"Mar 6, 2020",0.035
+Israel,ISR,"Mar 7, 2020",0.045
+Israel,ISR,"Mar 8, 2020",0.055
+Israel,ISR,"Mar 9, 2020",0.068
+Israel,ISR,"Mar 10, 2020",0.06
+Israel,ISR,"Mar 11, 2020",0.059
+Israel,ISR,"Mar 12, 2020",0.083
+Israel,ISR,"Mar 13, 2020",0.091
+Israel,ISR,"Mar 14, 2020",0.075
+Israel,ISR,"Mar 15, 2020",0.132
+Israel,ISR,"Mar 16, 2020",0.148
+Israel,ISR,"Mar 17, 2020",0.247
+Israel,ISR,"Mar 18, 2020",0.307
+Israel,ISR,"Mar 19, 2020",0.289
+Israel,ISR,"Mar 20, 2020",0.305
+Israel,ISR,"Mar 21, 2020",0.228
+Israel,ISR,"Mar 22, 2020",0.388
+Israel,ISR,"Mar 23, 2020",0.447
+Israel,ISR,"Mar 24, 2020",0.585
+Israel,ISR,"Mar 25, 2020",0.605
+Israel,ISR,"Mar 26, 2020",0.642
+Israel,ISR,"Mar 27, 2020",0.579
+Israel,ISR,"Mar 28, 2020",0.573
+Israel,ISR,"Mar 29, 2020",0.75
+Israel,ISR,"Mar 30, 2020",0.656
+Israel,ISR,"Mar 31, 2020",0.907
+Israel,ISR,"Apr 1, 2020",0.949
+Israel,ISR,"Apr 2, 2020",1.049
+Israel,ISR,"Apr 3, 2020",1.144
+Israel,ISR,"Apr 4, 2020",0.768
+Israel,ISR,"Apr 5, 2020",1.072
+Israel,ISR,"Apr 6, 2020",0.838
+Israel,ISR,"Apr 7, 2020",0.762
+Israel,ISR,"Apr 8, 2020",0.644
+Israel,ISR,"Apr 9, 2020",0.639
+Israel,ISR,"Apr 10, 2020",0.78
+Israel,ISR,"Apr 11, 2020",0.728
+Israel,ISR,"Apr 12, 2020",1.103
+Israel,ISR,"Apr 13, 2020",1.204
+Israel,ISR,"Apr 14, 2020",1.463
+Israel,ISR,"Apr 15, 2020",1.092
+Israel,ISR,"Apr 16, 2020",1.477
+Israel,ISR,"Apr 17, 2020",1.246
+Israel,ISR,"Apr 18, 2020",1.226
+Israel,ISR,"Apr 19, 2020",1.185
+Israel,ISR,"Apr 20, 2020",1.541
+Israel,ISR,"Apr 21, 2020",1.32
+Israel,ISR,"Apr 22, 2020",1.375
+Israel,ISR,"Apr 23, 2020",1.601
+Israel,ISR,"Apr 24, 2020",1.363
+Israel,ISR,"Apr 25, 2020",2.392
+Israel,ISR,"Apr 26, 2020",0.97
+Israel,ISR,"Apr 27, 2020",1.257
+Israel,ISR,"Apr 28, 2020",1.21
+Israel,ISR,"Apr 29, 2020",1.283
+Israel,ISR,"Apr 30, 2020",0.915
+Israel,ISR,"May 1, 2020",1.391
+Israel,ISR,"May 2, 2020",0.778
+Israel,ISR,"May 3, 2020",1
+Israel,ISR,"May 4, 2020",1.108
+Israel,ISR,"May 5, 2020",0.302
+Italy,ITA,"Feb 25, 2020",0.071
+Italy,ITA,"Feb 26, 2020",0.016
+Italy,ITA,"Feb 27, 2020",0.04
+Italy,ITA,"Feb 28, 2020",0.061
+Italy,ITA,"Feb 29, 2020",0.049
+Italy,ITA,"Mar 1, 2020",0.041
+Italy,ITA,"Mar 2, 2020",0.037
+Italy,ITA,"Mar 3, 2020",0.042
+Italy,ITA,"Mar 4, 2020",0.066
+Italy,ITA,"Mar 5, 2020",0.042
+Italy,ITA,"Mar 6, 2020",0.066
+Italy,ITA,"Mar 7, 2020",0.094
+Italy,ITA,"Mar 8, 2020",0.13
+Italy,ITA,"Mar 9, 2020",0.064
+Italy,ITA,"Mar 10, 2020",0.115
+Italy,ITA,"Mar 11, 2020",0.205
+Italy,ITA,"Mar 12, 2020",0.213
+Italy,ITA,"Mar 13, 2020",0.19
+Italy,ITA,"Mar 14, 2020",0.193
+Italy,ITA,"Mar 15, 2020",0.26
+Italy,ITA,"Mar 16, 2020",0.216
+Italy,ITA,"Mar 17, 2020",0.177
+Italy,ITA,"Mar 18, 2020",0.279
+Italy,ITA,"Mar 19, 2020",0.285
+Italy,ITA,"Mar 20, 2020",0.399
+Italy,ITA,"Mar 21, 2020",0.436
+Italy,ITA,"Mar 22, 2020",0.416
+Italy,ITA,"Mar 23, 2020",0.282
+Italy,ITA,"Mar 24, 2020",0.356
+Italy,ITA,"Mar 25, 2020",0.455
+Italy,ITA,"Mar 26, 2020",0.606
+Italy,ITA,"Mar 27, 2020",0.546
+Italy,ITA,"Mar 28, 2020",0.586
+Italy,ITA,"Mar 29, 2020",0.405
+Italy,ITA,"Mar 30, 2020",0.386
+Italy,ITA,"Mar 31, 2020",0.49
+Italy,ITA,"Apr 1, 2020",0.57
+Italy,ITA,"Apr 2, 2020",0.658
+Italy,ITA,"Apr 3, 2020",0.639
+Italy,ITA,"Apr 4, 2020",0.618
+Italy,ITA,"Apr 5, 2020",0.566
+Italy,ITA,"Apr 6, 2020",0.501
+Italy,ITA,"Apr 7, 2020",0.558
+Italy,ITA,"Apr 8, 2020",0.855
+Italy,ITA,"Apr 9, 2020",0.765
+Italy,ITA,"Apr 10, 2020",0.885
+Italy,ITA,"Apr 11, 2020",0.936
+Italy,ITA,"Apr 12, 2020",0.773
+Italy,ITA,"Apr 13, 2020",0.607
+Italy,ITA,"Apr 14, 2020",0.443
+Italy,ITA,"Apr 15, 2020",0.723
+Italy,ITA,"Apr 16, 2020",1.009
+Italy,ITA,"Apr 17, 2020",1.087
+Italy,ITA,"Apr 18, 2020",1.021
+Italy,ITA,"Apr 19, 2020",0.839
+Italy,ITA,"Apr 20, 2020",0.686
+Italy,ITA,"Apr 21, 2020",0.862
+Italy,ITA,"Apr 22, 2020",1.044
+Italy,ITA,"Apr 23, 2020",1.102
+Italy,ITA,"Apr 24, 2020",1.033
+Italy,ITA,"Apr 25, 2020",1.081
+Italy,ITA,"Apr 26, 2020",0.826
+Italy,ITA,"Apr 27, 2020",0.529
+Italy,ITA,"Apr 28, 2020",0.947
+Italy,ITA,"Apr 29, 2020",1.056
+Italy,ITA,"Apr 30, 2020",1.132
+Italy,ITA,"May 1, 2020",1.227
+Italy,ITA,"May 2, 2020",0.916
+Italy,ITA,"May 3, 2020",0.743
+Italy,ITA,"May 4, 2020",0.622
+Italy,ITA,"May 5, 2020",0.914
+Italy,ITA,"May 6, 2020",1.063
+"Italy, people tested",,"Apr 20, 2020",0.13
+"Italy, people tested",,"Apr 21, 2020",0.465
+"Italy, people tested",,"Apr 22, 2020",0.732
+"Italy, people tested",,"Apr 23, 2020",0.613
+"Italy, people tested",,"Apr 24, 2020",1.576
+"Italy, people tested",,"Apr 25, 2020",0.64
+"Italy, people tested",,"Apr 26, 2020",0.399
+"Italy, people tested",,"Apr 27, 2020",0.441
+"Italy, people tested",,"Apr 28, 2020",0.621
+"Italy, people tested",,"Apr 29, 2020",0.638
+"Italy, people tested",,"Apr 30, 2020",0.685
+"Italy, people tested",,"May 1, 2020",0.723
+"Italy, people tested",,"May 2, 2020",0.517
+"Italy, people tested",,"May 3, 2020",0.447
+"Italy, people tested",,"May 4, 2020",0.38
+"Italy, people tested",,"May 5, 2020",0.533
+"Italy, people tested",,"May 6, 2020",0.625
+"Japan, tests performed",,"Feb 18, 2020",0.008
+"Japan, tests performed",,"Feb 19, 2020",0.006
+"Japan, tests performed",,"Feb 20, 2020",0.006
+"Japan, tests performed",,"Feb 21, 2020",0.013
+"Japan, tests performed",,"Feb 22, 2020",0.009
+"Japan, tests performed",,"Feb 23, 2020",0.005
+"Japan, tests performed",,"Feb 24, 2020",0.004
+"Japan, tests performed",,"Feb 25, 2020",0.007
+"Japan, tests performed",,"Feb 26, 2020",0.011
+"Japan, tests performed",,"Feb 27, 2020",0.011
+"Japan, tests performed",,"Feb 28, 2020",0.012
+"Japan, tests performed",,"Feb 29, 2020",0.008
+"Japan, tests performed",,"Mar 1, 2020",0.005
+"Japan, tests performed",,"Mar 2, 2020",0.009
+"Japan, tests performed",,"Mar 3, 2020",0.013
+"Japan, tests performed",,"Mar 4, 2020",0.011
+"Japan, tests performed",,"Mar 5, 2020",0.012
+"Japan, tests performed",,"Mar 6, 2020",0.015
+"Japan, tests performed",,"Mar 7, 2020",0.012
+"Japan, tests performed",,"Mar 8, 2020",0.004
+"Japan, tests performed",,"Mar 9, 2020",0.01
+"Japan, tests performed",,"Mar 10, 2020",0.016
+"Japan, tests performed",,"Mar 11, 2020",0.015
+"Japan, tests performed",,"Mar 12, 2020",0.014
+"Japan, tests performed",,"Mar 13, 2020",0.012
+"Japan, tests performed",,"Mar 14, 2020",0.012
+"Japan, tests performed",,"Mar 15, 2020",0.005
+"Japan, tests performed",,"Mar 16, 2020",0.009
+"Japan, tests performed",,"Mar 17, 2020",0.014
+"Japan, tests performed",,"Mar 18, 2020",0.014
+"Japan, tests performed",,"Mar 19, 2020",0.014
+"Japan, tests performed",,"Mar 20, 2020",0.012
+"Japan, tests performed",,"Mar 21, 2020",0.007
+"Japan, tests performed",,"Mar 22, 2020",0.007
+"Japan, tests performed",,"Mar 23, 2020",0.011
+"Japan, tests performed",,"Mar 24, 2020",0.018
+"Japan, tests performed",,"Mar 25, 2020",0.015
+"Japan, tests performed",,"Mar 26, 2020",0.017
+"Japan, tests performed",,"Mar 27, 2020",0.018
+"Japan, tests performed",,"Mar 28, 2020",0.02
+"Japan, tests performed",,"Mar 29, 2020",0.017
+"Japan, tests performed",,"Mar 30, 2020",0.025
+"Japan, tests performed",,"Mar 31, 2020",0.032
+"Japan, tests performed",,"Apr 1, 2020",0.033
+"Japan, tests performed",,"Apr 2, 2020",0.04
+"Japan, tests performed",,"Apr 3, 2020",0.046
+"Japan, tests performed",,"Apr 4, 2020",0.047
+"Japan, tests performed",,"Apr 5, 2020",0.029
+"Japan, tests performed",,"Apr 6, 2020",0.042
+"Japan, tests performed",,"Apr 7, 2020",0.058
+"Japan, tests performed",,"Apr 8, 2020",0.063
+"Japan, tests performed",,"Apr 9, 2020",0.064
+"Japan, tests performed",,"Apr 10, 2020",0.063
+"Japan, tests performed",,"Apr 11, 2020",0.056
+"Japan, tests performed",,"Apr 12, 2020",0.038
+"Japan, tests performed",,"Apr 13, 2020",0.054
+"Japan, tests performed",,"Apr 14, 2020",0.067
+"Japan, tests performed",,"Apr 15, 2020",0.07
+"Japan, tests performed",,"Apr 16, 2020",0.066
+"Japan, tests performed",,"Apr 17, 2020",0.074
+"Japan, tests performed",,"Apr 18, 2020",0.068
+"Japan, tests performed",,"Apr 19, 2020",0.036
+"Japan, tests performed",,"Apr 20, 2020",0.055
+"Japan, tests performed",,"Apr 21, 2020",0.065
+"Japan, tests performed",,"Apr 22, 2020",0.069
+"Japan, tests performed",,"Apr 23, 2020",0.073
+"Japan, tests performed",,"Apr 24, 2020",0.063
+"Japan, tests performed",,"Apr 25, 2020",0.053
+"Japan, tests performed",,"Apr 26, 2020",0.031
+"Japan, tests performed",,"Apr 27, 2020",0.054
+"Japan, tests performed",,"Apr 28, 2020",0.065
+"Japan, tests performed",,"Apr 29, 2020",0.056
+"Japan, tests performed",,"Apr 30, 2020",0.052
+"Japan, tests performed",,"May 1, 2020",0.029
+"Japan, tests performed",,"May 2, 2020",0.025
+"Japan, tests performed",,"May 3, 2020",0.02
+"Japan, tests performed",,"May 4, 2020",0.016
+Kazakhstan,KAZ,"Mar 14, 2020",0.017
+Kazakhstan,KAZ,"Mar 15, 2020",0.011
+Kazakhstan,KAZ,"Mar 16, 2020",0.021
+Kazakhstan,KAZ,"Mar 17, 2020",0.05
+Kazakhstan,KAZ,"Mar 18, 2020",0.014
+Kazakhstan,KAZ,"Mar 19, 2020",0.056
+Kazakhstan,KAZ,"Mar 20, 2020",0.043
+Kazakhstan,KAZ,"Mar 21, 2020",0.063
+Kazakhstan,KAZ,"Mar 22, 2020",0.066
+Kazakhstan,KAZ,"Mar 23, 2020",0.093
+Kazakhstan,KAZ,"Mar 24, 2020",0.086
+Kazakhstan,KAZ,"Mar 25, 2020",0.078
+Kazakhstan,KAZ,"Mar 26, 2020",0.112
+Kazakhstan,KAZ,"Mar 27, 2020",0.09
+Kazakhstan,KAZ,"Mar 28, 2020",0.079
+Kazakhstan,KAZ,"Mar 29, 2020",0.144
+Kazakhstan,KAZ,"Mar 30, 2020",0.09
+Kazakhstan,KAZ,"Mar 31, 2020",0.527
+Kazakhstan,KAZ,"Apr 1, 2020",0.102
+Kazakhstan,KAZ,"Apr 2, 2020",0.126
+Kazakhstan,KAZ,"Apr 3, 2020",0.424
+Kazakhstan,KAZ,"Apr 4, 2020",0.128
+Kazakhstan,KAZ,"Apr 5, 2020",0.265
+Kazakhstan,KAZ,"Apr 6, 2020",0.126
+Kazakhstan,KAZ,"Apr 7, 2020",0.1
+Kazakhstan,KAZ,"Apr 8, 2020",0.107
+Kazakhstan,KAZ,"Apr 9, 2020",0.138
+Kazakhstan,KAZ,"Apr 10, 2020",0.138
+Kazakhstan,KAZ,"Apr 11, 2020",0.208
+Kazakhstan,KAZ,"Apr 12, 2020",0.184
+Kazakhstan,KAZ,"Apr 13, 2020",0.202
+Kazakhstan,KAZ,"Apr 14, 2020",0.202
+Kazakhstan,KAZ,"Apr 15, 2020",0.237
+Kazakhstan,KAZ,"Apr 16, 2020",0.233
+Kazakhstan,KAZ,"Apr 17, 2020",0.35
+Kazakhstan,KAZ,"Apr 18, 2020",0.457
+Kazakhstan,KAZ,"Apr 19, 2020",0.424
+Kazakhstan,KAZ,"Apr 20, 2020",0.486
+Kazakhstan,KAZ,"Apr 21, 2020",0.467
+Kazakhstan,KAZ,"Apr 22, 2020",0.665
+Kazakhstan,KAZ,"Apr 23, 2020",0.761
+Kazakhstan,KAZ,"Apr 24, 2020",0.587
+Kazakhstan,KAZ,"Apr 25, 2020",0.852
+Kazakhstan,KAZ,"Apr 26, 2020",0.841
+Kazakhstan,KAZ,"Apr 27, 2020",0.493
+Kazakhstan,KAZ,"Apr 28, 2020",0.571
+Kazakhstan,KAZ,"Apr 29, 2020",0.86
+Kazakhstan,KAZ,"Apr 30, 2020",0.911
+Kazakhstan,KAZ,"May 1, 2020",1.012
+Kazakhstan,KAZ,"May 2, 2020",0.763
+Kazakhstan,KAZ,"May 3, 2020",0.707
+Kazakhstan,KAZ,"May 4, 2020",0.571
+Kazakhstan,KAZ,"May 5, 2020",0.722
+Kazakhstan,KAZ,"May 6, 2020",0.856
+Kenya,KEN,"Mar 19, 2020",0.001
+Kenya,KEN,"Mar 29, 2020",0.001
+Kenya,KEN,"Mar 30, 2020",0.003
+Kenya,KEN,"Mar 31, 2020",0.004
+Kenya,KEN,"Apr 1, 2020",0.007
+Kenya,KEN,"Apr 2, 2020",0.012
+Kenya,KEN,"Apr 3, 2020",0.007
+Kenya,KEN,"Apr 4, 2020",0.007
+Kenya,KEN,"Apr 5, 2020",0.01
+Kenya,KEN,"Apr 6, 2020",0.012
+Kenya,KEN,"Apr 7, 2020",0.013
+Kenya,KEN,"Apr 8, 2020",0.006
+Kenya,KEN,"Apr 9, 2020",0.006
+Kenya,KEN,"Apr 10, 2020",0.011
+Kenya,KEN,"Apr 11, 2020",0.009
+Kenya,KEN,"Apr 12, 2020",0.014
+Kenya,KEN,"Apr 13, 2020",0.013
+Kenya,KEN,"Apr 14, 2020",0.013
+Kenya,KEN,"Apr 15, 2020",0.015
+Kenya,KEN,"Apr 16, 2020",0.013
+Kenya,KEN,"Apr 17, 2020",0.008
+Kenya,KEN,"Apr 18, 2020",0.021
+Kenya,KEN,"Apr 19, 2020",0.025
+Kenya,KEN,"Apr 20, 2020",0.012
+Kenya,KEN,"Apr 21, 2020",0.015
+Kenya,KEN,"Apr 22, 2020",0.013
+Kenya,KEN,"Apr 23, 2020",0.012
+Kenya,KEN,"Apr 24, 2020",0.012
+Kenya,KEN,"May 1, 2020",0.027
+Kenya,KEN,"May 2, 2020",0.022
+Kenya,KEN,"May 3, 2020",0.016
+Kenya,KEN,"May 4, 2020",0.019
+Kenya,KEN,"May 5, 2020",0.02
+Latvia,LVA,"Feb 29, 2020",0.061
+Latvia,LVA,"Mar 1, 2020",0.005
+Latvia,LVA,"Mar 2, 2020",0.02
+Latvia,LVA,"Mar 3, 2020",0.022
+Latvia,LVA,"Mar 4, 2020",0.019
+Latvia,LVA,"Mar 5, 2020",0.019
+Latvia,LVA,"Mar 6, 2020",0.017
+Latvia,LVA,"Mar 7, 2020",0.007
+Latvia,LVA,"Mar 8, 2020",0.012
+Latvia,LVA,"Mar 9, 2020",0.025
+Latvia,LVA,"Mar 10, 2020",0.031
+Latvia,LVA,"Mar 11, 2020",0.025
+Latvia,LVA,"Mar 12, 2020",0.042
+Latvia,LVA,"Mar 13, 2020",0.067
+Latvia,LVA,"Mar 14, 2020",0.168
+Latvia,LVA,"Mar 15, 2020",0.177
+Latvia,LVA,"Mar 16, 2020",0.186
+Latvia,LVA,"Mar 17, 2020",0.262
+Latvia,LVA,"Mar 18, 2020",0.4
+Latvia,LVA,"Mar 19, 2020",0.382
+Latvia,LVA,"Mar 20, 2020",0.371
+Latvia,LVA,"Mar 21, 2020",0.736
+Latvia,LVA,"Mar 22, 2020",0.43
+Latvia,LVA,"Mar 23, 2020",0.628
+Latvia,LVA,"Mar 24, 2020",0.47
+Latvia,LVA,"Mar 25, 2020",0.61
+Latvia,LVA,"Mar 26, 2020",0.433
+Latvia,LVA,"Mar 27, 2020",0.577
+Latvia,LVA,"Mar 28, 2020",0.555
+Latvia,LVA,"Mar 29, 2020",0.56
+Latvia,LVA,"Mar 30, 2020",0.266
+Latvia,LVA,"Mar 31, 2020",0.265
+Latvia,LVA,"Apr 1, 2020",0.532
+Latvia,LVA,"Apr 2, 2020",0.543
+Latvia,LVA,"Apr 3, 2020",0.723
+Latvia,LVA,"Apr 4, 2020",0.627
+Latvia,LVA,"Apr 5, 2020",0.689
+Latvia,LVA,"Apr 6, 2020",0.41
+Latvia,LVA,"Apr 7, 2020",0.595
+Latvia,LVA,"Apr 8, 2020",0.775
+Latvia,LVA,"Apr 9, 2020",0.754
+Latvia,LVA,"Apr 10, 2020",0.635
+Latvia,LVA,"Apr 11, 2020",0.604
+Latvia,LVA,"Apr 12, 2020",0.222
+Latvia,LVA,"Apr 13, 2020",0.298
+Latvia,LVA,"Apr 14, 2020",0.128
+Latvia,LVA,"Apr 15, 2020",0.465
+Latvia,LVA,"Apr 16, 2020",0.745
+Latvia,LVA,"Apr 17, 2020",0.814
+Latvia,LVA,"Apr 18, 2020",0.986
+Latvia,LVA,"Apr 19, 2020",0.628
+Latvia,LVA,"Apr 20, 2020",0.417
+Latvia,LVA,"Apr 21, 2020",0.691
+Latvia,LVA,"Apr 22, 2020",0.723
+Latvia,LVA,"Apr 23, 2020",0.904
+Latvia,LVA,"Apr 24, 2020",1.081
+Latvia,LVA,"Apr 25, 2020",1.412
+Latvia,LVA,"Apr 26, 2020",0.994
+Latvia,LVA,"Apr 27, 2020",0.829
+Latvia,LVA,"Apr 28, 2020",1.262
+Latvia,LVA,"Apr 29, 2020",1.723
+Latvia,LVA,"Apr 30, 2020",1.63
+Latvia,LVA,"May 1, 2020",1.715
+Latvia,LVA,"May 2, 2020",1.051
+Latvia,LVA,"May 3, 2020",0.606
+Latvia,LVA,"May 4, 2020",0.646
+Latvia,LVA,"May 5, 2020",0.364
+Latvia,LVA,"May 6, 2020",1.313
+Lithuania,LTU,"Mar 17, 2020",0.043
+Lithuania,LTU,"Mar 18, 2020",0.071
+Lithuania,LTU,"Mar 28, 2020",0.516
+Lithuania,LTU,"Mar 29, 2020",0.56
+Lithuania,LTU,"Mar 30, 2020",0.539
+Lithuania,LTU,"Apr 2, 2020",1.12
+Lithuania,LTU,"Apr 3, 2020",1.032
+Lithuania,LTU,"Apr 4, 2020",1.081
+Lithuania,LTU,"Apr 5, 2020",0.833
+Lithuania,LTU,"Apr 6, 2020",0.718
+Lithuania,LTU,"Apr 7, 2020",0.811
+Lithuania,LTU,"Apr 10, 2020",1.191
+Lithuania,LTU,"Apr 11, 2020",0.889
+Lithuania,LTU,"Apr 14, 2020",0.436
+Lithuania,LTU,"Apr 15, 2020",0.73
+Lithuania,LTU,"Apr 16, 2020",1.418
+Lithuania,LTU,"Apr 17, 2020",1.677
+Lithuania,LTU,"Apr 18, 2020",2.099
+Lithuania,LTU,"Apr 19, 2020",1.917
+Lithuania,LTU,"Apr 20, 2020",0.851
+Lithuania,LTU,"Apr 21, 2020",1.617
+Lithuania,LTU,"Apr 22, 2020",2.219
+Lithuania,LTU,"Apr 23, 2020",2.497
+Lithuania,LTU,"Apr 24, 2020",2.719
+Lithuania,LTU,"Apr 25, 2020",2.923
+Lithuania,LTU,"Apr 26, 2020",2.035
+Lithuania,LTU,"Apr 27, 2020",0.84
+Lithuania,LTU,"Apr 28, 2020",1.849
+Lithuania,LTU,"Apr 29, 2020",2.348
+Lithuania,LTU,"Apr 30, 2020",2.701
+Lithuania,LTU,"May 1, 2020",2.65
+Lithuania,LTU,"May 2, 2020",2.021
+Lithuania,LTU,"May 3, 2020",1.252
+Lithuania,LTU,"May 4, 2020",0.864
+Lithuania,LTU,"May 5, 2020",1.865
+Lithuania,LTU,"May 6, 2020",2.714
+Luxembourg,LUX,"Apr 4, 2020",2.125
+Luxembourg,LUX,"Apr 10, 2020",1.201
+Luxembourg,LUX,"Apr 11, 2020",1.105
+Luxembourg,LUX,"Apr 12, 2020",0.559
+Luxembourg,LUX,"Apr 15, 2020",1.917
+Luxembourg,LUX,"Apr 16, 2020",1.497
+Luxembourg,LUX,"Apr 17, 2020",1.173
+Luxembourg,LUX,"Apr 18, 2020",1.371
+Luxembourg,LUX,"Apr 19, 2020",0.661
+Luxembourg,LUX,"Apr 20, 2020",0.211
+Luxembourg,LUX,"Apr 21, 2020",1.859
+Luxembourg,LUX,"Apr 22, 2020",1.797
+Luxembourg,LUX,"Apr 23, 2020",1.284
+Luxembourg,LUX,"Apr 24, 2020",1.423
+Luxembourg,LUX,"Apr 25, 2020",1.169
+Luxembourg,LUX,"Apr 26, 2020",0.781
+Luxembourg,LUX,"Apr 27, 2020",0.158
+Luxembourg,LUX,"Apr 28, 2020",1.021
+Luxembourg,LUX,"Apr 29, 2020",3.222
+Luxembourg,LUX,"Apr 30, 2020",1.414
+Luxembourg,LUX,"May 1, 2020",3.598
+Luxembourg,LUX,"May 2, 2020",4.098
+Luxembourg,LUX,"May 3, 2020",1.051
+Luxembourg,LUX,"May 4, 2020",0.353
+Luxembourg,LUX,"May 5, 2020",1.534
+Luxembourg,LUX,"May 6, 2020",1.971
+Malaysia,MYS,"Feb 17, 2020",0.003
+Malaysia,MYS,"Feb 18, 2020",0.001
+Malaysia,MYS,"Feb 21, 2020",0.003
+Malaysia,MYS,"Feb 24, 2020",0.001
+Malaysia,MYS,"Feb 26, 2020",0.001
+Malaysia,MYS,"Feb 27, 2020",0.014
+Malaysia,MYS,"Mar 12, 2020",0.004
+Malaysia,MYS,"Mar 20, 2020",0.039
+Malaysia,MYS,"Mar 23, 2020",0.057
+Malaysia,MYS,"Mar 24, 2020",0.015
+Malaysia,MYS,"Mar 25, 2020",0.069
+Malaysia,MYS,"Mar 26, 2020",0.036
+Malaysia,MYS,"Mar 27, 2020",0.222
+Malaysia,MYS,"Mar 28, 2020",0.164
+Malaysia,MYS,"Mar 31, 2020",0.033
+Malaysia,MYS,"Apr 1, 2020",0.109
+Malaysia,MYS,"Apr 2, 2020",0.056
+Malaysia,MYS,"Apr 3, 2020",0.057
+Malaysia,MYS,"Apr 4, 2020",0.045
+Malaysia,MYS,"Apr 5, 2020",0.081
+Malaysia,MYS,"Apr 6, 2020",0.121
+Malaysia,MYS,"Apr 7, 2020",0.155
+Malaysia,MYS,"Apr 8, 2020",0.178
+Malaysia,MYS,"Apr 9, 2020",0.158
+Malaysia,MYS,"Apr 10, 2020",0.142
+Malaysia,MYS,"Apr 11, 2020",0.122
+Malaysia,MYS,"Apr 12, 2020",0.173
+Malaysia,MYS,"Apr 13, 2020",0.131
+Malaysia,MYS,"Apr 14, 2020",0.095
+Malaysia,MYS,"Apr 15, 2020",0.074
+Malaysia,MYS,"Apr 18, 2020",0.127
+Malaysia,MYS,"Apr 19, 2020",0.096
+Malaysia,MYS,"Apr 20, 2020",0.134
+Malaysia,MYS,"Apr 23, 2020",0.113
+Malaysia,MYS,"Apr 24, 2020",0.133
+Malaysia,MYS,"Apr 25, 2020",0.162
+Malaysia,MYS,"Apr 26, 2020",0.14
+Malaysia,MYS,"Apr 27, 2020",0.229
+Malaysia,MYS,"Apr 28, 2020",0.244
+Malaysia,MYS,"Apr 29, 2020",0.229
+Malaysia,MYS,"May 2, 2020",0.477
+Malaysia,MYS,"May 3, 2020",0.359
+Malaysia,MYS,"May 4, 2020",0.302
+Malaysia,MYS,"May 5, 2020",0.235
+Malaysia,MYS,"May 6, 2020",0.276
+Mexico,MEX,"Jan 20, 2020",0.001
+Mexico,MEX,"Feb 10, 2020",0.001
+Mexico,MEX,"Feb 28, 2020",0.001
+Mexico,MEX,"Mar 2, 2020",0.001
+Mexico,MEX,"Mar 3, 2020",0.001
+Mexico,MEX,"Mar 4, 2020",0.001
+Mexico,MEX,"Mar 9, 2020",0.001
+Mexico,MEX,"Mar 10, 2020",0.001
+Mexico,MEX,"Mar 11, 2020",0.001
+Mexico,MEX,"Mar 12, 2020",0.002
+Mexico,MEX,"Mar 13, 2020",0.002
+Mexico,MEX,"Mar 14, 2020",0.001
+Mexico,MEX,"Mar 15, 2020",0.001
+Mexico,MEX,"Mar 16, 2020",0.002
+Mexico,MEX,"Mar 17, 2020",0.004
+Mexico,MEX,"Mar 18, 2020",0.004
+Mexico,MEX,"Mar 19, 2020",0.005
+Mexico,MEX,"Mar 20, 2020",0.004
+Mexico,MEX,"Mar 21, 2020",0.003
+Mexico,MEX,"Mar 22, 2020",0.002
+Mexico,MEX,"Mar 23, 2020",0.006
+Mexico,MEX,"Mar 24, 2020",0.009
+Mexico,MEX,"Mar 25, 2020",0.01
+Mexico,MEX,"Mar 26, 2020",0.009
+Mexico,MEX,"Mar 27, 2020",0.011
+Mexico,MEX,"Mar 28, 2020",0.006
+Mexico,MEX,"Mar 29, 2020",0.006
+Mexico,MEX,"Mar 30, 2020",0.013
+Mexico,MEX,"Mar 31, 2020",0.011
+Mexico,MEX,"Apr 1, 2020",0.012
+Mexico,MEX,"Apr 2, 2020",0.013
+Mexico,MEX,"Apr 3, 2020",0.013
+Mexico,MEX,"Apr 4, 2020",0.008
+Mexico,MEX,"Apr 5, 2020",0.006
+Mexico,MEX,"Apr 6, 2020",0.015
+Mexico,MEX,"Apr 7, 2020",0.015
+Mexico,MEX,"Apr 8, 2020",0.017
+Mexico,MEX,"Apr 9, 2020",0.012
+Mexico,MEX,"Apr 10, 2020",0.015
+Mexico,MEX,"Apr 11, 2020",0.01
+Mexico,MEX,"Apr 12, 2020",0.009
+Mexico,MEX,"Apr 13, 2020",0.021
+Mexico,MEX,"Apr 14, 2020",0.021
+Mexico,MEX,"Apr 15, 2020",0.021
+Mexico,MEX,"Apr 16, 2020",0.02
+Mexico,MEX,"Apr 17, 2020",0.023
+Mexico,MEX,"Apr 18, 2020",0.012
+Mexico,MEX,"Apr 19, 2020",0.011
+Mexico,MEX,"Apr 20, 2020",0.026
+Mexico,MEX,"Apr 21, 2020",0.024
+Mexico,MEX,"Apr 22, 2020",0.023
+Mexico,MEX,"Apr 23, 2020",0.025
+Mexico,MEX,"Apr 24, 2020",0.028
+Mexico,MEX,"Apr 25, 2020",0.015
+Mexico,MEX,"Apr 26, 2020",0.012
+Mexico,MEX,"Apr 27, 2020",0.029
+Mexico,MEX,"Apr 28, 2020",0.028
+Mexico,MEX,"Apr 29, 2020",0.028
+Mexico,MEX,"Apr 30, 2020",0.027
+Mexico,MEX,"May 1, 2020",0.011
+Mexico,MEX,"May 2, 2020",0.008
+Mexico,MEX,"May 3, 2020",0.004
+Mexico,MEX,"May 4, 2020",0.002
+Morocco,MAR,"Mar 19, 2020",0.001
+Morocco,MAR,"Mar 20, 2020",0.003
+Morocco,MAR,"Mar 21, 2020",0.002
+Morocco,MAR,"Mar 22, 2020",0.002
+Morocco,MAR,"Mar 23, 2020",0.004
+Morocco,MAR,"Mar 24, 2020",0.002
+Morocco,MAR,"Mar 25, 2020",0.004
+Morocco,MAR,"Mar 26, 2020",0.006
+Morocco,MAR,"Mar 27, 2020",0.015
+Morocco,MAR,"Mar 28, 2020",0.006
+Morocco,MAR,"Mar 29, 2020",0.008
+Morocco,MAR,"Mar 30, 2020",0.013
+Morocco,MAR,"Mar 31, 2020",0.009
+Morocco,MAR,"Apr 1, 2020",0.007
+Morocco,MAR,"Apr 2, 2020",0.008
+Morocco,MAR,"Apr 3, 2020",0.008
+Morocco,MAR,"Apr 4, 2020",0.011
+Morocco,MAR,"Apr 5, 2020",0.014
+Morocco,MAR,"Apr 6, 2020",0.007
+Morocco,MAR,"Apr 7, 2020",0.009
+Morocco,MAR,"Apr 8, 2020",0.009
+Morocco,MAR,"Apr 9, 2020",0.017
+Morocco,MAR,"Apr 10, 2020",0.023
+Morocco,MAR,"Apr 11, 2020",0.019
+Morocco,MAR,"Apr 12, 2020",0.018
+Morocco,MAR,"Apr 13, 2020",0.014
+Morocco,MAR,"Apr 14, 2020",0.022
+Morocco,MAR,"Apr 15, 2020",0.02
+Morocco,MAR,"Apr 16, 2020",0.036
+Morocco,MAR,"Apr 17, 2020",0.026
+Morocco,MAR,"Apr 18, 2020",0.02
+Morocco,MAR,"Apr 19, 2020",0.039
+Morocco,MAR,"Apr 20, 2020",0.034
+Morocco,MAR,"Apr 21, 2020",0.046
+Morocco,MAR,"Apr 22, 2020",0.048
+Morocco,MAR,"Apr 23, 2020",0.056
+Morocco,MAR,"Apr 24, 2020",0.054
+Morocco,MAR,"Apr 25, 2020",0.041
+Morocco,MAR,"Apr 26, 2020",0.053
+Morocco,MAR,"Apr 27, 2020",0.05
+Morocco,MAR,"Apr 28, 2020",0.054
+Morocco,MAR,"Apr 29, 2020",0.046
+Morocco,MAR,"Apr 30, 2020",0.052
+Morocco,MAR,"May 1, 2020",0.059
+Myanmar,MMR,"Apr 4, 2020",0.001
+Myanmar,MMR,"Apr 9, 2020",0.003
+Myanmar,MMR,"Apr 10, 2020",0.001
+Myanmar,MMR,"Apr 11, 2020",0.004
+Myanmar,MMR,"Apr 12, 2020",0.005
+Myanmar,MMR,"Apr 13, 2020",0.006
+Myanmar,MMR,"Apr 14, 2020",0.007
+Myanmar,MMR,"Apr 15, 2020",0.008
+Myanmar,MMR,"Apr 18, 2020",0.005
+Myanmar,MMR,"Apr 19, 2020",0.007
+Myanmar,MMR,"Apr 20, 2020",0.007
+Myanmar,MMR,"Apr 21, 2020",0.005
+Myanmar,MMR,"Apr 22, 2020",0.005
+Myanmar,MMR,"Apr 23, 2020",0.006
+Myanmar,MMR,"Apr 24, 2020",0.006
+Myanmar,MMR,"Apr 25, 2020",0.008
+Myanmar,MMR,"Apr 26, 2020",0.003
+Myanmar,MMR,"Apr 27, 2020",0.01
+Myanmar,MMR,"Apr 28, 2020",0.007
+Myanmar,MMR,"Apr 29, 2020",0.005
+Myanmar,MMR,"Apr 30, 2020",0.004
+Myanmar,MMR,"May 1, 2020",0.003
+Myanmar,MMR,"May 2, 2020",0.006
+Myanmar,MMR,"May 3, 2020",0.004
+Myanmar,MMR,"May 4, 2020",0.004
+Nepal,NPL,"Feb 19, 2020",0.006
+Nepal,NPL,"Mar 2, 2020",0.006
+Nepal,NPL,"Mar 17, 2020",0.001
+Nepal,NPL,"Mar 18, 2020",0.001
+Nepal,NPL,"Mar 19, 2020",0.001
+Nepal,NPL,"Mar 20, 2020",0.001
+Nepal,NPL,"Mar 23, 2020",0.001
+Nepal,NPL,"Mar 25, 2020",0.003
+Nepal,NPL,"Mar 26, 2020",0.002
+Nepal,NPL,"Mar 27, 2020",0.002
+Nepal,NPL,"Mar 28, 2020",0.003
+Nepal,NPL,"Mar 29, 2020",0.001
+Nepal,NPL,"Mar 30, 2020",0.003
+Nepal,NPL,"Mar 31, 2020",0.002
+Nepal,NPL,"Apr 1, 2020",0.003
+Nepal,NPL,"Apr 2, 2020",0.001
+Nepal,NPL,"Apr 3, 2020",0.004
+Nepal,NPL,"Apr 4, 2020",0.007
+Nepal,NPL,"Apr 5, 2020",0.004
+Nepal,NPL,"Apr 6, 2020",0.009
+Nepal,NPL,"Apr 7, 2020",0.008
+Nepal,NPL,"Apr 8, 2020",0.008
+Nepal,NPL,"Apr 9, 2020",0.018
+Nepal,NPL,"Apr 10, 2020",0.007
+Nepal,NPL,"Apr 11, 2020",0.045
+Nepal,NPL,"Apr 12, 2020",0.026
+Nepal,NPL,"Apr 13, 2020",0.017
+Nepal,NPL,"Apr 14, 2020",0.021
+Nepal,NPL,"Apr 15, 2020",0.02
+Nepal,NPL,"Apr 16, 2020",0.013
+Nepal,NPL,"Apr 17, 2020",0.007
+Nepal,NPL,"Apr 18, 2020",0.019
+Nepal,NPL,"Apr 19, 2020",0.002
+Nepal,NPL,"Apr 20, 2020",0.011
+Nepal,NPL,"Apr 21, 2020",0.012
+Nepal,NPL,"Apr 22, 2020",0.009
+Nepal,NPL,"Apr 23, 2020",0.006
+Nepal,NPL,"Apr 24, 2020",0.007
+Nepal,NPL,"Apr 25, 2020",0.009
+Nepal,NPL,"Apr 26, 2020",0.009
+Nepal,NPL,"Apr 27, 2020",0.019
+Nepal,NPL,"Apr 28, 2020",0.012
+Nepal,NPL,"Apr 29, 2020",0.025
+Nepal,NPL,"Apr 30, 2020",0.017
+Nepal,NPL,"May 1, 2020",0.019
+Nepal,NPL,"May 2, 2020",0.018
+Nepal,NPL,"May 3, 2020",0.011
+Nepal,NPL,"May 4, 2020",0.007
+Nepal,NPL,"May 5, 2020",0.007
+Netherlands,NLD,"May 4, 2020",0.169
+Netherlands,NLD,"May 5, 2020",0.159
+New Zealand,NZL,"Mar 10, 2020",0.018
+New Zealand,NZL,"Mar 11, 2020",0.017
+New Zealand,NZL,"Mar 12, 2020",0.006
+New Zealand,NZL,"Mar 13, 2020",0.007
+New Zealand,NZL,"Mar 14, 2020",0.007
+New Zealand,NZL,"Mar 15, 2020",0.029
+New Zealand,NZL,"Mar 16, 2020",0.067
+New Zealand,NZL,"Mar 17, 2020",0.137
+New Zealand,NZL,"Mar 18, 2020",0.251
+New Zealand,NZL,"Mar 19, 2020",0.268
+New Zealand,NZL,"Mar 20, 2020",0.322
+New Zealand,NZL,"Mar 21, 2020",0.244
+New Zealand,NZL,"Mar 22, 2020",0.26
+New Zealand,NZL,"Mar 23, 2020",0.218
+New Zealand,NZL,"Mar 24, 2020",0.32
+New Zealand,NZL,"Mar 25, 2020",0.538
+New Zealand,NZL,"Mar 26, 2020",0.439
+New Zealand,NZL,"Mar 27, 2020",0.429
+New Zealand,NZL,"Mar 28, 2020",0.375
+New Zealand,NZL,"Mar 29, 2020",0.19
+New Zealand,NZL,"Mar 30, 2020",0.288
+New Zealand,NZL,"Mar 31, 2020",0.434
+New Zealand,NZL,"Apr 1, 2020",0.531
+New Zealand,NZL,"Apr 2, 2020",0.715
+New Zealand,NZL,"Apr 3, 2020",0.753
+New Zealand,NZL,"Apr 4, 2020",0.641
+New Zealand,NZL,"Apr 5, 2020",0.769
+New Zealand,NZL,"Apr 6, 2020",0.603
+New Zealand,NZL,"Apr 7, 2020",0.84
+New Zealand,NZL,"Apr 8, 2020",0.827
+New Zealand,NZL,"Apr 9, 2020",0.937
+New Zealand,NZL,"Apr 10, 2020",0.635
+New Zealand,NZL,"Apr 11, 2020",0.502
+New Zealand,NZL,"Apr 12, 2020",0.344
+New Zealand,NZL,"Apr 13, 2020",0.326
+New Zealand,NZL,"Apr 14, 2020",0.435
+New Zealand,NZL,"Apr 15, 2020",0.759
+New Zealand,NZL,"Apr 16, 2020",0.879
+New Zealand,NZL,"Apr 17, 2020",0.97
+New Zealand,NZL,"Apr 18, 2020",0.86
+New Zealand,NZL,"Apr 19, 2020",0.639
+New Zealand,NZL,"Apr 20, 2020",0.664
+New Zealand,NZL,"Apr 21, 2020",1.097
+New Zealand,NZL,"Apr 22, 2020",1.344
+New Zealand,NZL,"Apr 23, 2020",1.444
+New Zealand,NZL,"Apr 24, 2020",1.405
+New Zealand,NZL,"Apr 25, 2020",1.237
+New Zealand,NZL,"Apr 26, 2020",0.609
+New Zealand,NZL,"Apr 27, 2020",0.445
+New Zealand,NZL,"Apr 28, 2020",0.547
+New Zealand,NZL,"Apr 29, 2020",1.217
+New Zealand,NZL,"Apr 30, 2020",1.105
+New Zealand,NZL,"May 1, 2020",1.18
+New Zealand,NZL,"May 2, 2020",0.961
+New Zealand,NZL,"May 3, 2020",0.513
+New Zealand,NZL,"May 4, 2020",0.67
+New Zealand,NZL,"May 5, 2020",0.99
+Nigeria,NGA,"Apr 17, 2020",0.002
+Nigeria,NGA,"Apr 29, 2020",0.004
+Nigeria,NGA,"May 4, 2020",0.009
+Nigeria,NGA,"May 5, 2020",0.005
+Nigeria,NGA,"May 6, 2020",0.008
+Norway,NOR,"Mar 17, 2020",0.661
+Norway,NOR,"Mar 18, 2020",1.268
+Norway,NOR,"Mar 19, 2020",1.118
+Norway,NOR,"Mar 20, 2020",1.688
+Norway,NOR,"Mar 21, 2020",1.054
+Norway,NOR,"Mar 22, 2020",0.912
+Norway,NOR,"Mar 23, 2020",1.265
+Norway,NOR,"Mar 24, 2020",1.726
+Norway,NOR,"Mar 25, 2020",0.458
+Norway,NOR,"Mar 26, 2020",0.148
+Norway,NOR,"Mar 27, 2020",0.764
+Norway,NOR,"Mar 28, 2020",0.839
+Norway,NOR,"Mar 29, 2020",0.471
+Norway,NOR,"Mar 30, 2020",0.379
+Norway,NOR,"Mar 31, 2020",0.564
+Norway,NOR,"Apr 1, 2020",0.741
+Norway,NOR,"Apr 2, 2020",0.797
+Norway,NOR,"Apr 3, 2020",0.627
+Norway,NOR,"Apr 4, 2020",0.716
+Norway,NOR,"Apr 5, 2020",0.525
+Norway,NOR,"Apr 6, 2020",0.478
+Norway,NOR,"Apr 7, 2020",0.479
+Norway,NOR,"Apr 8, 2020",0.771
+Norway,NOR,"Apr 9, 2020",0.545
+Norway,NOR,"Apr 10, 2020",0.394
+Norway,NOR,"Apr 11, 2020",0.205
+Norway,NOR,"Apr 12, 2020",0.407
+Norway,NOR,"Apr 13, 2020",0.151
+Norway,NOR,"Apr 14, 2020",0.233
+Norway,NOR,"Apr 15, 2020",0.304
+Norway,NOR,"Apr 16, 2020",0.644
+Norway,NOR,"Apr 17, 2020",0.466
+Norway,NOR,"Apr 18, 2020",0.633
+Norway,NOR,"Apr 19, 2020",0.461
+Norway,NOR,"Apr 20, 2020",0.201
+Norway,NOR,"Apr 21, 2020",0.373
+Norway,NOR,"Apr 22, 2020",0.623
+Norway,NOR,"Apr 23, 2020",0.634
+Norway,NOR,"Apr 24, 2020",0.559
+Norway,NOR,"Apr 28, 2020",0.302
+Norway,NOR,"Apr 29, 2020",0.585
+Norway,NOR,"Apr 30, 2020",0.639
+Pakistan,PAK,"Mar 15, 2020",0.001
+Pakistan,PAK,"Mar 16, 2020",0.001
+Pakistan,PAK,"Mar 18, 2020",0.005
+Pakistan,PAK,"Mar 19, 2020",0.006
+Pakistan,PAK,"Mar 20, 2020",0.003
+Pakistan,PAK,"Mar 21, 2020",0.006
+Pakistan,PAK,"Mar 22, 2020",0.001
+Pakistan,PAK,"Mar 23, 2020",0.002
+Pakistan,PAK,"Mar 24, 2020",0.001
+Pakistan,PAK,"Mar 25, 2020",0.001
+Pakistan,PAK,"Mar 26, 2020",0.006
+Pakistan,PAK,"Mar 27, 2020",0.024
+Pakistan,PAK,"Mar 28, 2020",0.005
+Pakistan,PAK,"Mar 29, 2020",0.002
+Pakistan,PAK,"Mar 30, 2020",0.004
+Pakistan,PAK,"Mar 31, 2020",0.001
+Pakistan,PAK,"Apr 1, 2020",0.006
+Pakistan,PAK,"Apr 2, 2020",0.059
+Pakistan,PAK,"Apr 3, 2020",0.012
+Pakistan,PAK,"Apr 4, 2020",0.009
+Pakistan,PAK,"Apr 5, 2020",0.004
+Pakistan,PAK,"Apr 6, 2020",0.015
+Pakistan,PAK,"Apr 7, 2020",0.013
+Pakistan,PAK,"Apr 8, 2020",0.012
+Pakistan,PAK,"Apr 9, 2020",0.044
+Pakistan,PAK,"Apr 10, 2020",0.014
+Pakistan,PAK,"Apr 11, 2020",0.018
+Pakistan,PAK,"Apr 12, 2020",0.015
+Pakistan,PAK,"Apr 13, 2020",0.022
+Pakistan,PAK,"Apr 14, 2020",0.016
+Pakistan,PAK,"Apr 15, 2020",0.025
+Pakistan,PAK,"Apr 16, 2020",0.026
+Pakistan,PAK,"Apr 17, 2020",0.036
+Pakistan,PAK,"Apr 18, 2020",0.027
+Pakistan,PAK,"Apr 19, 2020",0.026
+Pakistan,PAK,"Apr 22, 2020",0.028
+Pakistan,PAK,"Apr 23, 2020",0.03
+Pakistan,PAK,"Apr 24, 2020",0.031
+Pakistan,PAK,"Apr 25, 2020",0.031
+Pakistan,PAK,"Apr 26, 2020",0.028
+Pakistan,PAK,"Apr 27, 2020",0.029
+Pakistan,PAK,"Apr 28, 2020",0.029
+Pakistan,PAK,"Apr 29, 2020",0.039
+Pakistan,PAK,"Apr 30, 2020",0.037
+Pakistan,PAK,"May 1, 2020",0.036
+Pakistan,PAK,"May 2, 2020",0.053
+Pakistan,PAK,"May 3, 2020",0.041
+Pakistan,PAK,"May 4, 2020",0.043
+Pakistan,PAK,"May 5, 2020",0.045
+Pakistan,PAK,"May 6, 2020",0.046
+Panama,PAN,"Mar 9, 2020",0.024
+Panama,PAN,"Mar 10, 2020",0.01
+Panama,PAN,"Mar 11, 2020",0.011
+Panama,PAN,"Mar 12, 2020",0.048
+Panama,PAN,"Mar 13, 2020",0.057
+Panama,PAN,"Mar 14, 2020",0.048
+Panama,PAN,"Mar 15, 2020",0.028
+Panama,PAN,"Mar 16, 2020",0.022
+Panama,PAN,"Mar 17, 2020",0.04
+Panama,PAN,"Mar 18, 2020",0.049
+Panama,PAN,"Mar 19, 2020",0.073
+Panama,PAN,"Mar 20, 2020",0.093
+Panama,PAN,"Mar 21, 2020",0.07
+Panama,PAN,"Mar 22, 2020",0.016
+Panama,PAN,"Mar 23, 2020",0.031
+Panama,PAN,"Mar 24, 2020",0.106
+Panama,PAN,"Mar 25, 2020",0.129
+Panama,PAN,"Mar 26, 2020",0.141
+Panama,PAN,"Mar 27, 2020",0.085
+Panama,PAN,"Mar 28, 2020",0.125
+Panama,PAN,"Mar 29, 2020",0.092
+Panama,PAN,"Mar 30, 2020",0.098
+Panama,PAN,"Mar 31, 2020",0.084
+Panama,PAN,"Apr 1, 2020",0.09
+Panama,PAN,"Apr 2, 2020",0.141
+Panama,PAN,"Apr 3, 2020",0.175
+Panama,PAN,"Apr 4, 2020",0.13
+Panama,PAN,"Apr 5, 2020",0.103
+Panama,PAN,"Apr 6, 2020",0.119
+Panama,PAN,"Apr 7, 2020",0.108
+Panama,PAN,"Apr 8, 2020",0.254
+Panama,PAN,"Apr 9, 2020",0.187
+Panama,PAN,"Apr 10, 2020",0.376
+Panama,PAN,"Apr 11, 2020",0.218
+Panama,PAN,"Apr 12, 2020",0.13
+Panama,PAN,"Apr 13, 2020",0.097
+Panama,PAN,"Apr 14, 2020",0.113
+Panama,PAN,"Apr 15, 2020",0.186
+Panama,PAN,"Apr 16, 2020",0.231
+Panama,PAN,"Apr 17, 2020",0.164
+Panama,PAN,"Apr 18, 2020",0.123
+Panama,PAN,"Apr 19, 2020",0.242
+Panama,PAN,"Apr 20, 2020",0.199
+Panama,PAN,"Apr 21, 2020",0.21
+Panama,PAN,"Apr 22, 2020",0.185
+Panama,PAN,"Apr 23, 2020",0.193
+Panama,PAN,"Apr 24, 2020",0.178
+Panama,PAN,"Apr 25, 2020",0.254
+Panama,PAN,"Apr 26, 2020",0.288
+Panama,PAN,"Apr 27, 2020",0.276
+Panama,PAN,"Apr 28, 2020",0.223
+Panama,PAN,"Apr 29, 2020",0.241
+Panama,PAN,"Apr 30, 2020",0.211
+Panama,PAN,"May 1, 2020",0.266
+Panama,PAN,"May 2, 2020",0.338
+Panama,PAN,"May 3, 2020",0.256
+Panama,PAN,"May 4, 2020",0.254
+Panama,PAN,"May 5, 2020",0.215
+Paraguay,PRY,"Mar 10, 2020",0.001
+Paraguay,PRY,"Mar 11, 2020",0.001
+Paraguay,PRY,"Mar 12, 2020",0.001
+Paraguay,PRY,"Mar 13, 2020",0.002
+Paraguay,PRY,"Mar 15, 2020",0.005
+Paraguay,PRY,"Mar 16, 2020",0.004
+Paraguay,PRY,"Mar 17, 2020",0.004
+Paraguay,PRY,"Mar 18, 2020",0.003
+Paraguay,PRY,"Mar 19, 2020",0.004
+Paraguay,PRY,"Mar 20, 2020",0.006
+Paraguay,PRY,"Mar 21, 2020",0.01
+Paraguay,PRY,"Mar 22, 2020",0.005
+Paraguay,PRY,"Mar 23, 2020",0.012
+Paraguay,PRY,"Mar 24, 2020",0.013
+Paraguay,PRY,"Mar 25, 2020",0.007
+Paraguay,PRY,"Mar 26, 2020",0.011
+Paraguay,PRY,"Mar 27, 2020",0.014
+Paraguay,PRY,"Mar 28, 2020",0.008
+Paraguay,PRY,"Mar 29, 2020",0.015
+Paraguay,PRY,"Mar 30, 2020",0.01
+Paraguay,PRY,"Mar 31, 2020",0.013
+Paraguay,PRY,"Apr 1, 2020",0.013
+Paraguay,PRY,"Apr 2, 2020",0.016
+Paraguay,PRY,"Apr 3, 2020",0.023
+Paraguay,PRY,"Apr 4, 2020",0.027
+Paraguay,PRY,"Apr 5, 2020",0.028
+Paraguay,PRY,"Apr 6, 2020",0.023
+Paraguay,PRY,"Apr 7, 2020",0.03
+Paraguay,PRY,"Apr 8, 2020",0.034
+Paraguay,PRY,"Apr 9, 2020",0.031
+Paraguay,PRY,"Apr 10, 2020",0.031
+Paraguay,PRY,"Apr 11, 2020",0.032
+Paraguay,PRY,"Apr 12, 2020",0.036
+Paraguay,PRY,"Apr 13, 2020",0.035
+Paraguay,PRY,"Apr 14, 2020",0.034
+Paraguay,PRY,"Apr 15, 2020",0.053
+Paraguay,PRY,"Apr 16, 2020",0.048
+Paraguay,PRY,"Apr 17, 2020",0.047
+Paraguay,PRY,"Apr 18, 2020",0.043
+Paraguay,PRY,"Apr 19, 2020",0.035
+Paraguay,PRY,"Apr 20, 2020",0.053
+Paraguay,PRY,"Apr 21, 2020",0.058
+Paraguay,PRY,"Apr 22, 2020",0.043
+Paraguay,PRY,"Apr 23, 2020",0.045
+Paraguay,PRY,"Apr 24, 2020",0.057
+Paraguay,PRY,"Apr 25, 2020",0.043
+Paraguay,PRY,"Apr 26, 2020",0.041
+Paraguay,PRY,"Apr 27, 2020",0.073
+Paraguay,PRY,"Apr 28, 2020",0.063
+Paraguay,PRY,"Apr 29, 2020",0.079
+Paraguay,PRY,"Apr 30, 2020",0.063
+Paraguay,PRY,"May 1, 2020",0.062
+Paraguay,PRY,"May 2, 2020",0.059
+Paraguay,PRY,"May 3, 2020",0.048
+Paraguay,PRY,"May 4, 2020",0.049
+Paraguay,PRY,"May 5, 2020",0.064
+Peru,PER,"Mar 7, 2020",0.002
+Peru,PER,"Mar 8, 2020",0.001
+Peru,PER,"Mar 9, 2020",0.002
+Peru,PER,"Mar 10, 2020",0.001
+Peru,PER,"Mar 11, 2020",0.009
+Peru,PER,"Mar 15, 2020",0.018
+Peru,PER,"Mar 16, 2020",0.015
+Peru,PER,"Mar 17, 2020",0.015
+Peru,PER,"Mar 18, 2020",0.008
+Peru,PER,"Mar 19, 2020",0.023
+Peru,PER,"Mar 20, 2020",0.014
+Peru,PER,"Mar 21, 2020",0.027
+Peru,PER,"Mar 22, 2020",0.03
+Peru,PER,"Mar 23, 2020",0.025
+Peru,PER,"Mar 24, 2020",0.014
+Peru,PER,"Mar 25, 2020",0.017
+Peru,PER,"Mar 26, 2020",0.036
+Peru,PER,"Mar 27, 2020",0.026
+Peru,PER,"Mar 28, 2020",0.025
+Peru,PER,"Mar 29, 2020",0.054
+Peru,PER,"Mar 30, 2020",0.024
+Peru,PER,"Mar 31, 2020",0.031
+Peru,PER,"Apr 1, 2020",0.034
+Peru,PER,"Apr 2, 2020",0.028
+Peru,PER,"Apr 3, 2020",0.025
+Peru,PER,"Apr 4, 2020",0.015
+Peru,PER,"Apr 5, 2020",0.048
+Peru,PER,"Apr 6, 2020",0.03
+Peru,PER,"Apr 7, 2020",0.035
+Peru,PER,"Apr 8, 2020",0.547
+Peru,PER,"Apr 9, 2020",0.269
+Peru,PER,"Apr 10, 2020",0.249
+Peru,PER,"Apr 11, 2020",0.274
+Peru,PER,"Apr 12, 2020",0.327
+Peru,PER,"Apr 13, 2020",0.322
+Peru,PER,"Apr 14, 2020",0.458
+Peru,PER,"Apr 15, 2020",0.217
+Peru,PER,"Apr 16, 2020",0.366
+Peru,PER,"Apr 19, 2020",0.238
+Peru,PER,"Apr 20, 2020",0.129
+Peru,PER,"Apr 21, 2020",0.234
+Peru,PER,"Apr 22, 2020",0.445
+Peru,PER,"Apr 23, 2020",0.45
+Peru,PER,"Apr 24, 2020",0.398
+Peru,PER,"Apr 25, 2020",0.602
+Peru,PER,"Apr 26, 2020",0.441
+Peru,PER,"Apr 29, 2020",0.851
+Peru,PER,"Apr 30, 2020",1.536
+Peru,PER,"May 1, 2020",0.735
+Peru,PER,"May 4, 2020",0.315
+Peru,PER,"May 5, 2020",0.64
+Philippines,PHL,"Apr 14, 2020",0.017
+Philippines,PHL,"Apr 15, 2020",0.021
+Philippines,PHL,"Apr 18, 2020",0.029
+Philippines,PHL,"Apr 22, 2020",0.032
+Philippines,PHL,"Apr 23, 2020",0.038
+Philippines,PHL,"Apr 24, 2020",0.037
+Philippines,PHL,"Apr 25, 2020",0.03
+Philippines,PHL,"Apr 29, 2020",0.041
+Philippines,PHL,"Apr 30, 2020",0.036
+Philippines,PHL,"May 1, 2020",0.056
+Philippines,PHL,"May 4, 2020",0.056
+Poland,POL,"Mar 4, 2020",0.001
+Poland,POL,"Mar 5, 2020",0.002
+Poland,POL,"Mar 6, 2020",0.005
+Poland,POL,"Mar 9, 2020",0.006
+Poland,POL,"Mar 10, 2020",0.006
+Poland,POL,"Mar 11, 2020",0.01
+Poland,POL,"Mar 12, 2020",0.006
+Poland,POL,"Mar 13, 2020",0.017
+Poland,POL,"Mar 14, 2020",0.04
+Poland,POL,"Mar 15, 2020",0.029
+Poland,POL,"Mar 18, 2020",0.043
+Poland,POL,"Mar 19, 2020",0.044
+Poland,POL,"Mar 20, 2020",0.05
+Poland,POL,"Mar 21, 2020",0.053
+Poland,POL,"Mar 22, 2020",0.067
+Poland,POL,"Mar 23, 2020",0.067
+Poland,POL,"Mar 24, 2020",0.073
+Poland,POL,"Mar 25, 2020",0.088
+Poland,POL,"Mar 26, 2020",0.088
+Poland,POL,"Mar 27, 2020",0.119
+Poland,POL,"Mar 28, 2020",0.122
+Poland,POL,"Mar 29, 2020",0.109
+Poland,POL,"Mar 30, 2020",0.101
+Poland,POL,"Mar 31, 2020",0.127
+Poland,POL,"Apr 1, 2020",0.116
+Poland,POL,"Apr 2, 2020",0.142
+Poland,POL,"Apr 3, 2020",0.152
+Poland,POL,"Apr 4, 2020",0.158
+Poland,POL,"Apr 5, 2020",0.208
+Poland,POL,"Apr 6, 2020",0.124
+Poland,POL,"Apr 7, 2020",0.178
+Poland,POL,"Apr 8, 2020",0.187
+Poland,POL,"Apr 9, 2020",0.22
+Poland,POL,"Apr 10, 2020",0.283
+Poland,POL,"Apr 11, 2020",0.298
+Poland,POL,"Apr 12, 2020",0.223
+Poland,POL,"Apr 13, 2020",0.149
+Poland,POL,"Apr 14, 2020",0.124
+Poland,POL,"Apr 15, 2020",0.216
+Poland,POL,"Apr 16, 2020",0.332
+Poland,POL,"Apr 17, 2020",0.28
+Poland,POL,"Apr 18, 2020",0.352
+Poland,POL,"Apr 19, 2020",0.298
+Poland,POL,"Apr 20, 2020",0.264
+Poland,POL,"Apr 21, 2020",0.267
+Poland,POL,"Apr 22, 2020",0.382
+Poland,POL,"Apr 23, 2020",0.315
+Poland,POL,"Apr 24, 2020",0.383
+Poland,POL,"Apr 25, 2020",0.364
+Poland,POL,"Apr 26, 2020",0.308
+Poland,POL,"Apr 27, 2020",0.191
+Poland,POL,"Apr 28, 2020",0.34
+Poland,POL,"Apr 29, 2020",0.364
+Poland,POL,"Apr 30, 2020",0.357
+Poland,POL,"May 1, 2020",0.439
+Poland,POL,"May 2, 2020",0.301
+Poland,POL,"May 3, 2020",0.263
+Poland,POL,"May 4, 2020",0.208
+Poland,POL,"May 5, 2020",0.277
+Poland,POL,"May 6, 2020",0.428
+Portugal,PRT,"Mar 1, 2020",0.002
+Portugal,PRT,"Mar 2, 2020",0.004
+Portugal,PRT,"Mar 3, 2020",0.006
+Portugal,PRT,"Mar 4, 2020",0.004
+Portugal,PRT,"Mar 5, 2020",0.008
+Portugal,PRT,"Mar 6, 2020",0.008
+Portugal,PRT,"Mar 7, 2020",0.008
+Portugal,PRT,"Mar 8, 2020",0.008
+Portugal,PRT,"Mar 9, 2020",0.017
+Portugal,PRT,"Mar 10, 2020",0.03
+Portugal,PRT,"Mar 11, 2020",0.057
+Portugal,PRT,"Mar 12, 2020",0.092
+Portugal,PRT,"Mar 13, 2020",0.152
+Portugal,PRT,"Mar 14, 2020",0.123
+Portugal,PRT,"Mar 15, 2020",0.093
+Portugal,PRT,"Mar 16, 2020",0.164
+Portugal,PRT,"Mar 17, 2020",0.226
+Portugal,PRT,"Mar 18, 2020",0.241
+Portugal,PRT,"Mar 19, 2020",0.244
+Portugal,PRT,"Mar 20, 2020",0.315
+Portugal,PRT,"Mar 21, 2020",0.247
+Portugal,PRT,"Mar 22, 2020",0.207
+Portugal,PRT,"Mar 23, 2020",0.41
+Portugal,PRT,"Mar 24, 2020",0.492
+Portugal,PRT,"Mar 25, 2020",0.521
+Portugal,PRT,"Mar 26, 2020",0.656
+Portugal,PRT,"Mar 27, 2020",0.773
+Portugal,PRT,"Mar 28, 2020",0.676
+Portugal,PRT,"Mar 29, 2020",0.493
+Portugal,PRT,"Mar 30, 2020",0.78
+Portugal,PRT,"Mar 31, 2020",0.779
+Portugal,PRT,"Apr 1, 2020",0.846
+Portugal,PRT,"Apr 2, 2020",0.908
+Portugal,PRT,"Apr 3, 2020",0.926
+Portugal,PRT,"Apr 4, 2020",0.888
+Portugal,PRT,"Apr 5, 2020",0.659
+Portugal,PRT,"Apr 6, 2020",0.901
+Portugal,PRT,"Apr 7, 2020",1.035
+Portugal,PRT,"Apr 8, 2020",1.118
+Portugal,PRT,"Apr 9, 2020",1.197
+Portugal,PRT,"Apr 10, 2020",0.999
+Portugal,PRT,"Apr 11, 2020",0.893
+Portugal,PRT,"Apr 12, 2020",0.511
+Portugal,PRT,"Apr 13, 2020",0.871
+Portugal,PRT,"Apr 14, 2020",1.169
+Portugal,PRT,"Apr 15, 2020",1.337
+Portugal,PRT,"Apr 16, 2020",1.314
+Portugal,PRT,"Apr 17, 2020",1.443
+Portugal,PRT,"Apr 18, 2020",1.253
+Portugal,PRT,"Apr 19, 2020",0.932
+Portugal,PRT,"Apr 20, 2020",1.079
+Portugal,PRT,"Apr 21, 2020",1.454
+Portugal,PRT,"Apr 22, 2020",1.513
+Portugal,PRT,"Apr 23, 2020",1.48
+Portugal,PRT,"Apr 24, 2020",1.444
+Portugal,PRT,"Apr 25, 2020",1.317
+Portugal,PRT,"Apr 26, 2020",0.807
+Portugal,PRT,"Apr 27, 2020",1.191
+Portugal,PRT,"Apr 28, 2020",1.519
+Portugal,PRT,"Apr 29, 2020",1.448
+Portugal,PRT,"Apr 30, 2020",1.603
+Portugal,PRT,"May 1, 2020",1.231
+Portugal,PRT,"May 2, 2020",1.032
+Portugal,PRT,"May 3, 2020",0.829
+Portugal,PRT,"May 4, 2020",1.131
+Qatar,QAT,"Mar 15, 2020",0.403
+Qatar,QAT,"Mar 19, 2020",0.204
+Qatar,QAT,"Mar 22, 2020",0.173
+Qatar,QAT,"Mar 23, 2020",0.234
+Qatar,QAT,"Mar 26, 2020",0.494
+Qatar,QAT,"Mar 27, 2020",0.404
+Qatar,QAT,"Mar 28, 2020",0.603
+Qatar,QAT,"Mar 29, 2020",0.797
+Qatar,QAT,"Mar 30, 2020",0.41
+Qatar,QAT,"Mar 31, 2020",0.811
+Qatar,QAT,"Apr 1, 2020",0.844
+Qatar,QAT,"Apr 2, 2020",0.498
+Qatar,QAT,"Apr 3, 2020",0.754
+Qatar,QAT,"Apr 4, 2020",1.222
+Qatar,QAT,"Apr 5, 2020",1.321
+Qatar,QAT,"Apr 6, 2020",0.816
+Qatar,QAT,"Apr 7, 2020",1.288
+Qatar,QAT,"Apr 10, 2020",0.762
+Qatar,QAT,"Apr 11, 2020",0.837
+Qatar,QAT,"Apr 12, 2020",0.469
+Qatar,QAT,"Apr 13, 2020",0.599
+Qatar,QAT,"Apr 14, 2020",0.623
+Qatar,QAT,"Apr 15, 2020",0.646
+Qatar,QAT,"Apr 16, 2020",0.658
+Qatar,QAT,"Apr 17, 2020",0.676
+Qatar,QAT,"Apr 18, 2020",0.629
+Qatar,QAT,"Apr 19, 2020",0.833
+Qatar,QAT,"Apr 20, 2020",0.723
+Qatar,QAT,"Apr 21, 2020",0.731
+Qatar,QAT,"Apr 22, 2020",1.141
+Qatar,QAT,"Apr 23, 2020",1.196
+Qatar,QAT,"Apr 24, 2020",0.844
+Qatar,QAT,"Apr 25, 2020",1.325
+Qatar,QAT,"Apr 26, 2020",0.897
+Qatar,QAT,"Apr 27, 2020",1.187
+Qatar,QAT,"Apr 28, 2020",1.006
+Qatar,QAT,"Apr 29, 2020",0.975
+Qatar,QAT,"Apr 30, 2020",1.071
+Qatar,QAT,"May 1, 2020",1.12
+Qatar,QAT,"May 2, 2020",1.389
+Qatar,QAT,"May 3, 2020",0.94
+Qatar,QAT,"May 4, 2020",0.819
+Qatar,QAT,"May 5, 2020",1.03
+Qatar,QAT,"May 6, 2020",1.111
+Romania,ROU,"Mar 13, 2020",0.032
+Romania,ROU,"Mar 14, 2020",0.02
+Romania,ROU,"Mar 15, 2020",0.014
+Romania,ROU,"Mar 16, 2020",0.026
+Romania,ROU,"Mar 17, 2020",0.023
+Romania,ROU,"Mar 18, 2020",0.027
+Romania,ROU,"Mar 19, 2020",0.016
+Romania,ROU,"Mar 20, 2020",0.172
+Romania,ROU,"Mar 21, 2020",0.033
+Romania,ROU,"Mar 22, 2020",0.055
+Romania,ROU,"Mar 23, 2020",0.065
+Romania,ROU,"Mar 24, 2020",0.073
+Romania,ROU,"Mar 25, 2020",0.096
+Romania,ROU,"Mar 26, 2020",0.08
+Romania,ROU,"Mar 27, 2020",0.076
+Romania,ROU,"Mar 28, 2020",0.115
+Romania,ROU,"Mar 29, 2020",0.093
+Romania,ROU,"Mar 30, 2020",0.085
+Romania,ROU,"Mar 31, 2020",0.081
+Romania,ROU,"Apr 1, 2020",0.102
+Romania,ROU,"Apr 2, 2020",0.097
+Romania,ROU,"Apr 3, 2020",0.165
+Romania,ROU,"Apr 4, 2020",0.231
+Romania,ROU,"Apr 5, 2020",0.132
+Romania,ROU,"Apr 6, 2020",0.123
+Romania,ROU,"Apr 7, 2020",0.135
+Romania,ROU,"Apr 8, 2020",0.189
+Romania,ROU,"Apr 9, 2020",0.239
+Romania,ROU,"Apr 10, 2020",0.189
+Romania,ROU,"Apr 11, 2020",0.2
+Romania,ROU,"Apr 12, 2020",0.159
+Romania,ROU,"Apr 13, 2020",0.253
+Romania,ROU,"Apr 14, 2020",0.15
+Romania,ROU,"Apr 15, 2020",0.246
+Romania,ROU,"Apr 16, 2020",0.25
+Romania,ROU,"Apr 17, 2020",0.321
+Romania,ROU,"Apr 18, 2020",0.27
+Romania,ROU,"Apr 19, 2020",0.136
+Romania,ROU,"Apr 20, 2020",0.254
+Romania,ROU,"Apr 21, 2020",0.159
+Romania,ROU,"Apr 22, 2020",0.25
+Romania,ROU,"Apr 23, 2020",0.363
+Romania,ROU,"Apr 24, 2020",0.43
+Romania,ROU,"Apr 25, 2020",0.262
+Romania,ROU,"Apr 26, 2020",0.513
+Romania,ROU,"Apr 27, 2020",0.38
+Romania,ROU,"Apr 28, 2020",0.337
+Romania,ROU,"Apr 29, 2020",0.867
+Romania,ROU,"Apr 30, 2020",0.436
+Romania,ROU,"May 1, 2020",0.432
+Romania,ROU,"May 2, 2020",0.356
+Romania,ROU,"May 3, 2020",0.258
+Romania,ROU,"May 4, 2020",0.185
+Romania,ROU,"May 5, 2020",0.352
+Romania,ROU,"May 6, 2020",0.587
+Russia,RUS,"Mar 6, 2020",0.034
+Russia,RUS,"Mar 7, 2020",0.03
+Russia,RUS,"Mar 8, 2020",0.029
+Russia,RUS,"Mar 9, 2020",0.022
+Russia,RUS,"Mar 12, 2020",0.044
+Russia,RUS,"Mar 15, 2020",0.069
+Russia,RUS,"Mar 16, 2020",0.035
+Russia,RUS,"Mar 17, 2020",0.042
+Russia,RUS,"Mar 18, 2020",0.047
+Russia,RUS,"Mar 19, 2020",0.07
+Russia,RUS,"Mar 20, 2020",0.071
+Russia,RUS,"Mar 21, 2020",0.086
+Russia,RUS,"Mar 22, 2020",0.051
+Russia,RUS,"Mar 23, 2020",0.015
+Russia,RUS,"Mar 24, 2020",0.138
+Russia,RUS,"Mar 25, 2020",0.047
+Russia,RUS,"Mar 26, 2020",0.03
+Russia,RUS,"Mar 27, 2020",0.18
+Russia,RUS,"Mar 28, 2020",0.136
+Russia,RUS,"Mar 29, 2020",0.141
+Russia,RUS,"Mar 30, 2020",0.546
+Russia,RUS,"Apr 2, 2020",0.887
+Russia,RUS,"Apr 3, 2020",0.268
+Russia,RUS,"Apr 4, 2020",0.442
+Russia,RUS,"Apr 5, 2020",0.393
+Russia,RUS,"Apr 6, 2020",0.421
+Russia,RUS,"Apr 7, 2020",0.254
+Russia,RUS,"Apr 8, 2020",0.786
+Russia,RUS,"Apr 9, 2020",0.648
+Russia,RUS,"Apr 10, 2020",0.604
+Russia,RUS,"Apr 11, 2020",0.628
+Russia,RUS,"Apr 12, 2020",0.646
+Russia,RUS,"Apr 13, 2020",0.557
+Russia,RUS,"Apr 14, 2020",0.452
+Russia,RUS,"Apr 15, 2020",0.63
+Russia,RUS,"Apr 16, 2020",0.654
+Russia,RUS,"Apr 17, 2020",0.717
+Russia,RUS,"Apr 18, 2020",0.78
+Russia,RUS,"Apr 19, 2020",0.808
+Russia,RUS,"Apr 20, 2020",0.709
+Russia,RUS,"Apr 21, 2020",0.612
+Russia,RUS,"Apr 22, 2020",0.753
+Russia,RUS,"Apr 23, 2020",1.022
+Russia,RUS,"Apr 24, 2020",1.03
+Russia,RUS,"Apr 25, 2020",1.161
+Russia,RUS,"Apr 26, 2020",1.07
+Russia,RUS,"Apr 27, 2020",0.971
+Russia,RUS,"Apr 28, 2020",0.821
+Russia,RUS,"Apr 29, 2020",1.127
+Russia,RUS,"Apr 30, 2020",1.333
+Russia,RUS,"May 1, 2020",1.545
+Russia,RUS,"May 2, 2020",1.519
+Russia,RUS,"May 3, 2020",1.059
+Russia,RUS,"May 4, 2020",1.393
+Russia,RUS,"May 5, 2020",1.077
+Russia,RUS,"May 6, 2020",1.188
+Rwanda,RWA,"Apr 7, 2020",0.062
+Rwanda,RWA,"Apr 8, 2020",0.06
+Rwanda,RWA,"Apr 9, 2020",0.056
+Rwanda,RWA,"Apr 10, 2020",0.08
+Rwanda,RWA,"Apr 11, 2020",0.065
+Rwanda,RWA,"Apr 12, 2020",0.09
+Rwanda,RWA,"Apr 13, 2020",0.07
+Rwanda,RWA,"Apr 14, 2020",0.076
+Rwanda,RWA,"Apr 15, 2020",0.071
+Rwanda,RWA,"Apr 16, 2020",0.051
+Rwanda,RWA,"Apr 17, 2020",0.059
+Rwanda,RWA,"Apr 18, 2020",0.055
+Rwanda,RWA,"Apr 19, 2020",0.056
+Rwanda,RWA,"Apr 20, 2020",0.1
+Rwanda,RWA,"Apr 21, 2020",0.112
+Rwanda,RWA,"Apr 22, 2020",0.08
+Rwanda,RWA,"Apr 23, 2020",0.104
+Rwanda,RWA,"Apr 24, 2020",0.081
+Rwanda,RWA,"Apr 25, 2020",0.098
+Rwanda,RWA,"Apr 26, 2020",0.079
+Rwanda,RWA,"Apr 27, 2020",0.094
+Rwanda,RWA,"Apr 28, 2020",0.116
+Rwanda,RWA,"Apr 29, 2020",0.132
+Rwanda,RWA,"Apr 30, 2020",0.088
+Rwanda,RWA,"May 1, 2020",0.105
+Rwanda,RWA,"May 2, 2020",0.092
+Rwanda,RWA,"May 3, 2020",0.081
+Rwanda,RWA,"May 4, 2020",0.058
+Rwanda,RWA,"May 5, 2020",0.069
+Senegal,SEN,"Mar 13, 2020",0.001
+Senegal,SEN,"Mar 16, 2020",0.001
+Senegal,SEN,"Mar 17, 2020",0.003
+Senegal,SEN,"Mar 18, 2020",0.002
+Senegal,SEN,"Mar 19, 2020",0.001
+Senegal,SEN,"Mar 20, 2020",0.003
+Senegal,SEN,"Mar 21, 2020",0.002
+Senegal,SEN,"Mar 22, 2020",0.005
+Senegal,SEN,"Mar 23, 2020",0.004
+Senegal,SEN,"Mar 24, 2020",0.004
+Senegal,SEN,"Mar 25, 2020",0.008
+Senegal,SEN,"Mar 26, 2020",0.008
+Senegal,SEN,"Mar 27, 2020",0.009
+Senegal,SEN,"Mar 28, 2020",0.006
+Senegal,SEN,"Mar 29, 2020",0.009
+Senegal,SEN,"Mar 30, 2020",0.005
+Senegal,SEN,"Mar 31, 2020",0.006
+Senegal,SEN,"Apr 1, 2020",0.012
+Senegal,SEN,"Apr 2, 2020",0.008
+Senegal,SEN,"Apr 3, 2020",0.009
+Senegal,SEN,"Apr 4, 2020",0.011
+Senegal,SEN,"Apr 5, 2020",0.005
+Senegal,SEN,"Apr 6, 2020",0.006
+Senegal,SEN,"Apr 7, 2020",0.007
+Senegal,SEN,"Apr 8, 2020",0.006
+Senegal,SEN,"Apr 9, 2020",0.012
+Senegal,SEN,"Apr 10, 2020",0.012
+Senegal,SEN,"Apr 11, 2020",0.01
+Senegal,SEN,"Apr 12, 2020",0.006
+Senegal,SEN,"Apr 13, 2020",0.009
+Senegal,SEN,"Apr 14, 2020",0.016
+Senegal,SEN,"Apr 15, 2020",0.014
+Senegal,SEN,"Apr 16, 2020",0.026
+Senegal,SEN,"Apr 17, 2020",0.018
+Senegal,SEN,"Apr 18, 2020",0.013
+Senegal,SEN,"Apr 19, 2020",0.019
+Senegal,SEN,"Apr 20, 2020",0.017
+Senegal,SEN,"Apr 21, 2020",0.028
+Senegal,SEN,"Apr 22, 2020",0.029
+Senegal,SEN,"Apr 23, 2020",0.023
+Senegal,SEN,"Apr 24, 2020",0.032
+Senegal,SEN,"Apr 25, 2020",0.042
+Senegal,SEN,"Apr 26, 2020",0.035
+Senegal,SEN,"Apr 27, 2020",0.04
+Senegal,SEN,"Apr 28, 2020",0.052
+Senegal,SEN,"Apr 29, 2020",0.048
+Senegal,SEN,"Apr 30, 2020",0.069
+Senegal,SEN,"May 1, 2020",0.054
+Senegal,SEN,"May 2, 2020",0.071
+Senegal,SEN,"May 3, 2020",0.048
+Senegal,SEN,"May 4, 2020",0.048
+Senegal,SEN,"May 5, 2020",0.042
+Senegal,SEN,"May 6, 2020",0.071
+Serbia,SRB,"Feb 27, 2020",0.001
+Serbia,SRB,"Feb 28, 2020",0.001
+Serbia,SRB,"Mar 1, 2020",0.001
+Serbia,SRB,"Mar 2, 2020",0.001
+Serbia,SRB,"Mar 4, 2020",0.001
+Serbia,SRB,"Mar 7, 2020",0.003
+Serbia,SRB,"Mar 8, 2020",0.002
+Serbia,SRB,"Mar 10, 2020",0.002
+Serbia,SRB,"Mar 11, 2020",0.003
+Serbia,SRB,"Mar 12, 2020",0.004
+Serbia,SRB,"Mar 13, 2020",0.008
+Serbia,SRB,"Mar 14, 2020",0.006
+Serbia,SRB,"Mar 15, 2020",0.002
+Serbia,SRB,"Mar 16, 2020",0.005
+Serbia,SRB,"Mar 17, 2020",0.005
+Serbia,SRB,"Mar 18, 2020",0.013
+Serbia,SRB,"Mar 19, 2020",0.01
+Serbia,SRB,"Mar 20, 2020",0.009
+Serbia,SRB,"Mar 21, 2020",0.012
+Serbia,SRB,"Mar 22, 2020",0.02
+Serbia,SRB,"Mar 23, 2020",0.009
+Serbia,SRB,"Mar 24, 2020",0.014
+Serbia,SRB,"Mar 25, 2020",0.036
+Serbia,SRB,"Mar 26, 2020",0.043
+Serbia,SRB,"Mar 27, 2020",0.038
+Serbia,SRB,"Mar 28, 2020",0.055
+Serbia,SRB,"Mar 29, 2020",0.055
+Serbia,SRB,"Mar 30, 2020",0.091
+Serbia,SRB,"Mar 31, 2020",0.07
+Serbia,SRB,"Apr 1, 2020",0.119
+Serbia,SRB,"Apr 2, 2020",0.094
+Serbia,SRB,"Apr 3, 2020",0.11
+Serbia,SRB,"Apr 4, 2020",0.095
+Serbia,SRB,"Apr 5, 2020",0.141
+Serbia,SRB,"Apr 6, 2020",0.175
+Serbia,SRB,"Apr 7, 2020",0.158
+Serbia,SRB,"Apr 8, 2020",0.167
+Serbia,SRB,"Apr 9, 2020",0.233
+Serbia,SRB,"Apr 10, 2020",0.278
+Serbia,SRB,"Apr 11, 2020",0.317
+Serbia,SRB,"Apr 12, 2020",0.281
+Serbia,SRB,"Apr 13, 2020",0.389
+Serbia,SRB,"Apr 14, 2020",0.359
+Serbia,SRB,"Apr 15, 2020",0.423
+Serbia,SRB,"Apr 16, 2020",0.469
+Serbia,SRB,"Apr 17, 2020",0.455
+Serbia,SRB,"Apr 18, 2020",0.509
+Serbia,SRB,"Apr 19, 2020",0.393
+Serbia,SRB,"Apr 20, 2020",0.457
+Serbia,SRB,"Apr 21, 2020",0.521
+Serbia,SRB,"Apr 22, 2020",0.482
+Serbia,SRB,"Apr 23, 2020",0.395
+Serbia,SRB,"Apr 24, 2020",0.524
+Serbia,SRB,"Apr 25, 2020",0.742
+Serbia,SRB,"Apr 26, 2020",0.641
+Serbia,SRB,"Apr 27, 2020",0.531
+Serbia,SRB,"Apr 28, 2020",0.8
+Serbia,SRB,"Apr 29, 2020",0.82
+Serbia,SRB,"Apr 30, 2020",0.985
+Serbia,SRB,"May 1, 2020",0.868
+Serbia,SRB,"May 2, 2020",0.747
+Serbia,SRB,"May 3, 2020",0.775
+Serbia,SRB,"May 4, 2020",0.669
+Serbia,SRB,"May 5, 2020",0.708
+Serbia,SRB,"May 6, 2020",0.911
+Slovakia,SVK,"Mar 16, 2020",0.067
+Slovakia,SVK,"Mar 19, 2020",0.082
+Slovakia,SVK,"Mar 20, 2020",0.049
+Slovakia,SVK,"Mar 21, 2020",0.099
+Slovakia,SVK,"Mar 22, 2020",0.044
+Slovakia,SVK,"Mar 23, 2020",0.005
+Slovakia,SVK,"Apr 3, 2020",0.346
+Slovakia,SVK,"Apr 4, 2020",0.279
+Slovakia,SVK,"Apr 9, 2020",0.421
+Slovakia,SVK,"Apr 10, 2020",0.398
+Slovakia,SVK,"Apr 11, 2020",0.289
+Slovakia,SVK,"Apr 12, 2020",0.243
+Slovakia,SVK,"Apr 13, 2020",0.238
+Slovakia,SVK,"Apr 14, 2020",0.264
+Slovakia,SVK,"Apr 15, 2020",0.543
+Slovakia,SVK,"Apr 16, 2020",0.614
+Slovakia,SVK,"Apr 17, 2020",0.576
+Slovakia,SVK,"Apr 18, 2020",0.609
+Slovakia,SVK,"Apr 19, 2020",0.45
+Slovakia,SVK,"Apr 20, 2020",0.493
+Slovakia,SVK,"Apr 21, 2020",0.818
+Slovakia,SVK,"Apr 24, 2020",0.703
+Slovakia,SVK,"Apr 25, 2020",0.884
+Slovakia,SVK,"Apr 26, 2020",0.886
+Slovakia,SVK,"Apr 27, 2020",0.581
+Slovakia,SVK,"Apr 28, 2020",0.324
+Slovakia,SVK,"Apr 29, 2020",1.002
+Slovakia,SVK,"Apr 30, 2020",0.84
+Slovakia,SVK,"May 1, 2020",0.943
+Slovakia,SVK,"May 2, 2020",0.677
+Slovakia,SVK,"May 3, 2020",0.266
+Slovakia,SVK,"May 4, 2020",0.29
+Slovakia,SVK,"May 5, 2020",0.377
+Slovakia,SVK,"May 6, 2020",0.869
+Slovenia,SVN,"Mar 13, 2020",0.576
+Slovenia,SVN,"Mar 14, 2020",0.441
+Slovenia,SVN,"Mar 15, 2020",0.284
+Slovenia,SVN,"Mar 16, 2020",0.419
+Slovenia,SVN,"Mar 17, 2020",0.539
+Slovenia,SVN,"Mar 18, 2020",0.494
+Slovenia,SVN,"Mar 19, 2020",0.57
+Slovenia,SVN,"Mar 20, 2020",0.597
+Slovenia,SVN,"Mar 21, 2020",0.419
+Slovenia,SVN,"Mar 22, 2020",0.352
+Slovenia,SVN,"Mar 23, 2020",0.605
+Slovenia,SVN,"Mar 24, 2020",0.598
+Slovenia,SVN,"Mar 25, 2020",0.568
+Slovenia,SVN,"Mar 26, 2020",0.517
+Slovenia,SVN,"Mar 27, 2020",0.667
+Slovenia,SVN,"Mar 28, 2020",0.48
+Slovenia,SVN,"Mar 29, 2020",0.287
+Slovenia,SVN,"Mar 30, 2020",0.541
+Slovenia,SVN,"Mar 31, 2020",0.62
+Slovenia,SVN,"Apr 1, 2020",0.527
+Slovenia,SVN,"Apr 2, 2020",0.512
+Slovenia,SVN,"Apr 3, 2020",0.571
+Slovenia,SVN,"Apr 4, 2020",0.315
+Slovenia,SVN,"Apr 5, 2020",0.235
+Slovenia,SVN,"Apr 6, 2020",0.578
+Slovenia,SVN,"Apr 7, 2020",0.584
+Slovenia,SVN,"Apr 8, 2020",0.55
+Slovenia,SVN,"Apr 9, 2020",0.594
+Slovenia,SVN,"Apr 10, 2020",0.593
+Slovenia,SVN,"Apr 11, 2020",0.275
+Slovenia,SVN,"Apr 12, 2020",0.266
+Slovenia,SVN,"Apr 13, 2020",0.26
+Slovenia,SVN,"Apr 14, 2020",0.562
+Slovenia,SVN,"Apr 15, 2020",0.492
+Slovenia,SVN,"Apr 16, 2020",0.574
+Slovenia,SVN,"Apr 17, 2020",0.601
+Slovenia,SVN,"Apr 18, 2020",0.329
+Slovenia,SVN,"Apr 19, 2020",0.258
+Slovenia,SVN,"Apr 20, 2020",0.565
+Slovenia,SVN,"Apr 21, 2020",0.702
+Slovenia,SVN,"Apr 22, 2020",0.61
+Slovenia,SVN,"Apr 23, 2020",0.633
+Slovenia,SVN,"Apr 24, 2020",0.558
+Slovenia,SVN,"Apr 25, 2020",0.382
+Slovenia,SVN,"Apr 26, 2020",0.305
+Slovenia,SVN,"Apr 27, 2020",0.329
+Slovenia,SVN,"Apr 28, 2020",0.633
+Slovenia,SVN,"Apr 29, 2020",0.645
+Slovenia,SVN,"Apr 30, 2020",0.65
+Slovenia,SVN,"May 1, 2020",0.346
+Slovenia,SVN,"May 2, 2020",0.241
+Slovenia,SVN,"May 3, 2020",0.296
+Slovenia,SVN,"May 4, 2020",0.644
+Slovenia,SVN,"May 5, 2020",0.697
+South Africa,ZAF,"Mar 7, 2020",0.001
+South Africa,ZAF,"Mar 12, 2020",0.003
+South Africa,ZAF,"Mar 13, 2020",0.001
+South Africa,ZAF,"Mar 14, 2020",0.002
+South Africa,ZAF,"Mar 15, 2020",0.008
+South Africa,ZAF,"Mar 16, 2020",0.016
+South Africa,ZAF,"Mar 17, 2020",0.009
+South Africa,ZAF,"Mar 18, 2020",0.003
+South Africa,ZAF,"Mar 19, 2020",0.03
+South Africa,ZAF,"Mar 20, 2020",0.027
+South Africa,ZAF,"Mar 21, 2020",0.017
+South Africa,ZAF,"Mar 22, 2020",0.032
+South Africa,ZAF,"Mar 23, 2020",0.059
+South Africa,ZAF,"Mar 24, 2020",0.046
+South Africa,ZAF,"Mar 27, 2020",0.136
+South Africa,ZAF,"Mar 28, 2020",0.058
+South Africa,ZAF,"Mar 29, 2020",0.061
+South Africa,ZAF,"Mar 30, 2020",0.047
+South Africa,ZAF,"Mar 31, 2020",0.045
+South Africa,ZAF,"Apr 1, 2020",0.054
+South Africa,ZAF,"Apr 2, 2020",0.062
+South Africa,ZAF,"Apr 3, 2020",0.04
+South Africa,ZAF,"Apr 4, 2020",0.06
+South Africa,ZAF,"Apr 5, 2020",0.05
+South Africa,ZAF,"Apr 6, 2020",0.021
+South Africa,ZAF,"Apr 9, 2020",0.086
+South Africa,ZAF,"Apr 10, 2020",0.07
+South Africa,ZAF,"Apr 11, 2020",0.034
+South Africa,ZAF,"Apr 12, 2020",0.085
+South Africa,ZAF,"Apr 13, 2020",0.06
+South Africa,ZAF,"Apr 14, 2020",0.057
+South Africa,ZAF,"Apr 15, 2020",0.059
+South Africa,ZAF,"Apr 16, 2020",0.077
+South Africa,ZAF,"Apr 17, 2020",0.097
+South Africa,ZAF,"Apr 18, 2020",0.124
+South Africa,ZAF,"Apr 19, 2020",0.11
+South Africa,ZAF,"Apr 20, 2020",0.115
+South Africa,ZAF,"Apr 21, 2020",0.092
+South Africa,ZAF,"Apr 22, 2020",0.115
+South Africa,ZAF,"Apr 23, 2020",0.165
+South Africa,ZAF,"Apr 24, 2020",0.149
+South Africa,ZAF,"Apr 25, 2020",0.145
+South Africa,ZAF,"Apr 26, 2020",0.129
+South Africa,ZAF,"Apr 27, 2020",0.166
+South Africa,ZAF,"Apr 28, 2020",0.118
+South Africa,ZAF,"Apr 29, 2020",0.196
+South Africa,ZAF,"Apr 30, 2020",0.175
+South Africa,ZAF,"May 1, 2020",0.168
+South Africa,ZAF,"May 2, 2020",0.222
+South Africa,ZAF,"May 3, 2020",0.254
+South Africa,ZAF,"May 4, 2020",0.199
+South Africa,ZAF,"May 5, 2020",0.177
+South Korea,KOR,"Jan 28, 2020",0.003
+South Korea,KOR,"Feb 2, 2020",0.001
+South Korea,KOR,"Feb 5, 2020",0.002
+South Korea,KOR,"Feb 6, 2020",0.003
+South Korea,KOR,"Feb 7, 2020",0.005
+South Korea,KOR,"Feb 8, 2020",0.011
+South Korea,KOR,"Feb 9, 2020",0.012
+South Korea,KOR,"Feb 10, 2020",0.009
+South Korea,KOR,"Feb 11, 2020",0.017
+South Korea,KOR,"Feb 12, 2020",0.028
+South Korea,KOR,"Feb 13, 2020",0.014
+South Korea,KOR,"Feb 14, 2020",0.021
+South Korea,KOR,"Feb 15, 2020",0.013
+South Korea,KOR,"Feb 16, 2020",0.008
+South Korea,KOR,"Feb 17, 2020",0.005
+South Korea,KOR,"Feb 18, 2020",0.021
+South Korea,KOR,"Feb 19, 2020",0.022
+South Korea,KOR,"Feb 20, 2020",0.034
+South Korea,KOR,"Feb 21, 2020",0.052
+South Korea,KOR,"Feb 22, 2020",0.094
+South Korea,KOR,"Feb 23, 2020",0.059
+South Korea,KOR,"Feb 24, 2020",0.117
+South Korea,KOR,"Feb 25, 2020",0.158
+South Korea,KOR,"Feb 26, 2020",0.184
+South Korea,KOR,"Feb 27, 2020",0.231
+South Korea,KOR,"Feb 28, 2020",0.253
+South Korea,KOR,"Feb 29, 2020",0.288
+South Korea,KOR,"Mar 1, 2020",0.22
+South Korea,KOR,"Mar 2, 2020",0.246
+South Korea,KOR,"Mar 3, 2020",0.317
+South Korea,KOR,"Mar 4, 2020",0.212
+South Korea,KOR,"Mar 5, 2020",0.192
+South Korea,KOR,"Mar 6, 2020",0.355
+South Korea,KOR,"Mar 7, 2020",0.262
+South Korea,KOR,"Mar 8, 2020",0.201
+South Korea,KOR,"Mar 9, 2020",0.158
+South Korea,KOR,"Mar 10, 2020",0.264
+South Korea,KOR,"Mar 11, 2020",0.239
+South Korea,KOR,"Mar 12, 2020",0.246
+South Korea,KOR,"Mar 13, 2020",0.266
+South Korea,KOR,"Mar 14, 2020",0.247
+South Korea,KOR,"Mar 15, 2020",0.134
+South Korea,KOR,"Mar 16, 2020",0.123
+South Korea,KOR,"Mar 17, 2020",0.238
+South Korea,KOR,"Mar 18, 2020",0.174
+South Korea,KOR,"Mar 19, 2020",0.222
+South Korea,KOR,"Mar 20, 2020",0.188
+South Korea,KOR,"Mar 21, 2020",0.212
+South Korea,KOR,"Mar 22, 2020",0.083
+South Korea,KOR,"Mar 23, 2020",0.122
+South Korea,KOR,"Mar 24, 2020",0.206
+South Korea,KOR,"Mar 25, 2020",0.182
+South Korea,KOR,"Mar 26, 2020",0.137
+South Korea,KOR,"Mar 27, 2020",0.234
+South Korea,KOR,"Mar 28, 2020",0.214
+South Korea,KOR,"Mar 29, 2020",0.121
+South Korea,KOR,"Mar 30, 2020",0.021
+South Korea,KOR,"Mar 31, 2020",0.3
+South Korea,KOR,"Apr 1, 2020",0.214
+South Korea,KOR,"Apr 2, 2020",0.199
+South Korea,KOR,"Apr 3, 2020",0.225
+South Korea,KOR,"Apr 4, 2020",0.229
+South Korea,KOR,"Apr 5, 2020",0.121
+South Korea,KOR,"Apr 6, 2020",0.109
+South Korea,KOR,"Apr 7, 2020",0.205
+South Korea,KOR,"Apr 8, 2020",0.17
+South Korea,KOR,"Apr 9, 2020",0.17
+South Korea,KOR,"Apr 10, 2020",0.163
+South Korea,KOR,"Apr 11, 2020",0.145
+South Korea,KOR,"Apr 12, 2020",0.081
+South Korea,KOR,"Apr 13, 2020",0.08
+South Korea,KOR,"Apr 14, 2020",0.17
+South Korea,KOR,"Apr 15, 2020",0.139
+South Korea,KOR,"Apr 16, 2020",0.082
+South Korea,KOR,"Apr 17, 2020",0.15
+South Korea,KOR,"Apr 18, 2020",0.163
+South Korea,KOR,"Apr 19, 2020",0.083
+South Korea,KOR,"Apr 20, 2020",0.077
+South Korea,KOR,"Apr 21, 2020",0.156
+South Korea,KOR,"Apr 22, 2020",0.135
+South Korea,KOR,"Apr 23, 2020",0.117
+South Korea,KOR,"Apr 24, 2020",0.108
+South Korea,KOR,"Apr 25, 2020",0.11
+South Korea,KOR,"Apr 26, 2020",0.061
+South Korea,KOR,"Apr 27, 2020",0.066
+South Korea,KOR,"Apr 28, 2020",0.134
+South Korea,KOR,"Apr 29, 2020",0.111
+South Korea,KOR,"Apr 30, 2020",0.111
+South Korea,KOR,"May 1, 2020",0.062
+South Korea,KOR,"May 2, 2020",0.088
+South Korea,KOR,"May 3, 2020",0.067
+South Korea,KOR,"May 4, 2020",0.058
+South Korea,KOR,"May 5, 2020",0.123
+South Korea,KOR,"May 6, 2020",0.056
+Switzerland,CHE,"Jan 27, 2020",0.001
+Switzerland,CHE,"Jan 28, 2020",0.002
+Switzerland,CHE,"Jan 29, 2020",0.003
+Switzerland,CHE,"Jan 30, 2020",0.004
+Switzerland,CHE,"Jan 31, 2020",0.003
+Switzerland,CHE,"Feb 1, 2020",0.002
+Switzerland,CHE,"Feb 2, 2020",0.002
+Switzerland,CHE,"Feb 3, 2020",0.002
+Switzerland,CHE,"Feb 4, 2020",0.003
+Switzerland,CHE,"Feb 5, 2020",0.002
+Switzerland,CHE,"Feb 6, 2020",0.001
+Switzerland,CHE,"Feb 7, 2020",0.001
+Switzerland,CHE,"Feb 8, 2020",0.001
+Switzerland,CHE,"Feb 9, 2020",0.001
+Switzerland,CHE,"Feb 10, 2020",0.001
+Switzerland,CHE,"Feb 11, 2020",0.002
+Switzerland,CHE,"Feb 12, 2020",0.002
+Switzerland,CHE,"Feb 13, 2020",0.002
+Switzerland,CHE,"Feb 14, 2020",0.001
+Switzerland,CHE,"Feb 15, 2020",0.001
+Switzerland,CHE,"Feb 16, 2020",0.001
+Switzerland,CHE,"Feb 18, 2020",0.001
+Switzerland,CHE,"Feb 19, 2020",0.001
+Switzerland,CHE,"Feb 20, 2020",0.001
+Switzerland,CHE,"Feb 21, 2020",0.001
+Switzerland,CHE,"Feb 24, 2020",0.002
+Switzerland,CHE,"Feb 25, 2020",0.01
+Switzerland,CHE,"Feb 26, 2020",0.019
+Switzerland,CHE,"Feb 27, 2020",0.026
+Switzerland,CHE,"Feb 28, 2020",0.034
+Switzerland,CHE,"Feb 29, 2020",0.077
+Switzerland,CHE,"Mar 1, 2020",0.042
+Switzerland,CHE,"Mar 2, 2020",0.047
+Switzerland,CHE,"Mar 3, 2020",0.069
+Switzerland,CHE,"Mar 4, 2020",0.084
+Switzerland,CHE,"Mar 5, 2020",0.077
+Switzerland,CHE,"Mar 6, 2020",0.112
+Switzerland,CHE,"Mar 7, 2020",0.084
+Switzerland,CHE,"Mar 8, 2020",0.085
+Switzerland,CHE,"Mar 9, 2020",0.182
+Switzerland,CHE,"Mar 10, 2020",0.243
+Switzerland,CHE,"Mar 11, 2020",0.301
+Switzerland,CHE,"Mar 12, 2020",0.532
+Switzerland,CHE,"Mar 13, 2020",0.533
+Switzerland,CHE,"Mar 14, 2020",0.574
+Switzerland,CHE,"Mar 15, 2020",0.322
+Switzerland,CHE,"Mar 16, 2020",0.599
+Switzerland,CHE,"Mar 17, 2020",1.033
+Switzerland,CHE,"Mar 18, 2020",1.181
+Switzerland,CHE,"Mar 19, 2020",1.103
+Switzerland,CHE,"Mar 20, 2020",0.938
+Switzerland,CHE,"Mar 21, 2020",0.718
+Switzerland,CHE,"Mar 22, 2020",0.419
+Switzerland,CHE,"Mar 23, 2020",0.703
+Switzerland,CHE,"Mar 24, 2020",0.672
+Switzerland,CHE,"Mar 25, 2020",0.851
+Switzerland,CHE,"Mar 26, 2020",0.955
+Switzerland,CHE,"Mar 27, 2020",0.82
+Switzerland,CHE,"Mar 28, 2020",0.668
+Switzerland,CHE,"Mar 29, 2020",0.393
+Switzerland,CHE,"Mar 30, 2020",0.484
+Switzerland,CHE,"Mar 31, 2020",0.781
+Switzerland,CHE,"Apr 1, 2020",0.781
+Switzerland,CHE,"Apr 2, 2020",0.825
+Switzerland,CHE,"Apr 3, 2020",0.756
+Switzerland,CHE,"Apr 4, 2020",0.621
+Switzerland,CHE,"Apr 5, 2020",0.426
+Switzerland,CHE,"Apr 6, 2020",0.458
+Switzerland,CHE,"Apr 7, 2020",0.753
+Switzerland,CHE,"Apr 8, 2020",0.778
+Switzerland,CHE,"Apr 9, 2020",0.707
+Switzerland,CHE,"Apr 10, 2020",0.487
+Switzerland,CHE,"Apr 11, 2020",0.332
+Switzerland,CHE,"Apr 12, 2020",0.281
+Switzerland,CHE,"Apr 13, 2020",0.256
+Switzerland,CHE,"Apr 14, 2020",0.48
+Switzerland,CHE,"Apr 15, 2020",0.637
+Switzerland,CHE,"Apr 16, 2020",0.592
+Switzerland,CHE,"Apr 17, 2020",0.537
+Switzerland,CHE,"Apr 18, 2020",0.441
+Switzerland,CHE,"Apr 19, 2020",0.264
+Switzerland,CHE,"Apr 20, 2020",0.379
+Switzerland,CHE,"Apr 21, 2020",0.567
+Switzerland,CHE,"Apr 22, 2020",0.543
+Switzerland,CHE,"Apr 23, 2020",0.525
+Switzerland,CHE,"Apr 24, 2020",0.56
+Switzerland,CHE,"Apr 25, 2020",0.477
+Switzerland,CHE,"Apr 26, 2020",0.278
+Switzerland,CHE,"Apr 27, 2020",0.424
+Switzerland,CHE,"Apr 28, 2020",0.638
+Switzerland,CHE,"Apr 29, 2020",0.675
+Switzerland,CHE,"Apr 30, 2020",0.559
+Switzerland,CHE,"May 1, 2020",0.516
+Switzerland,CHE,"May 2, 2020",0.367
+Switzerland,CHE,"May 3, 2020",0.298
+Switzerland,CHE,"May 4, 2020",0.364
+Switzerland,CHE,"May 5, 2020",0.153
+Taiwan,TWN,"Mar 7, 2020",0.013
+Taiwan,TWN,"Mar 8, 2020",0.013
+Taiwan,TWN,"Mar 9, 2020",0.02
+Taiwan,TWN,"Mar 10, 2020",0.014
+Taiwan,TWN,"Mar 11, 2020",0.019
+Taiwan,TWN,"Mar 12, 2020",0.028
+Taiwan,TWN,"Mar 13, 2020",0.019
+Taiwan,TWN,"Mar 14, 2020",0.016
+Taiwan,TWN,"Mar 15, 2020",0.013
+Taiwan,TWN,"Mar 16, 2020",0.03
+Taiwan,TWN,"Mar 17, 2020",0.037
+Taiwan,TWN,"Mar 18, 2020",0.05
+Taiwan,TWN,"Mar 19, 2020",0.057
+Taiwan,TWN,"Mar 20, 2020",0.057
+Taiwan,TWN,"Mar 21, 2020",0.045
+Taiwan,TWN,"Mar 22, 2020",0.034
+Taiwan,TWN,"Mar 23, 2020",0.048
+Taiwan,TWN,"Mar 24, 2020",0.038
+Taiwan,TWN,"Mar 25, 2020",0.037
+Taiwan,TWN,"Mar 26, 2020",0.041
+Taiwan,TWN,"Mar 27, 2020",0.037
+Taiwan,TWN,"Mar 28, 2020",0.022
+Taiwan,TWN,"Mar 29, 2020",0.036
+Taiwan,TWN,"Mar 30, 2020",0.043
+Taiwan,TWN,"Mar 31, 2020",0.039
+Taiwan,TWN,"Apr 1, 2020",0.042
+Taiwan,TWN,"Apr 2, 2020",0.035
+Taiwan,TWN,"Apr 3, 2020",0.037
+Taiwan,TWN,"Apr 4, 2020",0.036
+Taiwan,TWN,"Apr 5, 2020",0.038
+Taiwan,TWN,"Apr 6, 2020",0.075
+Taiwan,TWN,"Apr 7, 2020",0.071
+Taiwan,TWN,"Apr 8, 2020",0.068
+Taiwan,TWN,"Apr 9, 2020",0.066
+Taiwan,TWN,"Apr 10, 2020",0.066
+Taiwan,TWN,"Apr 11, 2020",0.046
+Taiwan,TWN,"Apr 12, 2020",0.028
+Taiwan,TWN,"Apr 13, 2020",0.056
+Taiwan,TWN,"Apr 14, 2020",0.05
+Taiwan,TWN,"Apr 15, 2020",0.04
+Taiwan,TWN,"Apr 16, 2020",0.038
+Taiwan,TWN,"Apr 17, 2020",0.035
+Taiwan,TWN,"Apr 18, 2020",0.024
+Taiwan,TWN,"Apr 19, 2020",0.026
+Taiwan,TWN,"Apr 20, 2020",0.077
+Taiwan,TWN,"Apr 21, 2020",0.058
+Taiwan,TWN,"Apr 22, 2020",0.048
+Taiwan,TWN,"Apr 23, 2020",0.043
+Taiwan,TWN,"Apr 24, 2020",0.034
+Taiwan,TWN,"Apr 25, 2020",0.026
+Taiwan,TWN,"Apr 26, 2020",0.021
+Taiwan,TWN,"Apr 27, 2020",0.031
+Taiwan,TWN,"Apr 28, 2020",0.029
+Taiwan,TWN,"Apr 29, 2020",0.02
+Taiwan,TWN,"Apr 30, 2020",0.021
+Taiwan,TWN,"May 1, 2020",0.016
+Taiwan,TWN,"May 2, 2020",0.016
+Taiwan,TWN,"May 3, 2020",0.014
+Taiwan,TWN,"May 4, 2020",0.022
+Taiwan,TWN,"May 5, 2020",0.026
+Thailand,THA,"Mar 4, 2020",0.003
+Thailand,THA,"Mar 5, 2020",0.002
+Thailand,THA,"Mar 6, 2020",0.003
+Thailand,THA,"Mar 7, 2020",0.002
+Thailand,THA,"Mar 8, 2020",0.002
+Thailand,THA,"Mar 9, 2020",0.002
+Thailand,THA,"Mar 10, 2020",0.002
+Thailand,THA,"Mar 11, 2020",0.006
+Thailand,THA,"Mar 12, 2020",0.004
+Thailand,THA,"Mar 13, 2020",0.003
+Thailand,THA,"Mar 16, 2020",0.007
+Thailand,THA,"Mar 19, 2020",0.008
+Thailand,THA,"Mar 20, 2020",0.013
+Thailand,THA,"Mar 21, 2020",0.01
+Thailand,THA,"Mar 22, 2020",0.008
+Thailand,THA,"Mar 23, 2020",0.013
+Thailand,THA,"Mar 24, 2020",0.017
+Thailand,THA,"Mar 25, 2020",0.014
+Thailand,THA,"Mar 26, 2020",0.018
+Thailand,THA,"Mar 27, 2020",0.017
+Thailand,THA,"Mar 28, 2020",0.01
+Thailand,THA,"Mar 29, 2020",0.009
+Thailand,THA,"Mar 30, 2020",0.013
+Thailand,THA,"Mar 31, 2020",0.02
+Thailand,THA,"Apr 1, 2020",0.013
+Thailand,THA,"Apr 2, 2020",0.021
+Thailand,THA,"Apr 3, 2020",0.017
+Thailand,THA,"Apr 4, 2020",0.012
+Thailand,THA,"Apr 5, 2020",0.009
+Thailand,THA,"Apr 6, 2020",0.011
+Thailand,THA,"Apr 7, 2020",0.017
+Thailand,THA,"Apr 8, 2020",0.024
+Thailand,THA,"Apr 9, 2020",0.026
+Thailand,THA,"Apr 10, 2020",0.021
+Thailand,THA,"Apr 11, 2020",0.012
+Thailand,THA,"Apr 12, 2020",0.014
+Thailand,THA,"Apr 13, 2020",0.014
+Thailand,THA,"Apr 14, 2020",0.01
+Thailand,THA,"Apr 15, 2020",0.015
+Thailand,THA,"Apr 16, 2020",0.014
+Thailand,THA,"Apr 20, 2020",0.019
+Thailand,THA,"Apr 21, 2020",0.026
+Thailand,THA,"Apr 26, 2020",0.022
+Thailand,THA,"Apr 27, 2020",0.032
+Thailand,THA,"Apr 28, 2020",0.035
+Thailand,THA,"Apr 29, 2020",0.059
+Thailand,THA,"Apr 30, 2020",0.062
+Thailand,THA,"May 1, 2020",0.06
+Thailand,THA,"May 2, 2020",0.032
+Thailand,THA,"May 3, 2020",0.036
+Thailand,THA,"May 4, 2020",0.05
+Thailand,THA,"May 5, 2020",0.055
+Thailand,THA,"May 6, 2020",0.053
+Tunisia,TUN,"Mar 11, 2020",0.006
+Tunisia,TUN,"Mar 12, 2020",0.004
+Tunisia,TUN,"Mar 13, 2020",0.006
+Tunisia,TUN,"Mar 14, 2020",0.003
+Tunisia,TUN,"Mar 15, 2020",0.006
+Tunisia,TUN,"Mar 16, 2020",0.006
+Tunisia,TUN,"Mar 17, 2020",0.006
+Tunisia,TUN,"Mar 18, 2020",0.007
+Tunisia,TUN,"Mar 19, 2020",0.007
+Tunisia,TUN,"Mar 20, 2020",0.011
+Tunisia,TUN,"Mar 21, 2020",0.011
+Tunisia,TUN,"Mar 22, 2020",0.011
+Tunisia,TUN,"Mar 23, 2020",0.012
+Tunisia,TUN,"Mar 24, 2020",0.019
+Tunisia,TUN,"Mar 25, 2020",0.026
+Tunisia,TUN,"Mar 26, 2020",0.024
+Tunisia,TUN,"Mar 27, 2020",0.061
+Tunisia,TUN,"Mar 28, 2020",0.045
+Tunisia,TUN,"Mar 29, 2020",0.038
+Tunisia,TUN,"Mar 30, 2020",0.037
+Tunisia,TUN,"Mar 31, 2020",0.047
+Tunisia,TUN,"Apr 1, 2020",0.057
+Tunisia,TUN,"Apr 2, 2020",0.051
+Tunisia,TUN,"Apr 3, 2020",0.063
+Tunisia,TUN,"Apr 4, 2020",0.056
+Tunisia,TUN,"Apr 5, 2020",0.049
+Tunisia,TUN,"Apr 6, 2020",0.046
+Tunisia,TUN,"Apr 7, 2020",0.051
+Tunisia,TUN,"Apr 8, 2020",0.059
+Tunisia,TUN,"Apr 9, 2020",0.048
+Tunisia,TUN,"Apr 10, 2020",0.05
+Tunisia,TUN,"Apr 11, 2020",0.048
+Tunisia,TUN,"Apr 12, 2020",0.05
+Tunisia,TUN,"Apr 13, 2020",0.05
+Tunisia,TUN,"Apr 14, 2020",0.061
+Tunisia,TUN,"Apr 15, 2020",0.067
+Tunisia,TUN,"Apr 16, 2020",0.06
+Tunisia,TUN,"Apr 17, 2020",0.059
+Tunisia,TUN,"Apr 18, 2020",0.065
+Tunisia,TUN,"Apr 19, 2020",0.102
+Tunisia,TUN,"Apr 20, 2020",0.074
+Tunisia,TUN,"Apr 21, 2020",0.036
+Tunisia,TUN,"Apr 22, 2020",0.047
+Tunisia,TUN,"Apr 23, 2020",0.037
+Tunisia,TUN,"Apr 24, 2020",0.047
+Tunisia,TUN,"Apr 25, 2020",0.035
+Tunisia,TUN,"Apr 26, 2020",0.022
+Tunisia,TUN,"Apr 27, 2020",0.034
+Tunisia,TUN,"Apr 28, 2020",0.049
+Tunisia,TUN,"Apr 29, 2020",0.076
+Tunisia,TUN,"Apr 30, 2020",0.048
+Tunisia,TUN,"May 1, 2020",0.045
+Tunisia,TUN,"May 2, 2020",0.03
+Tunisia,TUN,"May 3, 2020",0.038
+Tunisia,TUN,"May 4, 2020",0.026
+Turkey,TUR,"Mar 19, 2020",0.023
+Turkey,TUR,"Mar 20, 2020",0.043
+Turkey,TUR,"Mar 21, 2020",0.035
+Turkey,TUR,"Mar 22, 2020",0.021
+Turkey,TUR,"Mar 23, 2020",0.044
+Turkey,TUR,"Mar 24, 2020",0.047
+Turkey,TUR,"Mar 25, 2020",0.06
+Turkey,TUR,"Mar 26, 2020",0.086
+Turkey,TUR,"Mar 27, 2020",0.089
+Turkey,TUR,"Mar 28, 2020",0.091
+Turkey,TUR,"Mar 29, 2020",0.118
+Turkey,TUR,"Mar 30, 2020",0.137
+Turkey,TUR,"Mar 31, 2020",0.183
+Turkey,TUR,"Apr 1, 2020",0.171
+Turkey,TUR,"Apr 2, 2020",0.222
+Turkey,TUR,"Apr 3, 2020",0.192
+Turkey,TUR,"Apr 4, 2020",0.233
+Turkey,TUR,"Apr 5, 2020",0.238
+Turkey,TUR,"Apr 6, 2020",0.254
+Turkey,TUR,"Apr 7, 2020",0.309
+Turkey,TUR,"Apr 8, 2020",0.224
+Turkey,TUR,"Apr 9, 2020",0.339
+Turkey,TUR,"Apr 10, 2020",0.366
+Turkey,TUR,"Apr 11, 2020",0.393
+Turkey,TUR,"Apr 12, 2020",0.424
+Turkey,TUR,"Apr 13, 2020",0.409
+Turkey,TUR,"Apr 14, 2020",0.392
+Turkey,TUR,"Apr 15, 2020",0.404
+Turkey,TUR,"Apr 16, 2020",0.479
+Turkey,TUR,"Apr 17, 2020",0.477
+Turkey,TUR,"Apr 18, 2020",0.48
+Turkey,TUR,"Apr 19, 2020",0.419
+Turkey,TUR,"Apr 20, 2020",0.471
+Turkey,TUR,"Apr 21, 2020",0.468
+Turkey,TUR,"Apr 22, 2020",0.445
+Turkey,TUR,"Apr 23, 2020",0.486
+Turkey,TUR,"Apr 24, 2020",0.455
+Turkey,TUR,"Apr 25, 2020",0.454
+Turkey,TUR,"Apr 26, 2020",0.358
+Turkey,TUR,"Apr 27, 2020",0.239
+Turkey,TUR,"Apr 28, 2020",0.347
+Turkey,TUR,"Apr 29, 2020",0.516
+Turkey,TUR,"Apr 30, 2020",0.498
+Turkey,TUR,"May 1, 2020",0.491
+Turkey,TUR,"May 4, 2020",0.424
+Turkey,TUR,"May 5, 2020",0.395
+Turkey,TUR,"May 6, 2020",0.359
+Uganda,UGA,"Apr 7, 2020",0.003
+Uganda,UGA,"Apr 8, 2020",0.005
+Uganda,UGA,"Apr 9, 2020",0.007
+Uganda,UGA,"Apr 10, 2020",0.01
+Uganda,UGA,"Apr 13, 2020",0.014
+Uganda,UGA,"Apr 14, 2020",0.022
+Uganda,UGA,"Apr 15, 2020",0.023
+Uganda,UGA,"Apr 16, 2020",0.025
+Uganda,UGA,"Apr 17, 2020",0.024
+Uganda,UGA,"Apr 18, 2020",0.025
+Uganda,UGA,"Apr 19, 2020",0.032
+Uganda,UGA,"Apr 20, 2020",0.026
+Uganda,UGA,"Apr 21, 2020",0.022
+Uganda,UGA,"Apr 22, 2020",0.028
+Uganda,UGA,"Apr 23, 2020",0.029
+Uganda,UGA,"Apr 24, 2020",0.034
+Uganda,UGA,"Apr 25, 2020",0.031
+Uganda,UGA,"Apr 26, 2020",0.043
+Uganda,UGA,"Apr 27, 2020",0.056
+Uganda,UGA,"Apr 28, 2020",0.052
+Uganda,UGA,"Apr 29, 2020",0.044
+Uganda,UGA,"Apr 30, 2020",0.045
+Uganda,UGA,"May 1, 2020",0.054
+Uganda,UGA,"May 2, 2020",0.054
+Uganda,UGA,"May 3, 2020",0.064
+Uganda,UGA,"May 4, 2020",0.049
+Uganda,UGA,"May 5, 2020",0.058
+Ukraine,UKR,"Apr 10, 2020",0.067
+Ukraine,UKR,"Apr 17, 2020",0.098
+Ukraine,UKR,"Apr 27, 2020",0.095
+Ukraine,UKR,"Apr 28, 2020",0.119
+Ukraine,UKR,"Apr 29, 2020",0.133
+Ukraine,UKR,"Apr 30, 2020",0.167
+Ukraine,UKR,"May 1, 2020",0.153
+Ukraine,UKR,"May 2, 2020",0.096
+Ukraine,UKR,"May 3, 2020",0.159
+Ukraine,UKR,"May 4, 2020",0.111
+Ukraine,UKR,"May 5, 2020",0.118
+Ukraine,UKR,"May 6, 2020",0.103
+United Kingdom,GBR,"Feb 2, 2020",0.001
+United Kingdom,GBR,"Feb 3, 2020",0.001
+United Kingdom,GBR,"Feb 4, 2020",0.001
+United Kingdom,GBR,"Feb 5, 2020",0.001
+United Kingdom,GBR,"Feb 6, 2020",0.001
+United Kingdom,GBR,"Feb 7, 2020",0.001
+United Kingdom,GBR,"Feb 8, 2020",0.001
+United Kingdom,GBR,"Feb 9, 2020",0.002
+United Kingdom,GBR,"Feb 10, 2020",0.005
+United Kingdom,GBR,"Feb 11, 2020",0.004
+United Kingdom,GBR,"Feb 12, 2020",0.006
+United Kingdom,GBR,"Feb 13, 2020",0.011
+United Kingdom,GBR,"Feb 14, 2020",0.007
+United Kingdom,GBR,"Feb 16, 2020",0.002
+United Kingdom,GBR,"Feb 17, 2020",0.021
+United Kingdom,GBR,"Feb 18, 2020",0.006
+United Kingdom,GBR,"Feb 19, 2020",0.004
+United Kingdom,GBR,"Feb 20, 2020",0.005
+United Kingdom,GBR,"Feb 21, 2020",0.005
+United Kingdom,GBR,"Feb 22, 2020",0.004
+United Kingdom,GBR,"Feb 23, 2020",0.003
+United Kingdom,GBR,"Feb 24, 2020",0.003
+United Kingdom,GBR,"Feb 25, 2020",0.004
+United Kingdom,GBR,"Feb 26, 2020",0.005
+United Kingdom,GBR,"Feb 27, 2020",0.008
+United Kingdom,GBR,"Feb 28, 2020",0.019
+United Kingdom,GBR,"Feb 29, 2020",0.022
+United Kingdom,GBR,"Mar 1, 2020",0.019
+United Kingdom,GBR,"Mar 2, 2020",0.026
+United Kingdom,GBR,"Mar 3, 2020",0.006
+United Kingdom,GBR,"Mar 4, 2020",0.04
+United Kingdom,GBR,"Mar 5, 2020",0.021
+United Kingdom,GBR,"Mar 6, 2020",0.033
+United Kingdom,GBR,"Mar 7, 2020",0.017
+United Kingdom,GBR,"Mar 8, 2020",0.03
+United Kingdom,GBR,"Mar 9, 2020",0.021
+United Kingdom,GBR,"Mar 10, 2020",0.019
+United Kingdom,GBR,"Mar 11, 2020",0.018
+United Kingdom,GBR,"Mar 12, 2020",0.034
+United Kingdom,GBR,"Mar 13, 2020",0.044
+United Kingdom,GBR,"Mar 14, 2020",0.073
+United Kingdom,GBR,"Mar 15, 2020",0.037
+United Kingdom,GBR,"Mar 16, 2020",0.056
+United Kingdom,GBR,"Mar 17, 2020",0.093
+United Kingdom,GBR,"Mar 18, 2020",0.085
+United Kingdom,GBR,"Mar 19, 2020",0.124
+United Kingdom,GBR,"Mar 20, 2020",0.035
+United Kingdom,GBR,"Mar 21, 2020",0.086
+United Kingdom,GBR,"Mar 22, 2020",0.081
+United Kingdom,GBR,"Mar 23, 2020",0.083
+United Kingdom,GBR,"Mar 24, 2020",0.096
+United Kingdom,GBR,"Mar 25, 2020",0.097
+United Kingdom,GBR,"Mar 26, 2020",0.116
+United Kingdom,GBR,"Mar 27, 2020",0.131
+United Kingdom,GBR,"Mar 28, 2020",0.103
+United Kingdom,GBR,"Mar 29, 2020",0.103
+United Kingdom,GBR,"Mar 30, 2020",0.106
+United Kingdom,GBR,"Mar 31, 2020",0.121
+United Kingdom,GBR,"Apr 1, 2020",0.144
+United Kingdom,GBR,"Apr 2, 2020",0.15
+United Kingdom,GBR,"Apr 3, 2020",0.156
+United Kingdom,GBR,"Apr 4, 2020",0.139
+United Kingdom,GBR,"Apr 5, 2020",0.182
+United Kingdom,GBR,"Apr 6, 2020",0.196
+United Kingdom,GBR,"Apr 7, 2020",0.064
+United Kingdom,GBR,"Apr 8, 2020",0.191
+United Kingdom,GBR,"Apr 9, 2020",0.158
+United Kingdom,GBR,"Apr 10, 2020",0.199
+United Kingdom,GBR,"Apr 11, 2020",0.191
+United Kingdom,GBR,"Apr 12, 2020",0.188
+United Kingdom,GBR,"Apr 13, 2020",0.158
+United Kingdom,GBR,"Apr 14, 2020",0.175
+United Kingdom,GBR,"Apr 15, 2020",0.165
+United Kingdom,GBR,"Apr 16, 2020",0.204
+United Kingdom,GBR,"Apr 17, 2020",0.205
+United Kingdom,GBR,"Apr 18, 2020",0.228
+United Kingdom,GBR,"Apr 19, 2020",0.235
+United Kingdom,GBR,"Apr 20, 2020",0.208
+United Kingdom,GBR,"Apr 21, 2020",0.171
+United Kingdom,GBR,"Apr 22, 2020",0.199
+United Kingdom,GBR,"Apr 23, 2020",0.215
+United Kingdom,GBR,"Apr 24, 2020",0.271
+United Kingdom,GBR,"Apr 25, 2020",0.34
+United Kingdom,GBR,"Apr 26, 2020",0.377
+United Kingdom,GBR,"Apr 27, 2020",0.388
+United Kingdom,GBR,"Apr 28, 2020",0.436
+United Kingdom,GBR,"Apr 29, 2020",0.493
+United Kingdom,GBR,"Apr 30, 2020",0.804
+United Kingdom,GBR,"May 1, 2020",1.078
+United Kingdom,GBR,"May 2, 2020",0.938
+United Kingdom,GBR,"May 3, 2020",0.831
+United Kingdom,GBR,"May 4, 2020",0.927
+United Kingdom,GBR,"May 5, 2020",1.029
+United Kingdom,GBR,"May 6, 2020",0.84
+"United Kingdom, tests performed",,"Apr 6, 2020",0.193
+"United Kingdom, tests performed",,"Apr 7, 2020",0.206
+"United Kingdom, tests performed",,"Apr 8, 2020",0.216
+"United Kingdom, tests performed",,"Apr 9, 2020",0.237
+"United Kingdom, tests performed",,"Apr 10, 2020",0.282
+"United Kingdom, tests performed",,"Apr 11, 2020",0.266
+"United Kingdom, tests performed",,"Apr 12, 2020",0.265
+"United Kingdom, tests performed",,"Apr 13, 2020",0.214
+"United Kingdom, tests performed",,"Apr 14, 2020",0.221
+"United Kingdom, tests performed",,"Apr 15, 2020",0.236
+"United Kingdom, tests performed",,"Apr 16, 2020",0.275
+"United Kingdom, tests performed",,"Apr 17, 2020",0.314
+"United Kingdom, tests performed",,"Apr 18, 2020",0.315
+"United Kingdom, tests performed",,"Apr 19, 2020",0.319
+"United Kingdom, tests performed",,"Apr 20, 2020",0.285
+"United Kingdom, tests performed",,"Apr 21, 2020",0.268
+"United Kingdom, tests performed",,"Apr 22, 2020",0.336
+"United Kingdom, tests performed",,"Apr 23, 2020",0.347
+"United Kingdom, tests performed",,"Apr 24, 2020",0.42
+"United Kingdom, tests performed",,"Apr 25, 2020",0.424
+"United Kingdom, tests performed",,"Apr 26, 2020",0.428
+"United Kingdom, tests performed",,"Apr 27, 2020",0.545
+"United Kingdom, tests performed",,"Apr 28, 2020",0.642
+"United Kingdom, tests performed",,"Apr 29, 2020",0.772
+"United Kingdom, tests performed",,"Apr 30, 2020",1.202
+"United Kingdom, tests performed",,"May 1, 2020",1.802
+"United Kingdom, tests performed",,"May 2, 2020",1.561
+"United Kingdom, tests performed",,"May 3, 2020",1.127
+"United Kingdom, tests performed",,"May 4, 2020",1.255
+"United Kingdom, tests performed",,"May 5, 2020",1.249
+"United Kingdom, tests performed",,"May 6, 2020",1.023
+United States,USA,"Mar 8, 2020",0.003
+United States,USA,"Mar 9, 2020",0.005
+United States,USA,"Mar 10, 2020",0.007
+United States,USA,"Mar 11, 2020",0.011
+United States,USA,"Mar 12, 2020",0.016
+United States,USA,"Mar 13, 2020",0.027
+United States,USA,"Mar 14, 2020",0.014
+United States,USA,"Mar 15, 2020",0.023
+United States,USA,"Mar 16, 2020",0.053
+United States,USA,"Mar 17, 2020",0.047
+United States,USA,"Mar 18, 2020",0.074
+United States,USA,"Mar 19, 2020",0.083
+United States,USA,"Mar 20, 2020",0.109
+United States,USA,"Mar 21, 2020",0.135
+United States,USA,"Mar 22, 2020",0.135
+United States,USA,"Mar 23, 2020",0.173
+United States,USA,"Mar 24, 2020",0.207
+United States,USA,"Mar 25, 2020",0.252
+United States,USA,"Mar 26, 2020",0.304
+United States,USA,"Mar 27, 2020",0.311
+United States,USA,"Mar 28, 2020",0.315
+United States,USA,"Mar 29, 2020",0.268
+United States,USA,"Mar 30, 2020",0.355
+United States,USA,"Mar 31, 2020",0.336
+United States,USA,"Apr 1, 2020",0.325
+United States,USA,"Apr 2, 2020",0.357
+United States,USA,"Apr 3, 2020",0.399
+United States,USA,"Apr 4, 2020",0.691
+United States,USA,"Apr 5, 2020",0.362
+United States,USA,"Apr 6, 2020",0.455
+United States,USA,"Apr 7, 2020",0.461
+United States,USA,"Apr 8, 2020",0.436
+United States,USA,"Apr 9, 2020",0.501
+United States,USA,"Apr 10, 2020",0.477
+United States,USA,"Apr 11, 2020",0.419
+United States,USA,"Apr 12, 2020",0.428
+United States,USA,"Apr 13, 2020",0.402
+United States,USA,"Apr 14, 2020",0.455
+United States,USA,"Apr 15, 2020",0.413
+United States,USA,"Apr 16, 2020",0.49
+United States,USA,"Apr 17, 2020",0.478
+United States,USA,"Apr 18, 2020",0.43
+United States,USA,"Apr 19, 2020",0.503
+United States,USA,"Apr 20, 2020",0.446
+United States,USA,"Apr 21, 2020",0.447
+United States,USA,"Apr 22, 2020",0.951
+United States,USA,"Apr 23, 2020",0.58
+United States,USA,"Apr 24, 2020",0.7
+United States,USA,"Apr 25, 2020",0.82
+United States,USA,"Apr 26, 2020",0.624
+United States,USA,"Apr 27, 2020",0.575
+United States,USA,"Apr 28, 2020",0.61
+United States,USA,"Apr 29, 2020",0.696
+United States,USA,"Apr 30, 2020",0.694
+United States,USA,"May 1, 2020",0.894
+United States,USA,"May 2, 2020",0.766
+United States,USA,"May 3, 2020",0.75
+United States,USA,"May 4, 2020",0.701
+United States,USA,"May 5, 2020",0.782
+"United States, specimens tested (CDC)",,"Jan 30, 2020",0.001
+"United States, specimens tested (CDC)",,"Feb 1, 2020",0.001
+"United States, specimens tested (CDC)",,"Feb 21, 2020",0.001
+"United States, specimens tested (CDC)",,"Feb 22, 2020",0.001
+"United States, specimens tested (CDC)",,"Feb 27, 2020",0.001
+"United States, specimens tested (CDC)",,"Feb 28, 2020",0.001
+"United States, specimens tested (CDC)",,"Feb 29, 2020",0.001
+"United States, specimens tested (CDC)",,"Mar 1, 2020",0.001
+"United States, specimens tested (CDC)",,"Mar 2, 2020",0.002
+"United States, specimens tested (CDC)",,"Mar 3, 2020",0.003
+"United States, specimens tested (CDC)",,"Mar 4, 2020",0.004
+"United States, specimens tested (CDC)",,"Mar 5, 2020",0.006
+"United States, specimens tested (CDC)",,"Mar 6, 2020",0.006
+"United States, specimens tested (CDC)",,"Mar 7, 2020",0.005
+"United States, specimens tested (CDC)",,"Mar 8, 2020",0.006
+"United States, specimens tested (CDC)",,"Mar 9, 2020",0.012
+"United States, specimens tested (CDC)",,"Mar 10, 2020",0.013
+"United States, specimens tested (CDC)",,"Mar 11, 2020",0.016
+"United States, specimens tested (CDC)",,"Mar 12, 2020",0.022
+"United States, specimens tested (CDC)",,"Mar 13, 2020",0.023
+"United States, specimens tested (CDC)",,"Mar 14, 2020",0.02
+"United States, specimens tested (CDC)",,"Mar 15, 2020",0.02
+"United States, specimens tested (CDC)",,"Mar 16, 2020",0.038
+"United States, specimens tested (CDC)",,"Mar 17, 2020",0.037
+"United States, specimens tested (CDC)",,"Mar 18, 2020",0.034
+"United States, specimens tested (CDC)",,"Mar 19, 2020",0.033
+"United States, specimens tested (CDC)",,"Mar 20, 2020",0.033
+"United States, specimens tested (CDC)",,"Mar 21, 2020",0.019
+"United States, specimens tested (CDC)",,"Mar 22, 2020",0.017
+"United States, specimens tested (CDC)",,"Mar 23, 2020",0.031
+"United States, specimens tested (CDC)",,"Mar 24, 2020",0.031
+"United States, specimens tested (CDC)",,"Mar 25, 2020",0.033
+"United States, specimens tested (CDC)",,"Mar 26, 2020",0.035
+"United States, specimens tested (CDC)",,"Mar 27, 2020",0.034
+"United States, specimens tested (CDC)",,"Mar 28, 2020",0.023
+"United States, specimens tested (CDC)",,"Mar 29, 2020",0.019
+"United States, specimens tested (CDC)",,"Mar 30, 2020",0.038
+"United States, specimens tested (CDC)",,"Mar 31, 2020",0.039
+"United States, specimens tested (CDC)",,"Apr 1, 2020",0.038
+"United States, specimens tested (CDC)",,"Apr 2, 2020",0.041
+"United States, specimens tested (CDC)",,"Apr 3, 2020",0.042
+"United States, specimens tested (CDC)",,"Apr 4, 2020",0.025
+"United States, specimens tested (CDC)",,"Apr 5, 2020",0.023
+"United States, specimens tested (CDC)",,"Apr 6, 2020",0.043
+"United States, specimens tested (CDC)",,"Apr 7, 2020",0.041
+"United States, specimens tested (CDC)",,"Apr 8, 2020",0.043
+"United States, specimens tested (CDC)",,"Apr 9, 2020",0.039
+"United States, specimens tested (CDC)",,"Apr 10, 2020",0.041
+"United States, specimens tested (CDC)",,"Apr 11, 2020",0.022
+"United States, specimens tested (CDC)",,"Apr 12, 2020",0.012
+"United States, specimens tested (CDC)",,"Apr 13, 2020",0.038
+"United States, specimens tested (CDC)",,"Apr 14, 2020",0.039
+"United States, specimens tested (CDC)",,"Apr 15, 2020",0.04
+"United States, specimens tested (CDC)",,"Apr 16, 2020",0.041
+"United States, specimens tested (CDC)",,"Apr 17, 2020",0.048
+"United States, specimens tested (CDC)",,"Apr 18, 2020",0.022
+"United States, specimens tested (CDC)",,"Apr 19, 2020",0.017
+"United States, specimens tested (CDC)",,"Apr 20, 2020",0.047
+"United States, specimens tested (CDC)",,"Apr 21, 2020",0.049
+"United States, specimens tested (CDC)",,"Apr 22, 2020",0.063
+"United States, specimens tested (CDC)",,"Apr 23, 2020",0.067
+"United States, specimens tested (CDC)",,"Apr 24, 2020",0.074
+"United States, specimens tested (CDC)",,"Apr 25, 2020",0.049
+"United States, specimens tested (CDC)",,"Apr 26, 2020",0.026
+"United States, specimens tested (CDC)",,"Apr 27, 2020",0.069
+"United States, specimens tested (CDC)",,"Apr 28, 2020",0.07
+Uruguay,URY,"Mar 29, 2020",0.058
+Uruguay,URY,"Mar 30, 2020",0.086
+Uruguay,URY,"Mar 31, 2020",0.113
+Uruguay,URY,"Apr 1, 2020",0.083
+Uruguay,URY,"Apr 2, 2020",0.102
+Uruguay,URY,"Apr 3, 2020",0.093
+Uruguay,URY,"Apr 4, 2020",0.08
+Uruguay,URY,"Apr 5, 2020",0.042
+Uruguay,URY,"Apr 6, 2020",0.051
+Uruguay,URY,"Apr 7, 2020",0.098
+Uruguay,URY,"Apr 8, 2020",0.129
+Uruguay,URY,"Apr 9, 2020",0.196
+Uruguay,URY,"Apr 10, 2020",0.184
+Uruguay,URY,"Apr 11, 2020",0.178
+Uruguay,URY,"Apr 12, 2020",0.19
+Uruguay,URY,"Apr 13, 2020",0.133
+Uruguay,URY,"Apr 14, 2020",0.199
+Uruguay,URY,"Apr 15, 2020",0.149
+Uruguay,URY,"Apr 16, 2020",0.228
+Uruguay,URY,"Apr 17, 2020",0.147
+Uruguay,URY,"Apr 18, 2020",0.21
+Uruguay,URY,"Apr 19, 2020",0.1
+Uruguay,URY,"Apr 22, 2020",0.152
+Uruguay,URY,"Apr 23, 2020",0.175
+Uruguay,URY,"Apr 24, 2020",0.176
+Uruguay,URY,"Apr 25, 2020",0.199
+Uruguay,URY,"Apr 26, 2020",0.191
+Uruguay,URY,"Apr 27, 2020",0.163
+Uruguay,URY,"Apr 28, 2020",0.127
+Uruguay,URY,"Apr 29, 2020",0.183
+Uruguay,URY,"Apr 30, 2020",0.252
+Uruguay,URY,"May 1, 2020",0.21
+Uruguay,URY,"May 2, 2020",0.232
+Uruguay,URY,"May 3, 2020",0.176
+Uruguay,URY,"May 4, 2020",0.223
+Uruguay,URY,"May 5, 2020",0.249
+Uruguay,URY,"May 6, 2020",0.29
+Vietnam,VNM,"Mar 6, 2020",0.001
+Vietnam,VNM,"Mar 12, 2020",0.001
+Vietnam,VNM,"Mar 13, 2020",0.002
+Vietnam,VNM,"Mar 14, 2020",0.005
+Vietnam,VNM,"Mar 15, 2020",0.023
+Vietnam,VNM,"Mar 17, 2020",0.022
+Vietnam,VNM,"Mar 18, 2020",0.054
+Vietnam,VNM,"Mar 25, 2020",0.064
+Vietnam,VNM,"Mar 26, 2020",0.014
+Vietnam,VNM,"Mar 27, 2020",0.04
+Vietnam,VNM,"Apr 2, 2020",0.059
+Vietnam,VNM,"Apr 3, 2020",0.024
+Vietnam,VNM,"Apr 7, 2020",0.126
+Vietnam,VNM,"Apr 8, 2020",0.036
+Vietnam,VNM,"Apr 9, 2020",0.042
+Vietnam,VNM,"Apr 10, 2020",0.047
+Vietnam,VNM,"Apr 11, 2020",0.031
+Vietnam,VNM,"Apr 15, 2020",0.033
+Vietnam,VNM,"Apr 26, 2020",0.008
+Vietnam,VNM,"Apr 27, 2020",0.008
+Zimbabwe,ZWE,"Mar 26, 2020",0.004
+Zimbabwe,ZWE,"Mar 27, 2020",0.002
+Zimbabwe,ZWE,"Mar 30, 2020",0.003
+Zimbabwe,ZWE,"Mar 31, 2020",0.002
+Zimbabwe,ZWE,"Apr 3, 2020",0.001
+Zimbabwe,ZWE,"Apr 4, 2020",0.001
+Zimbabwe,ZWE,"Apr 5, 2020",0.001
+Zimbabwe,ZWE,"Apr 6, 2020",0.001
+Zimbabwe,ZWE,"Apr 7, 2020",0.001
+Zimbabwe,ZWE,"Apr 8, 2020",0.001
+Zimbabwe,ZWE,"Apr 9, 2020",0.002
+Zimbabwe,ZWE,"Apr 10, 2020",0.002
+Zimbabwe,ZWE,"Apr 11, 2020",0.006
+Zimbabwe,ZWE,"Apr 12, 2020",0.001
+Zimbabwe,ZWE,"Apr 13, 2020",0.003
+Zimbabwe,ZWE,"Apr 14, 2020",0.004
+Zimbabwe,ZWE,"Apr 15, 2020",0.003
+Zimbabwe,ZWE,"Apr 16, 2020",0.039
+Zimbabwe,ZWE,"Apr 17, 2020",0.08
+Zimbabwe,ZWE,"Apr 18, 2020",0.009
+Zimbabwe,ZWE,"Apr 19, 2020",0.015
+Zimbabwe,ZWE,"Apr 20, 2020",0.031
+Zimbabwe,ZWE,"Apr 21, 2020",0.057
+Zimbabwe,ZWE,"Apr 22, 2020",0.056
+Zimbabwe,ZWE,"Apr 23, 2020",0.031
+Zimbabwe,ZWE,"Apr 24, 2020",0.016
+Zimbabwe,ZWE,"Apr 25, 2020",0.026
+Zimbabwe,ZWE,"Apr 26, 2020",0.022
+Zimbabwe,ZWE,"Apr 27, 2020",0.03
+Zimbabwe,ZWE,"Apr 28, 2020",0.03
+Zimbabwe,ZWE,"Apr 29, 2020",0.024
+Zimbabwe,ZWE,"Apr 30, 2020",0.045
+Zimbabwe,ZWE,"May 1, 2020",0.066
+Zimbabwe,ZWE,"May 2, 2020",0.097
+Zimbabwe,ZWE,"May 3, 2020",0.062
+Zimbabwe,ZWE,"May 4, 2020",0.113
+Zimbabwe,ZWE,"May 5, 2020",0.1

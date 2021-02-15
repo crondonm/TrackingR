@@ -1,0 +1,43 @@
+
+  data {
+    int<lower=0> N_obs;
+    real y_obs[N_obs];
+  }
+  
+  transformed data {
+    int<lower=0> N = N_obs;
+  }
+  
+  parameters {
+    real mu_zero;
+    real mu[N];
+    real<lower=0> precision_irregular;  // Precision (inverse of variance) of irregular component
+    real<lower=0> signal_to_noise;      // Signal-to-noise ratio
+  }
+  
+  transformed parameters {
+    real y[N]; 
+    real<lower=0> precision_level;      // Precision (inverse of variance) of level component
+    precision_level = precision_irregular / signal_to_noise;
+    y = y_obs;
+  }
+  
+  model {
+    // Priors
+    precision_irregular ~ gamma(0.12226583607586716, 0.00045956714931906674);
+    signal_to_noise     ~ gamma(0.021849423714506554, 0.22139882945664408);
+    mu_zero             ~ normal(0.35, 0.5);
+  
+    // initial state
+    mu[1] ~ normal(mu_zero, precision_level ^ (-0.5));  
+
+    // state equation
+    for(i in 2:N) {
+      mu[i] ~ normal(mu[i-1], precision_level ^ (-0.5));
+    }
+
+    // observation equation
+    for(i in 1:N) {
+      y[i] ~ normal(mu[i], precision_irregular ^ (-0.5));
+    }
+  }
