@@ -1,7 +1,0 @@
-\begin{tabular}{cccc}
-\toprule
-$\gamma$ &   $q$ & $\sigma^2_{\varepsilon}$ & $\omega$ \\
-\midrule
-   0.143 & 0.073 &                    0.015 &    0.236 \\
-\bottomrule
-\end{tabular}
