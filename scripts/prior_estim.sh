@@ -3,8 +3,9 @@
 #$ -m abe                 # Send mail when job begins, ends and aborts
 #$ -q long                # Specify queue
 #$ -pe smp 1              # Specify number of cores to use.
-#$ -N Step0-Estim         # Specify job name
+#$ -N Step1-Estim         # Specify job name
 
+module load python
 
 # Remove existing fixed data revisions 
 rm -r ../fixed_revisions/derived_data/dataset/
@@ -34,7 +35,6 @@ cp ../fixed_revisions/original_data/time_series_covid19_deaths_global.csv     ..
 cp ../fixed_revisions/original_data/time_series_covid19_recovered_global.csv  ../code/python/construct_dataset/input/
 cd ../code/python
 
-module load python
 python3 -W ignore -m construct_dataset.construct_dataset
 echo "Splicing database into subsets"
 python3 -W ignore -m construct_dataset.Build_parallel_datasets

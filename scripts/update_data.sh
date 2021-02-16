@@ -3,16 +3,16 @@
 #$ -m abe                 # Send mail when job begins, ends and aborts
 #$ -q long                # Specify queue
 #$ -pe smp 1              # Specify number of cores to use.
-#$ -N Update Data         # Specify job name
+#$ -N Step0-Estim         # Specify job name
 
-
+# load module
+module load python
 
 # Remove existing fixed data revisions (if any exist)
 rm -r ../fixed_revisions/original_data/
 mkdir ../fixed_revisions/original_data/
 
-# load module
-module load python
+
 
 # Update datasets
 echo "Downloading data"
