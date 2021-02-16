@@ -1,7 +1,0 @@
-\begin{tabular}{ll|llllll}
-\toprule
-No. Countries & Avg. Sample Size & Avg. Corr. &   P5 &  P25 &  P50 &  P75 &  P95 \\
-\midrule
-          108 &            42.14 &       0.80 & 0.14 & 0.78 & 0.89 & 0.95 & 0.99 \\
-\bottomrule
-\end{tabular}

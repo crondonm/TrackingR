@@ -1,1 +1,0 @@
-/opt/sge/crc/spool/d12chas400/job_scripts/105894: line 59: nosetests: command not found
