@@ -7,6 +7,7 @@
 
 
 echo "Updating Main Repository"
+cd ..
 git add -A 
 git commit -m "updated estimates"
 git push https://crondonm:nVg5U5UCaIxn@github.com/crondonm/TrackingR-Estimates.git
