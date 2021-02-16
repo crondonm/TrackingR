@@ -1,0 +1,4796 @@
+Loading python/3.7.3
+  Loading requirement: tcl/8.6.8 gcc/8.3.0
+Estimating R with STAN
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 37)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 59.04 seconds (Warm-up)
+               268.13 seconds (Sampling)
+               327.17 seconds (Total)
+
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 79.81 seconds (Warm-up)
+               387.74 seconds (Sampling)
+               467.55 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 63.85 seconds (Warm-up)
+               589.25 seconds (Sampling)
+               653.1 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:1 of 24000 iterations ended with a divergence (0.00417 %).
+WARNING:pystan:Try running with adapt_delta larger than 0.8 to remove the divergences.
+WARNING:pystan:8801 of 24000 iterations saturated the maximum tree depth of 10 (36.7 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0209
+WARNING:pystan:Chain 2: E-BFMI = 0.00318
+WARNING:pystan:Chain 3: E-BFMI = 0.00754
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 14.87 seconds (Warm-up)
+               52.25 seconds (Sampling)
+               67.12 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 15.24 seconds (Warm-up)
+               69.94 seconds (Sampling)
+               85.18 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 14.95 seconds (Warm-up)
+               74.22 seconds (Sampling)
+               89.17 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.0759
+WARNING:pystan:Chain 2: E-BFMI = 0.0856
+WARNING:pystan:Chain 3: E-BFMI = 0.0922
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 85.17 seconds (Warm-up)
+               283.21 seconds (Sampling)
+               368.38 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 88.9 seconds (Warm-up)
+               384.63 seconds (Sampling)
+               473.53 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 98.79 seconds (Warm-up)
+               516.63 seconds (Sampling)
+               615.42 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:8649 of 24000 iterations saturated the maximum tree depth of 10 (36 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0039
+WARNING:pystan:Chain 2: E-BFMI = 0.0255
+WARNING:pystan:Chain 3: E-BFMI = 0.00766
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: validate transformed params: precision_level is -nan, but must be greater than or equal to 0  (in 'unknown file name' at line 24)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 41.02 seconds (Warm-up)
+               178.51 seconds (Sampling)
+               219.53 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 42.57 seconds (Warm-up)
+               259.57 seconds (Sampling)
+               302.14 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 41.85 seconds (Warm-up)
+               288.15 seconds (Sampling)
+               330 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:686 of 24000 iterations saturated the maximum tree depth of 10 (2.86 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0136
+WARNING:pystan:Chain 2: E-BFMI = 0.0197
+WARNING:pystan:Chain 3: E-BFMI = 0.0223
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 37)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 37)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 30.3 seconds (Warm-up)
+               94.99 seconds (Sampling)
+               125.29 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 26.76 seconds (Warm-up)
+               110.9 seconds (Sampling)
+               137.66 seconds (Total)
+
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 29.62 seconds (Warm-up)
+               191.01 seconds (Sampling)
+               220.63 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:150 of 24000 iterations saturated the maximum tree depth of 10 (0.625 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0342
+WARNING:pystan:Chain 2: E-BFMI = 0.0212
+WARNING:pystan:Chain 3: E-BFMI = 0.029
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 79.87 seconds (Warm-up)
+               381.12 seconds (Sampling)
+               460.99 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 77.42 seconds (Warm-up)
+               582.97 seconds (Sampling)
+               660.39 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 79.53 seconds (Warm-up)
+               616.69 seconds (Sampling)
+               696.22 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:13957 of 24000 iterations saturated the maximum tree depth of 10 (58.2 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.00422
+WARNING:pystan:Chain 2: E-BFMI = 0.00554
+WARNING:pystan:Chain 3: E-BFMI = 0.00405
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 32)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 32)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: validate transformed params: precision_level is -nan, but must be greater than or equal to 0  (in 'unknown file name' at line 20)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 23.72 seconds (Warm-up)
+               84.42 seconds (Sampling)
+               108.14 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 21.94 seconds (Warm-up)
+               92.74 seconds (Sampling)
+               114.68 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 21.43 seconds (Warm-up)
+               109.47 seconds (Sampling)
+               130.9 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.0396
+WARNING:pystan:Chain 2: E-BFMI = 0.0339
+WARNING:pystan:Chain 3: E-BFMI = 0.0322
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 37)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0.01 seconds
+1000 transitions using 10 leapfrog steps per transition would take 100 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 10.38 seconds (Warm-up)
+               39.75 seconds (Sampling)
+               50.13 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 10.76 seconds (Warm-up)
+               46.81 seconds (Sampling)
+               57.57 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 10.71 seconds (Warm-up)
+               49.97 seconds (Sampling)
+               60.68 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.113
+WARNING:pystan:Chain 2: E-BFMI = 0.123
+WARNING:pystan:Chain 3: E-BFMI = 0.131
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 37)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 45.58 seconds (Warm-up)
+               131.59 seconds (Sampling)
+               177.17 seconds (Total)
+
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 45.26 seconds (Warm-up)
+               191.7 seconds (Sampling)
+               236.96 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 46.44 seconds (Warm-up)
+               225.29 seconds (Sampling)
+               271.73 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:24 of 24000 iterations saturated the maximum tree depth of 10 (0.1 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0251
+WARNING:pystan:Chain 2: E-BFMI = 0.0265
+WARNING:pystan:Chain 3: E-BFMI = 0.0308
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 34.18 seconds (Warm-up)
+               104.18 seconds (Sampling)
+               138.36 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 35.66 seconds (Warm-up)
+               148.21 seconds (Sampling)
+               183.87 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 34.25 seconds (Warm-up)
+               157.48 seconds (Sampling)
+               191.73 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:1 of 24000 iterations saturated the maximum tree depth of 10 (0.00417 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0558
+WARNING:pystan:Chain 2: E-BFMI = 0.05
+WARNING:pystan:Chain 3: E-BFMI = 0.0617
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.01 seconds
+1000 transitions using 10 leapfrog steps per transition would take 100 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 34.42 seconds (Warm-up)
+               30.59 seconds (Sampling)
+               65.01 seconds (Total)
+
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 47.44 seconds (Warm-up)
+               294.7 seconds (Sampling)
+               342.14 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 56.88 seconds (Warm-up)
+               302.18 seconds (Sampling)
+               359.06 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:6426 of 24000 iterations ended with a divergence (26.8 %).
+WARNING:pystan:Try running with adapt_delta larger than 0.8 to remove the divergences.
+WARNING:pystan:74 of 24000 iterations saturated the maximum tree depth of 10 (0.308 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0213
+WARNING:pystan:Chain 2: E-BFMI = 0.0207
+WARNING:pystan:Chain 3: E-BFMI = 0.0236
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 15.12 seconds (Warm-up)
+               57.93 seconds (Sampling)
+               73.05 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 14.27 seconds (Warm-up)
+               67.56 seconds (Sampling)
+               81.83 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 14.62 seconds (Warm-up)
+               70.3 seconds (Sampling)
+               84.92 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:1 of 24000 iterations saturated the maximum tree depth of 10 (0.00417 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0977
+WARNING:pystan:Chain 2: E-BFMI = 0.102
+WARNING:pystan:Chain 3: E-BFMI = 0.0987
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: validate transformed params: precision_level is -nan, but must be greater than or equal to 0  (in 'unknown file name' at line 20)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 84.94 seconds (Warm-up)
+               365.85 seconds (Sampling)
+               450.79 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 69.93 seconds (Warm-up)
+               405.41 seconds (Sampling)
+               475.34 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 93.01 seconds (Warm-up)
+               454.91 seconds (Sampling)
+               547.92 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:10307 of 24000 iterations saturated the maximum tree depth of 10 (42.9 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0114
+WARNING:pystan:Chain 2: E-BFMI = 0.00251
+WARNING:pystan:Chain 3: E-BFMI = 0.00202
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 40.08 seconds (Warm-up)
+               195.82 seconds (Sampling)
+               235.9 seconds (Total)
+
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 43.62 seconds (Warm-up)
+               203.33 seconds (Sampling)
+               246.95 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 45.72 seconds (Warm-up)
+               322.09 seconds (Sampling)
+               367.81 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:700 of 24000 iterations saturated the maximum tree depth of 10 (2.92 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0217
+WARNING:pystan:Chain 2: E-BFMI = 0.0156
+WARNING:pystan:Chain 3: E-BFMI = 0.0143
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 35.01 seconds (Warm-up)
+               87.47 seconds (Sampling)
+               122.48 seconds (Total)
+
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 31.74 seconds (Warm-up)
+               130.66 seconds (Sampling)
+               162.4 seconds (Total)
+
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 32.02 seconds (Warm-up)
+               277.7 seconds (Sampling)
+               309.72 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:1414 of 24000 iterations saturated the maximum tree depth of 10 (5.89 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0245
+WARNING:pystan:Chain 2: E-BFMI = 0.0238
+WARNING:pystan:Chain 3: E-BFMI = 0.0295
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 37)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 28.23 seconds (Warm-up)
+               105.11 seconds (Sampling)
+               133.34 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 30.34 seconds (Warm-up)
+               146.92 seconds (Sampling)
+               177.26 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 34.72 seconds (Warm-up)
+               143.53 seconds (Sampling)
+               178.25 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:7 of 24000 iterations saturated the maximum tree depth of 10 (0.0292 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0239
+WARNING:pystan:Chain 2: E-BFMI = 0.0157
+WARNING:pystan:Chain 3: E-BFMI = 0.0246
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 18.63 seconds (Warm-up)
+               68.82 seconds (Sampling)
+               87.45 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 17.19 seconds (Warm-up)
+               73.56 seconds (Sampling)
+               90.75 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 22.21 seconds (Warm-up)
+               77.06 seconds (Sampling)
+               99.27 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:2 of 24000 iterations saturated the maximum tree depth of 10 (0.00833 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0315
+WARNING:pystan:Chain 2: E-BFMI = 0.0466
+WARNING:pystan:Chain 3: E-BFMI = 0.0406
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.01 seconds
+1000 transitions using 10 leapfrog steps per transition would take 100 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: validate transformed params: precision_level is -nan, but must be greater than or equal to 0  (in 'unknown file name' at line 24)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 7.9 seconds (Warm-up)
+               34.89 seconds (Sampling)
+               42.79 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 7.78 seconds (Warm-up)
+               36.04 seconds (Sampling)
+               43.82 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 8.36 seconds (Warm-up)
+               35.74 seconds (Sampling)
+               44.1 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.152
+WARNING:pystan:Chain 2: E-BFMI = 0.139
+WARNING:pystan:Chain 3: E-BFMI = 0.125
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 37)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 31.72 seconds (Warm-up)
+               119.3 seconds (Sampling)
+               151.02 seconds (Total)
+
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 35.07 seconds (Warm-up)
+               220.87 seconds (Sampling)
+               255.94 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 37.36 seconds (Warm-up)
+               320.96 seconds (Sampling)
+               358.32 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:137 of 24000 iterations saturated the maximum tree depth of 10 (0.571 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.042
+WARNING:pystan:Chain 2: E-BFMI = 0.0509
+WARNING:pystan:Chain 3: E-BFMI = 0.0264
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: validate transformed params: precision_level is -nan, but must be greater than or equal to 0  (in 'unknown file name' at line 24)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 35.56 seconds (Warm-up)
+               116.9 seconds (Sampling)
+               152.46 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 31.21 seconds (Warm-up)
+               124.99 seconds (Sampling)
+               156.2 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 32.84 seconds (Warm-up)
+               138.65 seconds (Sampling)
+               171.49 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:1 of 24000 iterations saturated the maximum tree depth of 10 (0.00417 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0553
+WARNING:pystan:Chain 2: E-BFMI = 0.0673
+WARNING:pystan:Chain 3: E-BFMI = 0.0592
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 27.09 seconds (Warm-up)
+               100.15 seconds (Sampling)
+               127.24 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 32.62 seconds (Warm-up)
+               127.64 seconds (Sampling)
+               160.26 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 27.32 seconds (Warm-up)
+               152.62 seconds (Sampling)
+               179.94 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:2 of 24000 iterations saturated the maximum tree depth of 10 (0.00833 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0295
+WARNING:pystan:Chain 2: E-BFMI = 0.032
+WARNING:pystan:Chain 3: E-BFMI = 0.0273
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+
+Gradient evaluation took 0 seconds
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+Adjust your expectations accordingly!
+
+
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 32)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 13.59 seconds (Warm-up)
+               48.1 seconds (Sampling)
+               61.69 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 14.2 seconds (Warm-up)
+               52.7 seconds (Sampling)
+               66.9 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 14.62 seconds (Warm-up)
+               67.65 seconds (Sampling)
+               82.27 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.0952
+WARNING:pystan:Chain 2: E-BFMI = 0.108
+WARNING:pystan:Chain 3: E-BFMI = 0.111
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 32)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 32)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,Gradient evaluation took 0 seconds
+
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.Adjust your expectations accordingly!
+
+
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 83.14 seconds (Warm-up)
+               423.53 seconds (Sampling)
+               506.67 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 97.41 seconds (Warm-up)
+               421.21 seconds (Sampling)
+               518.62 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 81.67 seconds (Warm-up)
+               440.38 seconds (Sampling)
+               522.05 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:10738 of 24000 iterations saturated the maximum tree depth of 10 (44.7 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.00472
+WARNING:pystan:Chain 2: E-BFMI = 0.00495
+WARNING:pystan:Chain 3: E-BFMI = 0.00665
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 37)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 43.55 seconds (Warm-up)
+               113.23 seconds (Sampling)
+               156.78 seconds (Total)
+
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 42.8 seconds (Warm-up)
+               208.99 seconds (Sampling)
+               251.79 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 42.46 seconds (Warm-up)
+               230.84 seconds (Sampling)
+               273.3 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:201 of 24000 iterations saturated the maximum tree depth of 10 (0.838 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0217
+WARNING:pystan:Chain 2: E-BFMI = 0.0142
+WARNING:pystan:Chain 3: E-BFMI = 0.0174
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 37)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 28.86 seconds (Warm-up)
+               116.02 seconds (Sampling)
+               144.88 seconds (Total)
+
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 29.45 seconds (Warm-up)
+               188.95 seconds (Sampling)
+               218.4 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 30.25 seconds (Warm-up)
+               233.65 seconds (Sampling)
+               263.9 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:1451 of 24000 iterations saturated the maximum tree depth of 10 (6.05 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0268
+WARNING:pystan:Chain 2: E-BFMI = 0.0202
+WARNING:pystan:Chain 3: E-BFMI = 0.0214
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 23.14 seconds (Warm-up)
+               82.77 seconds (Sampling)
+               105.91 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 27.17 seconds (Warm-up)
+               95.58 seconds (Sampling)
+               122.75 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 23.42 seconds (Warm-up)
+               143.56 seconds (Sampling)
+               166.98 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:3 of 24000 iterations saturated the maximum tree depth of 10 (0.0125 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0433
+WARNING:pystan:Chain 2: E-BFMI = 0.038
+WARNING:pystan:Chain 3: E-BFMI = 0.0396
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 14.41 seconds (Warm-up)
+               62.64 seconds (Sampling)
+               77.05 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 16.99 seconds (Warm-up)
+               60.47 seconds (Sampling)
+               77.46 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 16.1 seconds (Warm-up)
+               62.93 seconds (Sampling)
+               79.03 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:1 of 24000 iterations saturated the maximum tree depth of 10 (0.00417 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0501
+WARNING:pystan:Chain 2: E-BFMI = 0.0416
+WARNING:pystan:Chain 3: E-BFMI = 0.0473
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0.01 seconds
+1000 transitions using 10 leapfrog steps per transition would take 100 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 37)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 7.84 seconds (Warm-up)
+               33.7 seconds (Sampling)
+               41.54 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 8.74 seconds (Warm-up)
+               34.78 seconds (Sampling)
+               43.52 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 7.9 seconds (Warm-up)
+               36.02 seconds (Sampling)
+               43.92 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.139
+WARNING:pystan:Chain 2: E-BFMI = 0.148
+WARNING:pystan:Chain 3: E-BFMI = 0.143
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 34.38 seconds (Warm-up)
+               138.67 seconds (Sampling)
+               173.05 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 28.86 seconds (Warm-up)
+               151.02 seconds (Sampling)
+               179.88 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 31.16 seconds (Warm-up)
+               175.49 seconds (Sampling)
+               206.65 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:5 of 24000 iterations saturated the maximum tree depth of 10 (0.0208 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0556
+WARNING:pystan:Chain 2: E-BFMI = 0.0562
+WARNING:pystan:Chain 3: E-BFMI = 0.052
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: validate transformed params: precision_level is -nan, but must be greater than or equal to 0  (in 'unknown file name' at line 24)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 37)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 29.92 seconds (Warm-up)
+               106.72 seconds (Sampling)
+               136.64 seconds (Total)
+
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 29.19 seconds (Warm-up)
+               141.2 seconds (Sampling)
+               170.39 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 29.43 seconds (Warm-up)
+               195.81 seconds (Sampling)
+               225.24 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:90 of 24000 iterations saturated the maximum tree depth of 10 (0.375 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0724
+WARNING:pystan:Chain 2: E-BFMI = 0.0927
+WARNING:pystan:Chain 3: E-BFMI = 0.08
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 37)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 22.07 seconds (Warm-up)
+               83.99 seconds (Sampling)
+               106.06 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 26.36 seconds (Warm-up)
+               84.56 seconds (Sampling)
+               110.92 seconds (Total)
+
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 23.23 seconds (Warm-up)
+               142.08 seconds (Sampling)
+               165.31 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.0413
+WARNING:pystan:Chain 2: E-BFMI = 0.039
+WARNING:pystan:Chain 3: E-BFMI = 0.0387
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 15.3 seconds (Warm-up)
+               58.87 seconds (Sampling)
+               74.17 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 15.28 seconds (Warm-up)
+               68.91 seconds (Sampling)
+               84.19 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 15.27 seconds (Warm-up)
+               69.61 seconds (Sampling)
+               84.88 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.128
+WARNING:pystan:Chain 2: E-BFMI = 0.11
+WARNING:pystan:Chain 3: E-BFMI = 0.101
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: validate transformed params: precision_level is -nan, but must be greater than or equal to 0  (in 'unknown file name' at line 20)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 55.67 seconds (Warm-up)
+               203.31 seconds (Sampling)
+               258.98 seconds (Total)
+
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 76.9 seconds (Warm-up)
+               368.38 seconds (Sampling)
+               445.28 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 90.08 seconds (Warm-up)
+               408.81 seconds (Sampling)
+               498.89 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:5645 of 24000 iterations saturated the maximum tree depth of 10 (23.5 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0169
+WARNING:pystan:Chain 2: E-BFMI = 0.00341
+WARNING:pystan:Chain 3: E-BFMI = 0.0184
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 43.42 seconds (Warm-up)
+               172.3 seconds (Sampling)
+               215.72 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 38.69 seconds (Warm-up)
+               204.22 seconds (Sampling)
+               242.91 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 41.35 seconds (Warm-up)
+               232.84 seconds (Sampling)
+               274.19 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:235 of 24000 iterations saturated the maximum tree depth of 10 (0.979 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0152
+WARNING:pystan:Chain 2: E-BFMI = 0.0114
+WARNING:pystan:Chain 3: E-BFMI = 0.0171
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: validate transformed params: precision_level is -nan, but must be greater than or equal to 0  (in 'unknown file name' at line 24)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 27.94 seconds (Warm-up)
+               79.94 seconds (Sampling)
+               107.88 seconds (Total)
+
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 33.39 seconds (Warm-up)
+               179.62 seconds (Sampling)
+               213.01 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 31.42 seconds (Warm-up)
+               210.23 seconds (Sampling)
+               241.65 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:677 of 24000 iterations saturated the maximum tree depth of 10 (2.82 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0192
+WARNING:pystan:Chain 2: E-BFMI = 0.0299
+WARNING:pystan:Chain 3: E-BFMI = 0.0177
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: validate transformed params: precision_level is -nan, but must be greater than or equal to 0  (in 'unknown file name' at line 24)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: validate transformed params: precision_level is -nan, but must be greater than or equal to 0  (in 'unknown file name' at line 24)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 19.64 seconds (Warm-up)
+               79.75 seconds (Sampling)
+               99.39 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 20.64 seconds (Warm-up)
+               81.7 seconds (Sampling)
+               102.34 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 19.77 seconds (Warm-up)
+               82.85 seconds (Sampling)
+               102.62 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.0498
+WARNING:pystan:Chain 2: E-BFMI = 0.0519
+WARNING:pystan:Chain 3: E-BFMI = 0.0418
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 14.11 seconds (Warm-up)
+               54.58 seconds (Sampling)
+               68.69 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 12.6 seconds (Warm-up)
+               57.35 seconds (Sampling)
+               69.95 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 12.89 seconds (Warm-up)
+               62.07 seconds (Sampling)
+               74.96 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.048
+WARNING:pystan:Chain 2: E-BFMI = 0.0579
+WARNING:pystan:Chain 3: E-BFMI = 0.0582
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 37)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 37)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 8.59 seconds (Warm-up)
+               34.36 seconds (Sampling)
+               42.95 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 8.35 seconds (Warm-up)
+               35.51 seconds (Sampling)
+               43.86 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 8.05 seconds (Warm-up)
+               36.34 seconds (Sampling)
+               44.39 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.152
+WARNING:pystan:Chain 2: E-BFMI = 0.156
+WARNING:pystan:Chain 3: E-BFMI = 0.165
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0.01 seconds
+1000 transitions using 10 leapfrog steps per transition would take 100 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 24.59 seconds (Warm-up)
+               89.41 seconds (Sampling)
+               114 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 25.89 seconds (Warm-up)
+               107.29 seconds (Sampling)
+               133.18 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 25.53 seconds (Warm-up)
+               107.05 seconds (Sampling)
+               132.58 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:3 of 24000 iterations saturated the maximum tree depth of 10 (0.0125 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.068
+WARNING:pystan:Chain 2: E-BFMI = 0.0623
+WARNING:pystan:Chain 3: E-BFMI = 0.0635
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: validate transformed params: precision_level is -nan, but must be greater than or equal to 0  (in 'unknown file name' at line 24)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: validate transformed params: precision_level is -nan, but must be greater than or equal to 0  (in 'unknown file name' at line 24)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 26.29 seconds (Warm-up)
+               89.09 seconds (Sampling)
+               115.38 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 26.88 seconds (Warm-up)
+               94.13 seconds (Sampling)
+               121.01 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 26.7 seconds (Warm-up)
+               110.07 seconds (Sampling)
+               136.77 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.0795
+WARNING:pystan:Chain 2: E-BFMI = 0.113
+WARNING:pystan:Chain 3: E-BFMI = 0.0958
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 18.76 seconds (Warm-up)
+               69.59 seconds (Sampling)
+               88.35 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 17.83 seconds (Warm-up)
+               73.56 seconds (Sampling)
+               91.39 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 16.04 seconds (Warm-up)
+               81.9 seconds (Sampling)
+               97.94 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.0464
+WARNING:pystan:Chain 2: E-BFMI = 0.0555
+WARNING:pystan:Chain 3: E-BFMI = 0.0472
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 32)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: validate transformed params: precision_level is -nan, but must be greater than or equal to 0  (in 'unknown file name' at line 20)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 14.68 seconds (Warm-up)
+               45.5 seconds (Sampling)
+               60.18 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 14.84 seconds (Warm-up)
+               63.45 seconds (Sampling)
+               78.29 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 14.03 seconds (Warm-up)
+               78.99 seconds (Sampling)
+               93.02 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:1 of 24000 iterations saturated the maximum tree depth of 10 (0.00417 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.117
+WARNING:pystan:Chain 2: E-BFMI = 0.11
+WARNING:pystan:Chain 3: E-BFMI = 0.1
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 56.2 seconds (Warm-up)
+               214.69 seconds (Sampling)
+               270.89 seconds (Total)
+
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 96.38 seconds (Warm-up)
+               359.23 seconds (Sampling)
+               455.61 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 92.42 seconds (Warm-up)
+               495.43 seconds (Sampling)
+               587.85 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:6987 of 24000 iterations saturated the maximum tree depth of 10 (29.1 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.00622
+WARNING:pystan:Chain 2: E-BFMI = 0.0186
+WARNING:pystan:Chain 3: E-BFMI = 0.00231
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: normal_lpdf: Scale parameter is 0, but must be > 0!  (in 'unknown file name' at line 37)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Iteration:    1 / 10000 [  0%]  (Warmup)
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 51.11 seconds (Warm-up)
+               117.62 seconds (Sampling)
+               168.73 seconds (Total)
+
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 44.15 seconds (Warm-up)
+               216.73 seconds (Sampling)
+               260.88 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 60.99 seconds (Warm-up)
+               213.9 seconds (Sampling)
+               274.89 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:188 of 24000 iterations saturated the maximum tree depth of 10 (0.783 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0207
+WARNING:pystan:Chain 2: E-BFMI = 0.017
+WARNING:pystan:Chain 3: E-BFMI = 0.0177
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 36.53 seconds (Warm-up)
+               85.95 seconds (Sampling)
+               122.48 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 35.95 seconds (Warm-up)
+               130.07 seconds (Sampling)
+               166.02 seconds (Total)
+
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 54.64 seconds (Warm-up)
+               452.43 seconds (Sampling)
+               507.07 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:2 of 24000 iterations ended with a divergence (0.00833 %).
+WARNING:pystan:Try running with adapt_delta larger than 0.8 to remove the divergences.
+WARNING:pystan:7067 of 24000 iterations saturated the maximum tree depth of 10 (29.4 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.00736
+WARNING:pystan:Chain 2: E-BFMI = 0.0263
+WARNING:pystan:Chain 3: E-BFMI = 0.0182
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 18.6 seconds (Warm-up)
+               61.14 seconds (Sampling)
+               79.74 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 18.17 seconds (Warm-up)
+               72.22 seconds (Sampling)
+               90.39 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 19.55 seconds (Warm-up)
+               74.49 seconds (Sampling)
+               94.04 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.0634
+WARNING:pystan:Chain 2: E-BFMI = 0.0554
+WARNING:pystan:Chain 3: E-BFMI = 0.0565
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 11.94 seconds (Warm-up)
+               54.71 seconds (Sampling)
+               66.65 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 11.76 seconds (Warm-up)
+               62.52 seconds (Sampling)
+               74.28 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 11.96 seconds (Warm-up)
+               63.29 seconds (Sampling)
+               75.25 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.0607
+WARNING:pystan:Chain 2: E-BFMI = 0.0642
+WARNING:pystan:Chain 3: E-BFMI = 0.0464
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 7.96 seconds (Warm-up)
+               31.54 seconds (Sampling)
+               39.5 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 7.56 seconds (Warm-up)
+               34.46 seconds (Sampling)
+               42.02 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 7.75 seconds (Warm-up)
+               35.87 seconds (Sampling)
+               43.62 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.157
+WARNING:pystan:Chain 2: E-BFMI = 0.169
+WARNING:pystan:Chain 3: E-BFMI = 0.185
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 22.38 seconds (Warm-up)
+               82.49 seconds (Sampling)
+               104.87 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 23.15 seconds (Warm-up)
+               87.26 seconds (Sampling)
+               110.41 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 23.79 seconds (Warm-up)
+               92.18 seconds (Sampling)
+               115.97 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:1 of 24000 iterations saturated the maximum tree depth of 10 (0.00417 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0632
+WARNING:pystan:Chain 2: E-BFMI = 0.068
+WARNING:pystan:Chain 3: E-BFMI = 0.0677
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 25.39 seconds (Warm-up)
+               102.76 seconds (Sampling)
+               128.15 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 24.79 seconds (Warm-up)
+               106.08 seconds (Sampling)
+               130.87 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 24.42 seconds (Warm-up)
+               125.05 seconds (Sampling)
+               149.47 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:27 of 24000 iterations saturated the maximum tree depth of 10 (0.113 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.103
+WARNING:pystan:Chain 2: E-BFMI = 0.115
+WARNING:pystan:Chain 3: E-BFMI = 0.105
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.01 seconds
+1000 transitions using 10 leapfrog steps per transition would take 100 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 13 seconds (Warm-up)
+               43.47 seconds (Sampling)
+               56.47 seconds (Total)
+
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 14.14 seconds (Warm-up)
+               62.57 seconds (Sampling)
+               76.71 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 14.93 seconds (Warm-up)
+               70.8 seconds (Sampling)
+               85.73 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.0733
+WARNING:pystan:Chain 2: E-BFMI = 0.0554
+WARNING:pystan:Chain 3: E-BFMI = 0.0732
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 15.07 seconds (Warm-up)
+               56.08 seconds (Sampling)
+               71.15 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 15.45 seconds (Warm-up)
+               67.46 seconds (Sampling)
+               82.91 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 15.45 seconds (Warm-up)
+               70.55 seconds (Sampling)
+               86 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.107
+WARNING:pystan:Chain 2: E-BFMI = 0.115
+WARNING:pystan:Chain 3: E-BFMI = 0.111
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 63.84 seconds (Warm-up)
+               219.53 seconds (Sampling)
+               283.37 seconds (Total)
+
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 75.88 seconds (Warm-up)
+               266.71 seconds (Sampling)
+               342.59 seconds (Total)
+
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 89.49 seconds (Warm-up)
+               482.44 seconds (Sampling)
+               571.93 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:4889 of 24000 iterations saturated the maximum tree depth of 10 (20.4 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0105
+WARNING:pystan:Chain 2: E-BFMI = 0.00494
+WARNING:pystan:Chain 3: E-BFMI = 0.0185
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 39.12 seconds (Warm-up)
+               186.69 seconds (Sampling)
+               225.81 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 49.97 seconds (Warm-up)
+               189.21 seconds (Sampling)
+               239.18 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 42.24 seconds (Warm-up)
+               209.06 seconds (Sampling)
+               251.3 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:125 of 24000 iterations saturated the maximum tree depth of 10 (0.521 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0183
+WARNING:pystan:Chain 2: E-BFMI = 0.018
+WARNING:pystan:Chain 3: E-BFMI = 0.014
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 32.52 seconds (Warm-up)
+               123.08 seconds (Sampling)
+               155.6 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 36.12 seconds (Warm-up)
+               151.31 seconds (Sampling)
+               187.43 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 31.83 seconds (Warm-up)
+               243.27 seconds (Sampling)
+               275.1 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:2 of 24000 iterations ended with a divergence (0.00833 %).
+WARNING:pystan:Try running with adapt_delta larger than 0.8 to remove the divergences.
+WARNING:pystan:1540 of 24000 iterations saturated the maximum tree depth of 10 (6.42 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.0173
+WARNING:pystan:Chain 2: E-BFMI = 0.00579
+WARNING:pystan:Chain 3: E-BFMI = 0.0179
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 17.72 seconds (Warm-up)
+               67.46 seconds (Sampling)
+               85.18 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 17.14 seconds (Warm-up)
+               79.09 seconds (Sampling)
+               96.23 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 16.2 seconds (Warm-up)
+               80.98 seconds (Sampling)
+               97.18 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.0629
+WARNING:pystan:Chain 2: E-BFMI = 0.0606
+WARNING:pystan:Chain 3: E-BFMI = 0.063
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 11.84 seconds (Warm-up)
+               52.94 seconds (Sampling)
+               64.78 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 11.96 seconds (Warm-up)
+               53.09 seconds (Sampling)
+               65.05 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 12.57 seconds (Warm-up)
+               56.89 seconds (Sampling)
+               69.46 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.0675
+WARNING:pystan:Chain 2: E-BFMI = 0.0663
+WARNING:pystan:Chain 3: E-BFMI = 0.0614
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: validate transformed params: precision_level is -nan, but must be greater than or equal to 0  (in 'unknown file name' at line 24)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 8.54 seconds (Warm-up)
+               31.36 seconds (Sampling)
+               39.9 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 7.99 seconds (Warm-up)
+               35.14 seconds (Sampling)
+               43.13 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 8.1 seconds (Warm-up)
+               36.64 seconds (Sampling)
+               44.74 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.16
+WARNING:pystan:Chain 2: E-BFMI = 0.155
+WARNING:pystan:Chain 3: E-BFMI = 0.176
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 22.15 seconds (Warm-up)
+               84.92 seconds (Sampling)
+               107.07 seconds (Total)
+
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 22.04 seconds (Warm-up)
+               85.33 seconds (Sampling)
+               107.37 seconds (Total)
+
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 21.71 seconds (Warm-up)
+               116.59 seconds (Sampling)
+               138.3 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:2 of 24000 iterations saturated the maximum tree depth of 10 (0.00833 %)
+WARNING:pystan:Run again with max_treedepth larger than 10 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.088
+WARNING:pystan:Chain 2: E-BFMI = 0.0794
+WARNING:pystan:Chain 3: E-BFMI = 0.087
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+
+Gradient evaluation took 0 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 10000 [  0%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 1000 / 10000 [ 10%]  (Warmup)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 2000 / 10000 [ 20%]  (Warmup)
+Iteration: 2001 / 10000 [ 20%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 3000 / 10000 [ 30%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 4000 / 10000 [ 40%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 5000 / 10000 [ 50%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 6000 / 10000 [ 60%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 7000 / 10000 [ 70%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 23.62 seconds (Warm-up)
+               85.25 seconds (Sampling)
+               108.87 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 8000 / 10000 [ 80%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 24.37 seconds (Warm-up)
+               96.17 seconds (Sampling)
+               120.54 seconds (Total)
+
+Iteration: 9000 / 10000 [ 90%]  (Sampling)
+Iteration: 10000 / 10000 [100%]  (Sampling)
+
+ Elapsed Time: 23.25 seconds (Warm-up)
+               124.45 seconds (Sampling)
+               147.7 seconds (Total)
+
+WARNING:pystan:n_eff / iter below 0.001 indicates that the effective sample size has likely been overestimated
+WARNING:pystan:Rhat above 1.1 or below 0.9 indicates that the chains very likely have not mixed
+WARNING:pystan:Chain 1: E-BFMI = 0.128
+WARNING:pystan:Chain 2: E-BFMI = 0.132
+WARNING:pystan:Chain 3: E-BFMI = 0.123
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model

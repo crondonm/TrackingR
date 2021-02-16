@@ -1,0 +1,15 @@
+Updating Main Repository
+warning: The behavior of 'git add --all (or -A)' with no path argument from a
+subdirectory of the tree will change in Git 2.0 and should not be used anymore.
+To add content for the whole tree, run:
+
+  git add --all :/
+  (or git add -A :/)
+
+To restrict the command to the current directory, run:
+
+  git add --all .
+  (or git add -A .)
+
+With the current Git version, the command is restricted to the current directory.
+
