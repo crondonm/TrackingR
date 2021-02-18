@@ -6,7 +6,7 @@ Suggested Citation: Arroyo-Marioli F, Bullano F, Kucinskas S, Rondón-Moreno C (
 
 ## Download Estimates (.CSV)
 
-We update the database daily (if possible). New estimates are available around 8:00 AM ET. Instructions for the database are available in the README file included in the folder "Latest Estimates". The stable link to the dataset is: https://github.com/crondonm/TrackingR/tree/main/Estimates-Database
+We update the database daily (if possible). New estimates are available around 8:00 AM ET. Instructions for the database are available in the README file included in the folder "Estimates-Database". The stable link to the dataset is: https://github.com/crondonm/TrackingR/tree/main/Estimates-Database
 
 
 ## Replication Code
