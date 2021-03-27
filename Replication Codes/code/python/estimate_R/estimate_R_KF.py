@@ -95,8 +95,8 @@ output_folder = './estimate_R/output/estimate_R_KF/'
 input_folder = './estimate_R/input/estimate_R_KF/'
 min_T = 20
 gamma = 1 / 7.0
-min_signal_to_noise = 1e-3
-max_signal_to_noise = 1e2
+min_signal_to_noise = 0.01
+max_signal_to_noise = 0.25
 days_infectious = 7 # Baseline for of duration of infectiousness
 
 ###############
