@@ -19,7 +19,7 @@ The original data are collected by the John Hopkins CSSE team and are publicly a
 
 ## Change Log
 
-* 26/3/2021: We have updated the estimation procedure to (i) use more informative priors; and (ii) allow for intra-week seasonality. With these changes, the estimates of R are substantially better behaved. 
+* 26/3/2021: We have updated the estimation procedure to (i) use more informative priors; and (ii) allow for intra-week seasonality. With these changes, we get estimates of R that are more consistent with the growth rate of infections seen in each country.
 
 ## Questions?
 
