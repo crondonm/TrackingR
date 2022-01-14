@@ -11,7 +11,7 @@ We try to update the database daily. However, as we add more and more datapoints
 
 ## Replication Code
 
-See README file for detailed instructions. 
+See [README](<Replication Codes/README.md>) file in  for detailed instructions. 
 
 ## Source of the Data
 
@@ -24,3 +24,22 @@ The original data are collected by the John Hopkins CSSE team and are publicly a
 ## Questions?
 
 You can write an email to simas [dot] kucinskas [at] hu [dash] berlin [dot] de – all comments and suggestions are most welcome.
+
+## Install Requirements
+
+Before installing, to use the most recent version of `pip` (21.3.1 at the time
+of this writing). To upgrade pip on a Linux system, run
+
+    sudo -H pip install --upgrade pip
+
+You could use a virtual environment, install the dependencies to your user or
+make a system-wide installation.
+To install all required dependencies to your current user, execute
+
+    pip install -r requirements.txt --upgrade --user
+
+If you want to install the dependencies system-wide, run
+
+    sudo -H pip install -r requirements.txt
+
+instead.
