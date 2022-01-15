@@ -21,6 +21,7 @@ url_deaths    = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/maste
 url_NPI       = 'https://raw.githubusercontent.com/ImperialCollegeLondon/covid19model/master/data/interventions.csv'
 url_mobility  = 'https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv'
 url_epiestim  = 'https://hsph-covid-study.s3.us-east-2.amazonaws.com/website_files/rt_table_export.csv.zip'
+url_tests     = 'https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/testing/covid-testing-all-observations.csv'
 
 ##################
 ## Dowload data ##
@@ -63,6 +64,21 @@ df.to_csv('{}/Global_Mobility_Report.csv'.format(output_folder), index = False)
 
 df = pd.read_csv(url_epiestim)
 df.to_csv('{}/R_EpiEstim.csv'.format(output_folder), index = False)
+
+####################################
+## Our World in Data Testing Data ##
+####################################
+
+df = pd.read_csv(url_tests)
+df.rename(columns={
+    "ISO code": "Code",
+    "Date": "Day",
+    "Daily change in cumulative total per thousand": "new_tests_per_thousand",
+    }, inplace=True)
+df[['Entity', '142606-annotations']] = df['Entity'].str.split(' - ', expand=True)
+df = df[["Entity", "Code", "Day", "new_tests_per_thousand", "142606-annotations"]] 
+df = df.dropna()
+df.to_csv('{}/full-list-daily-covid-19-tests-per-thousand.csv'.format(output_folder), index = False)
 
 ######################
 ## Data description ##
