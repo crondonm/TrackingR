@@ -6,7 +6,10 @@ Suggested Citation: Arroyo-Marioli F, Bullano F, Kucinskas S, Rondón-Moreno C (
 
 # Changes
 
-As of 2/7/2022, we are uploading a separate database for each serial interval option. The file "Database_X" contains the Rt estimates for a serial interval to X days.
+As of 2/7/2022, we are uploading a separate database for each serial interval option: 
+
+  - The file "Database_X" contains the Rt estimates for a serial interval to X days.
+  - The file "Database" contains the whole set of estimates.
 
 ## Variables Included
 
@@ -37,4 +40,4 @@ The original data are collected by the John Hopkins CSSE team and are publicly a
 
 ## Questions?
 
-You can write an email to simas [dot] kucinskas [at] hu [dash] berlin [dot] de – all comments and suggestions are most welcome.
+You can write an email to simas [dot] kucinskas [at] hu [dash] berlin [dot] de –or to - crondonm [at] pm [dot] me -- all comments and suggestions are most welcome.
