@@ -4,6 +4,10 @@ Authors: Francisco Arroyo, Francisco Bullano, Simas Kucinskas, and Carlos Rondó
 
 Suggested Citation: Arroyo-Marioli F, Bullano F, Kucinskas S, Rondón-Moreno C (2021) Tracking R of COVID-19: A new real-time estimation using the Kalman filter. PLoS ONE 16(1): e0244474. https://doi.org/10.1371/journal.pone.0244474
 
+# Changes
+
+As of 2/7/2022, we are uploading a separate database for each serial interval option. The file "Database_X" contains the Rt estimates for a serial interval to X days.
+
 ## Variables Included
 
 Country/Region
