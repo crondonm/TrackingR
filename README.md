@@ -25,7 +25,7 @@ The original data are collected by the John Hopkins CSSE team and are publicly a
 
 ## Questions?
 
-You can write an email to simas [dot] kucinskas [at] hu [dash] berlin [dot] de  or to crondonm [at] pm [dot] me - all comments and suggestions are most welcome.
+You can write an email to simas [dot] kucinskas [at] hu [dash] berlin [dot] de  - or to - crondonm [at] pm [dot] me - all comments and suggestions are most welcome.
 
 ## Install Requirements
 
