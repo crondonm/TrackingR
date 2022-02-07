@@ -9,6 +9,8 @@ Suggested citation: Arroyo-Marioli F, Bullano F, Kucinskas S, Rondón-Moreno C (
 
 We try to update the database daily. However, as we add more and more datapoints, the computation takes longer. Currently, it takes about 24 hours to compute the new set of estimates. If you see a delay of three or more days, please let us know as this is probably due a to a technical issue with our GitHub repository. Instructions for the database are available in the README file included in the folder "Estimates-Database". The stable link to the dataset is: https://github.com/crondonm/TrackingR/tree/main/Estimates-Database
 
+Currently we provide several files to download. The file "Database.csv" includes the whole set of estimates for each serial interval option. Each of the files called "Database_X" contains the estimates calculated setting the serial interval equal to X".
+
 ## Replication Code
 
 See [README](<Replication Codes/README.md>) file in  for detailed instructions. 
