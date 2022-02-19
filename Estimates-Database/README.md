@@ -8,7 +8,7 @@ Suggested Citation: Arroyo-Marioli F, Bullano F, Kucinskas S, Rondón-Moreno C (
 
 As of 2/7/2022, we are uploading a separate database for each serial interval option: 
 
-  - The file "Database_X" contains the Rt estimates for a serial interval to X days.
+  - The file "Database_X" contains the Rt estimates for a serial interval equal to X days.
   - The file "Database" contains the whole set of estimates.
 
 ## Variables Included
